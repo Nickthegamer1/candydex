@@ -1,0 +1,1802 @@
+[
+  {
+    "id": "001",
+    "name": "Almond Pattie",
+    "emoji": "\ud83c\udf69",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "002",
+    "name": "Marshmallow Ball",
+    "emoji": "\ud83c\udf6a",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "003",
+    "name": "Tropical Punch Praline",
+    "emoji": "\ud83c\udf6b",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "004",
+    "name": "Watermelon Truffle",
+    "emoji": "\ud83e\uddc3",
+    "rarity": "Common"
+  },
+  {
+    "id": "005",
+    "name": "Rocky Road Bonbon",
+    "emoji": "\ud83e\uddc3",
+    "rarity": "Legendary"
+  },
+  {
+    "id": "006",
+    "name": "Cherry Log",
+    "emoji": "\ud83c\udf69",
+    "rarity": "Common"
+  },
+  {
+    "id": "007",
+    "name": "Blue Raspberry Pop",
+    "emoji": "\ud83e\uddc1",
+    "rarity": "Epic"
+  },
+  {
+    "id": "008",
+    "name": "Birthday Cake Puff",
+    "emoji": "\ud83c\udf69",
+    "rarity": "Common"
+  },
+  {
+    "id": "009",
+    "name": "Spiced Pumpkin Taffy",
+    "emoji": "\ud83c\udf6d",
+    "rarity": "Rare"
+  },
+  {
+    "id": "010",
+    "name": "Hazelnut Stick",
+    "emoji": "\ud83c\udf61",
+    "rarity": "Rare"
+  },
+  {
+    "id": "011",
+    "name": "Marshmallow Fudge Square",
+    "emoji": "\ud83c\udf6d",
+    "rarity": "Common"
+  },
+  {
+    "id": "012",
+    "name": "Dark Chocolate Stick",
+    "emoji": "\ud83e\uddc3",
+    "rarity": "Epic"
+  },
+  {
+    "id": "013",
+    "name": "Cola Lollipop",
+    "emoji": "\ud83c\udf6f",
+    "rarity": "Common"
+  },
+  {
+    "id": "014",
+    "name": "Marshmallow Bite",
+    "emoji": "\ud83c\udf6a",
+    "rarity": "Epic"
+  },
+  {
+    "id": "015",
+    "name": "Maple Fudge Square",
+    "emoji": "\ud83e\uddc3",
+    "rarity": "Common"
+  },
+  {
+    "id": "016",
+    "name": "Peanut Butter Cane",
+    "emoji": "\ud83e\uddc1",
+    "rarity": "Common"
+  },
+  {
+    "id": "017",
+    "name": "Apple Cider Bar",
+    "emoji": "\ud83c\udf6f",
+    "rarity": "Common"
+  },
+  {
+    "id": "018",
+    "name": "Candy Cane Log",
+    "emoji": "\ud83c\udf61",
+    "rarity": "Rare"
+  },
+  {
+    "id": "019",
+    "name": "Butterscotch Puff",
+    "emoji": "\ud83c\udf6a",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "020",
+    "name": "Salted Caramel Drop",
+    "emoji": "\ud83e\uddc1",
+    "rarity": "Common"
+  },
+  {
+    "id": "021",
+    "name": "Dark Chocolate Wafer",
+    "emoji": "\ud83c\udf61",
+    "rarity": "Epic"
+  },
+  {
+    "id": "022",
+    "name": "Mint Chocolate Ball",
+    "emoji": "\ud83e\uddc3",
+    "rarity": "Common"
+  },
+  {
+    "id": "023",
+    "name": "Raspberry Gumdrop",
+    "emoji": "\ud83e\uddc1",
+    "rarity": "Common"
+  },
+  {
+    "id": "024",
+    "name": "Pumpkin Spice Twist",
+    "emoji": "\ud83c\udf6d",
+    "rarity": "Legendary"
+  },
+  {
+    "id": "025",
+    "name": "Blue Raspberry Kiss",
+    "emoji": "\ud83c\udf6a",
+    "rarity": "Common"
+  },
+  {
+    "id": "026",
+    "name": "Cherry Bonbon",
+    "emoji": "\ud83c\udf69",
+    "rarity": "Common"
+  },
+  {
+    "id": "027",
+    "name": "Vanilla Chew",
+    "emoji": "\ud83c\udf6d",
+    "rarity": "Common"
+  },
+  {
+    "id": "028",
+    "name": "Lemon Bite",
+    "emoji": "\ud83c\udf6d",
+    "rarity": "Common"
+  },
+  {
+    "id": "029",
+    "name": "Caramel Log",
+    "emoji": "\ud83c\udf6c",
+    "rarity": "Rare"
+  },
+  {
+    "id": "030",
+    "name": "Lemon Twist",
+    "emoji": "\ud83c\udf6c",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "031",
+    "name": "Apple Cider Caramel Chew",
+    "emoji": "\ud83c\udf6a",
+    "rarity": "Rare"
+  },
+  {
+    "id": "032",
+    "name": "Grape Bean",
+    "emoji": "\ud83c\udf6b",
+    "rarity": "Common"
+  },
+  {
+    "id": "033",
+    "name": "Orange Wafer",
+    "emoji": "\ud83c\udf6a",
+    "rarity": "Common"
+  },
+  {
+    "id": "034",
+    "name": "Blue Raspberry Wafer",
+    "emoji": "\ud83c\udf6d",
+    "rarity": "Common"
+  },
+  {
+    "id": "035",
+    "name": "Watermelon Ring",
+    "emoji": "\ud83e\uddc3",
+    "rarity": "Common"
+  },
+  {
+    "id": "036",
+    "name": "Espresso Button",
+    "emoji": "\ud83c\udf6c",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "037",
+    "name": "Coconut Puff",
+    "emoji": "\ud83c\udf6c",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "038",
+    "name": "Rocky Road Cup",
+    "emoji": "\ud83c\udf6d",
+    "rarity": "Common"
+  },
+  {
+    "id": "039",
+    "name": "Cookies & Cream Bar",
+    "emoji": "\ud83c\udf6b",
+    "rarity": "Common"
+  },
+  {
+    "id": "040",
+    "name": "Root Beer Crisp",
+    "emoji": "\ud83e\uddc1",
+    "rarity": "Common"
+  },
+  {
+    "id": "041",
+    "name": "Maple Pecan Drop",
+    "emoji": "\ud83e\uddc1",
+    "rarity": "Common"
+  },
+  {
+    "id": "042",
+    "name": "Caramel Twist",
+    "emoji": "\ud83c\udf6b",
+    "rarity": "Common"
+  },
+  {
+    "id": "043",
+    "name": "Root Beer Pattie",
+    "emoji": "\ud83c\udf6a",
+    "rarity": "Common"
+  },
+  {
+    "id": "044",
+    "name": "Maple Rope",
+    "emoji": "\ud83c\udf6c",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "045",
+    "name": "Butterscotch Pop",
+    "emoji": "\ud83c\udf61",
+    "rarity": "Rare"
+  },
+  {
+    "id": "046",
+    "name": "Lemon Gumdrop",
+    "emoji": "\ud83c\udf6d",
+    "rarity": "Common"
+  },
+  {
+    "id": "047",
+    "name": "Caramel Cup",
+    "emoji": "\ud83c\udf6c",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "048",
+    "name": "Dark Chocolate Gumdrop",
+    "emoji": "\ud83c\udf61",
+    "rarity": "Rare"
+  },
+  {
+    "id": "049",
+    "name": "Grape Caramel Chew",
+    "emoji": "\ud83c\udf61",
+    "rarity": "Common"
+  },
+  {
+    "id": "050",
+    "name": "Tropical Punch Bite",
+    "emoji": "\ud83c\udf69",
+    "rarity": "Common"
+  },
+  {
+    "id": "051",
+    "name": "Peanut Butter Log",
+    "emoji": "\ud83c\udf6b",
+    "rarity": "Rare"
+  },
+  {
+    "id": "052",
+    "name": "Cola Wafer",
+    "emoji": "\ud83c\udf6c",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "053",
+    "name": "Maple Disc",
+    "emoji": "\ud83c\udf6f",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "054",
+    "name": "Cherry Praline",
+    "emoji": "\ud83c\udf69",
+    "rarity": "Common"
+  },
+  {
+    "id": "055",
+    "name": "Candy Cane Ball",
+    "emoji": "\ud83c\udf69",
+    "rarity": "Common"
+  },
+  {
+    "id": "056",
+    "name": "Cherry Coin",
+    "emoji": "\ud83c\udf6b",
+    "rarity": "Common"
+  },
+  {
+    "id": "057",
+    "name": "Orange Twist",
+    "emoji": "\ud83e\uddc1",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "058",
+    "name": "Brown Butter Disc",
+    "emoji": "\ud83c\udf6f",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "059",
+    "name": "Maple Cup",
+    "emoji": "\ud83c\udf6c",
+    "rarity": "Common"
+  },
+  {
+    "id": "060",
+    "name": "Lemon Cluster",
+    "emoji": "\ud83c\udf6d",
+    "rarity": "Common"
+  },
+  {
+    "id": "061",
+    "name": "Vanilla Square",
+    "emoji": "\ud83e\uddc3",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "062",
+    "name": "Sour Apple Chew",
+    "emoji": "\ud83c\udf6d",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "063",
+    "name": "Dark Chocolate Pattie",
+    "emoji": "\ud83c\udf69",
+    "rarity": "Rare"
+  },
+  {
+    "id": "064",
+    "name": "Espresso Rope",
+    "emoji": "\ud83c\udf6d",
+    "rarity": "Common"
+  },
+  {
+    "id": "065",
+    "name": "Caramel Pop",
+    "emoji": "\ud83e\uddc1",
+    "rarity": "Common"
+  },
+  {
+    "id": "066",
+    "name": "Raspberry Stick",
+    "emoji": "\ud83e\uddc1",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "067",
+    "name": "Espresso Kiss",
+    "emoji": "\ud83e\uddc3",
+    "rarity": "Rare"
+  },
+  {
+    "id": "068",
+    "name": "Fudge Brownie Ring",
+    "emoji": "\ud83c\udf6f",
+    "rarity": "Rare"
+  },
+  {
+    "id": "069",
+    "name": "Butterscotch Bean",
+    "emoji": "\ud83c\udf6c",
+    "rarity": "Rare"
+  },
+  {
+    "id": "070",
+    "name": "Rocky Road Taffy",
+    "emoji": "\ud83e\uddc1",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "071",
+    "name": "Cookies & Cream Bean",
+    "emoji": "\ud83c\udf6b",
+    "rarity": "Rare"
+  },
+  {
+    "id": "072",
+    "name": "Peanut Butter Gumdrop",
+    "emoji": "\ud83e\uddc3",
+    "rarity": "Rare"
+  },
+  {
+    "id": "073",
+    "name": "Cinnamon Cup",
+    "emoji": "\ud83c\udf6b",
+    "rarity": "Rare"
+  },
+  {
+    "id": "074",
+    "name": "Pineapple Fudge Square",
+    "emoji": "\ud83c\udf6f",
+    "rarity": "Common"
+  },
+  {
+    "id": "075",
+    "name": "Dark Chocolate Chew",
+    "emoji": "\ud83e\uddc3",
+    "rarity": "Common"
+  },
+  {
+    "id": "076",
+    "name": "Orange Stick",
+    "emoji": "\ud83e\uddc1",
+    "rarity": "Common"
+  },
+  {
+    "id": "077",
+    "name": "Sour Apple Button",
+    "emoji": "\ud83c\udf69",
+    "rarity": "Common"
+  },
+  {
+    "id": "078",
+    "name": "Grape Lollipop",
+    "emoji": "\ud83c\udf61",
+    "rarity": "Rare"
+  },
+  {
+    "id": "079",
+    "name": "Honey Praline",
+    "emoji": "\ud83e\uddc1",
+    "rarity": "Common"
+  },
+  {
+    "id": "080",
+    "name": "Peanut Butter Puff",
+    "emoji": "\ud83c\udf6a",
+    "rarity": "Common"
+  },
+  {
+    "id": "081",
+    "name": "Tropical Punch Fudge Square",
+    "emoji": "\ud83c\udf6c",
+    "rarity": "Rare"
+  },
+  {
+    "id": "082",
+    "name": "Pineapple Cup",
+    "emoji": "\ud83c\udf6a",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "083",
+    "name": "Tropical Punch Jelly Bean",
+    "emoji": "\ud83c\udf6b",
+    "rarity": "Common"
+  },
+  {
+    "id": "084",
+    "name": "Sour Apple Disc",
+    "emoji": "\ud83c\udf6b",
+    "rarity": "Common"
+  },
+  {
+    "id": "085",
+    "name": "Peanut Butter Bite",
+    "emoji": "\ud83c\udf6b",
+    "rarity": "Epic"
+  },
+  {
+    "id": "086",
+    "name": "Spiced Pumpkin Bean",
+    "emoji": "\ud83c\udf6a",
+    "rarity": "Common"
+  },
+  {
+    "id": "087",
+    "name": "Salted Caramel Bark",
+    "emoji": "\ud83c\udf69",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "088",
+    "name": "Raspberry Puff",
+    "emoji": "\ud83c\udf6c",
+    "rarity": "Epic"
+  },
+  {
+    "id": "089",
+    "name": "Tropical Punch Stick",
+    "emoji": "\ud83c\udf6f",
+    "rarity": "Common"
+  },
+  {
+    "id": "090",
+    "name": "Candy Cane Praline",
+    "emoji": "\ud83c\udf6a",
+    "rarity": "Epic"
+  },
+  {
+    "id": "091",
+    "name": "Milk Chocolate Crisp",
+    "emoji": "\ud83c\udf6f",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "092",
+    "name": "Toffee Truffle",
+    "emoji": "\ud83c\udf6c",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "093",
+    "name": "Coconut Wafer",
+    "emoji": "\ud83c\udf61",
+    "rarity": "Common"
+  },
+  {
+    "id": "094",
+    "name": "Marshmallow Cup",
+    "emoji": "\ud83e\uddc1",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "095",
+    "name": "Marshmallow Pattie",
+    "emoji": "\ud83c\udf61",
+    "rarity": "Common"
+  },
+  {
+    "id": "096",
+    "name": "Milk Chocolate Nugget",
+    "emoji": "\ud83c\udf6a",
+    "rarity": "Rare"
+  },
+  {
+    "id": "097",
+    "name": "Butterscotch Log",
+    "emoji": "\ud83c\udf6a",
+    "rarity": "Common"
+  },
+  {
+    "id": "098",
+    "name": "Root Beer Ring",
+    "emoji": "\ud83c\udf61",
+    "rarity": "Rare"
+  },
+  {
+    "id": "099",
+    "name": "Sour Apple Lollipop",
+    "emoji": "\ud83c\udf6c",
+    "rarity": "Common"
+  },
+  {
+    "id": "100",
+    "name": "Vanilla Bar",
+    "emoji": "\ud83c\udf6b",
+    "rarity": "Common"
+  },
+  {
+    "id": "101",
+    "name": "Almond Gumdrop",
+    "emoji": "\ud83c\udf6b",
+    "rarity": "Common"
+  },
+  {
+    "id": "102",
+    "name": "Butterscotch Drop",
+    "emoji": "\ud83c\udf6a",
+    "rarity": "Common"
+  },
+  {
+    "id": "103",
+    "name": "Dark Chocolate Caramel Chew",
+    "emoji": "\ud83c\udf6b",
+    "rarity": "Common"
+  },
+  {
+    "id": "104",
+    "name": "White Chocolate Taffy",
+    "emoji": "\ud83e\uddc3",
+    "rarity": "Rare"
+  },
+  {
+    "id": "105",
+    "name": "Cinnamon Cane",
+    "emoji": "\ud83c\udf6a",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "106",
+    "name": "Dark Chocolate Twist",
+    "emoji": "\ud83c\udf6c",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "107",
+    "name": "S'mores Fudge Square",
+    "emoji": "\ud83c\udf61",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "108",
+    "name": "Birthday Cake Caramel Chew",
+    "emoji": "\ud83c\udf69",
+    "rarity": "Common"
+  },
+  {
+    "id": "109",
+    "name": "Root Beer Drop",
+    "emoji": "\ud83c\udf69",
+    "rarity": "Common"
+  },
+  {
+    "id": "110",
+    "name": "Raspberry Cane",
+    "emoji": "\ud83c\udf6d",
+    "rarity": "Rare"
+  },
+  {
+    "id": "111",
+    "name": "Banana Cream Praline",
+    "emoji": "\ud83c\udf6a",
+    "rarity": "Rare"
+  },
+  {
+    "id": "112",
+    "name": "Watermelon Lollipop",
+    "emoji": "\ud83c\udf6b",
+    "rarity": "Common"
+  },
+  {
+    "id": "113",
+    "name": "Grape Pop",
+    "emoji": "\ud83c\udf6c",
+    "rarity": "Common"
+  },
+  {
+    "id": "114",
+    "name": "White Chocolate Rope",
+    "emoji": "\ud83e\uddc1",
+    "rarity": "Common"
+  },
+  {
+    "id": "115",
+    "name": "Cookies & Cream Chew",
+    "emoji": "\ud83e\uddc1",
+    "rarity": "Rare"
+  },
+  {
+    "id": "116",
+    "name": "Butterscotch Square",
+    "emoji": "\ud83c\udf6c",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "117",
+    "name": "Lemon Bark",
+    "emoji": "\ud83c\udf61",
+    "rarity": "Common"
+  },
+  {
+    "id": "118",
+    "name": "Espresso Bark",
+    "emoji": "\ud83c\udf69",
+    "rarity": "Rare"
+  },
+  {
+    "id": "119",
+    "name": "Milk Chocolate Bonbon",
+    "emoji": "\ud83e\uddc1",
+    "rarity": "Epic"
+  },
+  {
+    "id": "120",
+    "name": "Apple Cider Jelly Bean",
+    "emoji": "\ud83c\udf6d",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "121",
+    "name": "Hazelnut Button",
+    "emoji": "\ud83e\uddc3",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "122",
+    "name": "Candy Cane Stick",
+    "emoji": "\ud83c\udf6f",
+    "rarity": "Common"
+  },
+  {
+    "id": "123",
+    "name": "Strawberry Praline",
+    "emoji": "\ud83c\udf69",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "124",
+    "name": "Hazelnut Coin",
+    "emoji": "\ud83c\udf6b",
+    "rarity": "Common"
+  },
+  {
+    "id": "125",
+    "name": "Brown Butter Ball",
+    "emoji": "\ud83c\udf61",
+    "rarity": "Common"
+  },
+  {
+    "id": "126",
+    "name": "Mint Chocolate Coin",
+    "emoji": "\ud83c\udf6a",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "127",
+    "name": "Fudge Brownie Caramel Chew",
+    "emoji": "\ud83c\udf69",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "128",
+    "name": "S'mores Wafer",
+    "emoji": "\ud83e\uddc1",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "129",
+    "name": "Orange Taffy",
+    "emoji": "\ud83c\udf6d",
+    "rarity": "Common"
+  },
+  {
+    "id": "130",
+    "name": "Peanut Butter Cup",
+    "emoji": "\ud83c\udf69",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "131",
+    "name": "Pumpkin Spice Cluster",
+    "emoji": "\ud83e\uddc3",
+    "rarity": "Rare"
+  },
+  {
+    "id": "132",
+    "name": "Cinnamon Taffy",
+    "emoji": "\ud83c\udf6d",
+    "rarity": "Legendary"
+  },
+  {
+    "id": "133",
+    "name": "Lemon Nugget",
+    "emoji": "\ud83c\udf69",
+    "rarity": "Rare"
+  },
+  {
+    "id": "134",
+    "name": "S'mores Log",
+    "emoji": "\ud83c\udf6a",
+    "rarity": "Rare"
+  },
+  {
+    "id": "135",
+    "name": "Strawberry Bar",
+    "emoji": "\ud83c\udf6d",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "136",
+    "name": "Maple Coin",
+    "emoji": "\ud83c\udf6d",
+    "rarity": "Common"
+  },
+  {
+    "id": "137",
+    "name": "Fudge Brownie Chew",
+    "emoji": "\ud83e\uddc3",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "138",
+    "name": "Maple Pecan Button",
+    "emoji": "\ud83e\uddc3",
+    "rarity": "Rare"
+  },
+  {
+    "id": "139",
+    "name": "Caramel Crisp",
+    "emoji": "\ud83c\udf6a",
+    "rarity": "Rare"
+  },
+  {
+    "id": "140",
+    "name": "Toffee Puff",
+    "emoji": "\ud83c\udf61",
+    "rarity": "Rare"
+  },
+  {
+    "id": "141",
+    "name": "Almond Kiss",
+    "emoji": "\ud83c\udf6f",
+    "rarity": "Common"
+  },
+  {
+    "id": "142",
+    "name": "Cola Nugget",
+    "emoji": "\ud83c\udf6c",
+    "rarity": "Common"
+  },
+  {
+    "id": "143",
+    "name": "Rocky Road Pattie",
+    "emoji": "\ud83c\udf6a",
+    "rarity": "Epic"
+  },
+  {
+    "id": "144",
+    "name": "S'mores Ring",
+    "emoji": "\ud83c\udf6d",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "145",
+    "name": "Cookies & Cream Lollipop",
+    "emoji": "\ud83c\udf61",
+    "rarity": "Common"
+  },
+  {
+    "id": "146",
+    "name": "Banana Cream Wafer",
+    "emoji": "\ud83c\udf69",
+    "rarity": "Common"
+  },
+  {
+    "id": "147",
+    "name": "Strawberry Puff",
+    "emoji": "\ud83c\udf61",
+    "rarity": "Common"
+  },
+  {
+    "id": "148",
+    "name": "Marshmallow Jelly Bean",
+    "emoji": "\ud83c\udf61",
+    "rarity": "Common"
+  },
+  {
+    "id": "149",
+    "name": "Strawberry Taffy",
+    "emoji": "\ud83c\udf6a",
+    "rarity": "Common"
+  },
+  {
+    "id": "150",
+    "name": "Cinnamon Bean",
+    "emoji": "\ud83c\udf6d",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "151",
+    "name": "Mint Chocolate Cluster",
+    "emoji": "\ud83c\udf6c",
+    "rarity": "Common"
+  },
+  {
+    "id": "152",
+    "name": "Strawberry Cup",
+    "emoji": "\ud83c\udf6b",
+    "rarity": "Common"
+  },
+  {
+    "id": "153",
+    "name": "Raspberry Crisp",
+    "emoji": "\ud83c\udf6f",
+    "rarity": "Common"
+  },
+  {
+    "id": "154",
+    "name": "Cherry Pattie",
+    "emoji": "\ud83c\udf6c",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "155",
+    "name": "Toffee Disc",
+    "emoji": "\ud83c\udf6a",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "156",
+    "name": "Root Beer Caramel Chew",
+    "emoji": "\ud83c\udf6d",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "157",
+    "name": "Cookies & Cream Fudge Square",
+    "emoji": "\ud83c\udf6b",
+    "rarity": "Epic"
+  },
+  {
+    "id": "158",
+    "name": "S'mores Rope",
+    "emoji": "\ud83e\uddc1",
+    "rarity": "Common"
+  },
+  {
+    "id": "159",
+    "name": "Pineapple Coin",
+    "emoji": "\ud83c\udf6b",
+    "rarity": "Rare"
+  },
+  {
+    "id": "160",
+    "name": "Cotton Candy Bark",
+    "emoji": "\ud83e\uddc1",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "161",
+    "name": "Rocky Road Brittle",
+    "emoji": "\ud83c\udf6a",
+    "rarity": "Common"
+  },
+  {
+    "id": "162",
+    "name": "Birthday Cake Bite",
+    "emoji": "\ud83e\uddc3",
+    "rarity": "Common"
+  },
+  {
+    "id": "163",
+    "name": "Pumpkin Spice Bark",
+    "emoji": "\ud83c\udf6b",
+    "rarity": "Common"
+  },
+  {
+    "id": "164",
+    "name": "Watermelon Bark",
+    "emoji": "\ud83e\uddc3",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "165",
+    "name": "Butterscotch Bar",
+    "emoji": "\ud83e\uddc3",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "166",
+    "name": "Banana Cream Brittle",
+    "emoji": "\ud83c\udf6c",
+    "rarity": "Epic"
+  },
+  {
+    "id": "167",
+    "name": "Candy Cane Chew",
+    "emoji": "\ud83c\udf6c",
+    "rarity": "Common"
+  },
+  {
+    "id": "168",
+    "name": "Cinnamon Wafer",
+    "emoji": "\ud83c\udf61",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "169",
+    "name": "Caramel Lollipop",
+    "emoji": "\ud83c\udf6c",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "170",
+    "name": "Raspberry Nugget",
+    "emoji": "\ud83e\uddc1",
+    "rarity": "Common"
+  },
+  {
+    "id": "171",
+    "name": "Sour Apple Fudge Square",
+    "emoji": "\ud83e\uddc1",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "172",
+    "name": "Peanut Butter Ring",
+    "emoji": "\ud83c\udf6d",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "173",
+    "name": "Peanut Butter Button",
+    "emoji": "\ud83c\udf6b",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "174",
+    "name": "Brown Butter Brittle",
+    "emoji": "\ud83c\udf6d",
+    "rarity": "Common"
+  },
+  {
+    "id": "175",
+    "name": "Espresso Gumdrop",
+    "emoji": "\ud83c\udf6d",
+    "rarity": "Epic"
+  },
+  {
+    "id": "176",
+    "name": "Honey Button",
+    "emoji": "\ud83e\uddc1",
+    "rarity": "Rare"
+  },
+  {
+    "id": "177",
+    "name": "Peanut Butter Bean",
+    "emoji": "\ud83c\udf6c",
+    "rarity": "Common"
+  },
+  {
+    "id": "178",
+    "name": "Mint Chocolate Pattie",
+    "emoji": "\ud83e\uddc3",
+    "rarity": "Common"
+  },
+  {
+    "id": "179",
+    "name": "Salted Caramel Pattie",
+    "emoji": "\ud83c\udf69",
+    "rarity": "Rare"
+  },
+  {
+    "id": "180",
+    "name": "Honey Wafer",
+    "emoji": "\ud83e\uddc3",
+    "rarity": "Common"
+  },
+  {
+    "id": "181",
+    "name": "Watermelon Crisp",
+    "emoji": "\ud83c\udf6f",
+    "rarity": "Legendary"
+  },
+  {
+    "id": "182",
+    "name": "Rocky Road Chew",
+    "emoji": "\ud83c\udf61",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "183",
+    "name": "Watermelon Brittle",
+    "emoji": "\ud83c\udf6a",
+    "rarity": "Epic"
+  },
+  {
+    "id": "184",
+    "name": "Pumpkin Spice Cup",
+    "emoji": "\ud83c\udf61",
+    "rarity": "Common"
+  },
+  {
+    "id": "185",
+    "name": "Peanut Butter Lollipop",
+    "emoji": "\ud83c\udf6a",
+    "rarity": "Legendary"
+  },
+  {
+    "id": "186",
+    "name": "Cookies & Cream Cluster",
+    "emoji": "\ud83e\uddc1",
+    "rarity": "Common"
+  },
+  {
+    "id": "187",
+    "name": "Birthday Cake Nugget",
+    "emoji": "\ud83c\udf69",
+    "rarity": "Common"
+  },
+  {
+    "id": "188",
+    "name": "Apple Cider Ring",
+    "emoji": "\ud83c\udf6f",
+    "rarity": "Epic"
+  },
+  {
+    "id": "189",
+    "name": "White Chocolate Brittle",
+    "emoji": "\ud83c\udf61",
+    "rarity": "Legendary"
+  },
+  {
+    "id": "190",
+    "name": "Cola Crisp",
+    "emoji": "\ud83c\udf6b",
+    "rarity": "Common"
+  },
+  {
+    "id": "191",
+    "name": "Spiced Pumpkin Brittle",
+    "emoji": "\ud83c\udf69",
+    "rarity": "Common"
+  },
+  {
+    "id": "192",
+    "name": "Almond Bark",
+    "emoji": "\ud83c\udf6f",
+    "rarity": "Common"
+  },
+  {
+    "id": "193",
+    "name": "Raspberry Ring",
+    "emoji": "\ud83c\udf6b",
+    "rarity": "Common"
+  },
+  {
+    "id": "194",
+    "name": "S'mores Caramel Chew",
+    "emoji": "\ud83c\udf61",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "195",
+    "name": "Apple Cider Lollipop",
+    "emoji": "\ud83e\uddc3",
+    "rarity": "Common"
+  },
+  {
+    "id": "196",
+    "name": "Banana Cream Bonbon",
+    "emoji": "\ud83c\udf6f",
+    "rarity": "Common"
+  },
+  {
+    "id": "197",
+    "name": "Rocky Road Pop",
+    "emoji": "\ud83c\udf6a",
+    "rarity": "Rare"
+  },
+  {
+    "id": "198",
+    "name": "Coconut Bark",
+    "emoji": "\ud83c\udf69",
+    "rarity": "Common"
+  },
+  {
+    "id": "199",
+    "name": "Peanut Butter Fudge Square",
+    "emoji": "\ud83e\uddc1",
+    "rarity": "Rare"
+  },
+  {
+    "id": "200",
+    "name": "Dark Chocolate Cane",
+    "emoji": "\ud83c\udf69",
+    "rarity": "Common"
+  },
+  {
+    "id": "201",
+    "name": "Espresso Puff",
+    "emoji": "\ud83e\uddc3",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "202",
+    "name": "Candy Cane Twist",
+    "emoji": "\ud83c\udf69",
+    "rarity": "Common"
+  },
+  {
+    "id": "203",
+    "name": "Sour Apple Cup",
+    "emoji": "\ud83e\uddc1",
+    "rarity": "Common"
+  },
+  {
+    "id": "204",
+    "name": "Dark Chocolate Praline",
+    "emoji": "\ud83e\uddc1",
+    "rarity": "Common"
+  },
+  {
+    "id": "205",
+    "name": "Hazelnut Puff",
+    "emoji": "\ud83c\udf6d",
+    "rarity": "Common"
+  },
+  {
+    "id": "206",
+    "name": "Maple Bean",
+    "emoji": "\ud83c\udf69",
+    "rarity": "Common"
+  },
+  {
+    "id": "207",
+    "name": "Mint Chocolate Log",
+    "emoji": "\ud83c\udf6a",
+    "rarity": "Legendary"
+  },
+  {
+    "id": "208",
+    "name": "Watermelon Praline",
+    "emoji": "\ud83e\uddc3",
+    "rarity": "Common"
+  },
+  {
+    "id": "209",
+    "name": "Butterscotch Brittle",
+    "emoji": "\ud83c\udf6b",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "210",
+    "name": "Grape Cluster",
+    "emoji": "\ud83c\udf6a",
+    "rarity": "Epic"
+  },
+  {
+    "id": "211",
+    "name": "Blue Raspberry Jelly Bean",
+    "emoji": "\ud83e\uddc3",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "212",
+    "name": "Honey Disc",
+    "emoji": "\ud83c\udf6d",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "213",
+    "name": "Cotton Candy Wafer",
+    "emoji": "\ud83c\udf6f",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "214",
+    "name": "Caramel Ring",
+    "emoji": "\ud83c\udf6c",
+    "rarity": "Common"
+  },
+  {
+    "id": "215",
+    "name": "Caramel Praline",
+    "emoji": "\ud83c\udf6d",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "216",
+    "name": "Cotton Candy Coin",
+    "emoji": "\ud83e\uddc3",
+    "rarity": "Common"
+  },
+  {
+    "id": "217",
+    "name": "Maple Pecan Stick",
+    "emoji": "\ud83c\udf6a",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "218",
+    "name": "Honey Stick",
+    "emoji": "\ud83c\udf6b",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "219",
+    "name": "Pumpkin Spice Nugget",
+    "emoji": "\ud83c\udf61",
+    "rarity": "Common"
+  },
+  {
+    "id": "220",
+    "name": "Peanut Butter Crisp",
+    "emoji": "\ud83c\udf69",
+    "rarity": "Common"
+  },
+  {
+    "id": "221",
+    "name": "Cola Ball",
+    "emoji": "\ud83e\uddc3",
+    "rarity": "Common"
+  },
+  {
+    "id": "222",
+    "name": "Spiced Pumpkin Pop",
+    "emoji": "\ud83c\udf6f",
+    "rarity": "Common"
+  },
+  {
+    "id": "223",
+    "name": "Brown Butter Bean",
+    "emoji": "\ud83c\udf6c",
+    "rarity": "Common"
+  },
+  {
+    "id": "224",
+    "name": "Birthday Cake Bonbon",
+    "emoji": "\ud83e\uddc3",
+    "rarity": "Common"
+  },
+  {
+    "id": "225",
+    "name": "Birthday Cake Taffy",
+    "emoji": "\ud83c\udf69",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "226",
+    "name": "Maple Crisp",
+    "emoji": "\ud83c\udf6d",
+    "rarity": "Common"
+  },
+  {
+    "id": "227",
+    "name": "Hazelnut Log",
+    "emoji": "\ud83e\uddc3",
+    "rarity": "Common"
+  },
+  {
+    "id": "228",
+    "name": "Birthday Cake Gumdrop",
+    "emoji": "\ud83c\udf6b",
+    "rarity": "Common"
+  },
+  {
+    "id": "229",
+    "name": "Peanut Butter Stick",
+    "emoji": "\ud83c\udf6d",
+    "rarity": "Common"
+  },
+  {
+    "id": "230",
+    "name": "Pineapple Brittle",
+    "emoji": "\ud83c\udf69",
+    "rarity": "Common"
+  },
+  {
+    "id": "231",
+    "name": "Marshmallow Truffle",
+    "emoji": "\ud83c\udf6c",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "232",
+    "name": "Strawberry Pop",
+    "emoji": "\ud83c\udf69",
+    "rarity": "Rare"
+  },
+  {
+    "id": "233",
+    "name": "Coconut Jelly Bean",
+    "emoji": "\ud83e\uddc3",
+    "rarity": "Common"
+  },
+  {
+    "id": "234",
+    "name": "Banana Cream Square",
+    "emoji": "\ud83c\udf6d",
+    "rarity": "Common"
+  },
+  {
+    "id": "235",
+    "name": "Birthday Cake Crisp",
+    "emoji": "\ud83c\udf6a",
+    "rarity": "Rare"
+  },
+  {
+    "id": "236",
+    "name": "Toffee Square",
+    "emoji": "\ud83c\udf6d",
+    "rarity": "Common"
+  },
+  {
+    "id": "237",
+    "name": "Banana Cream Truffle",
+    "emoji": "\ud83c\udf61",
+    "rarity": "Common"
+  },
+  {
+    "id": "238",
+    "name": "Candy Cane Truffle",
+    "emoji": "\ud83c\udf6d",
+    "rarity": "Common"
+  },
+  {
+    "id": "239",
+    "name": "Blue Raspberry Fudge Square",
+    "emoji": "\ud83c\udf61",
+    "rarity": "Epic"
+  },
+  {
+    "id": "240",
+    "name": "White Chocolate Cluster",
+    "emoji": "\ud83c\udf61",
+    "rarity": "Epic"
+  },
+  {
+    "id": "241",
+    "name": "Butterscotch Nugget",
+    "emoji": "\ud83e\uddc3",
+    "rarity": "Common"
+  },
+  {
+    "id": "242",
+    "name": "Blue Raspberry Bite",
+    "emoji": "\ud83c\udf61",
+    "rarity": "Common"
+  },
+  {
+    "id": "243",
+    "name": "Pumpkin Spice Bar",
+    "emoji": "\ud83e\uddc1",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "244",
+    "name": "Pineapple Bite",
+    "emoji": "\ud83c\udf6a",
+    "rarity": "Common"
+  },
+  {
+    "id": "245",
+    "name": "Cotton Candy Bar",
+    "emoji": "\ud83c\udf6b",
+    "rarity": "Common"
+  },
+  {
+    "id": "246",
+    "name": "Cinnamon Drop",
+    "emoji": "\ud83c\udf6b",
+    "rarity": "Common"
+  },
+  {
+    "id": "247",
+    "name": "Lemon Log",
+    "emoji": "\ud83e\uddc1",
+    "rarity": "Common"
+  },
+  {
+    "id": "248",
+    "name": "Milk Chocolate Drop",
+    "emoji": "\ud83e\uddc1",
+    "rarity": "Legendary"
+  },
+  {
+    "id": "249",
+    "name": "Brown Butter Praline",
+    "emoji": "\ud83c\udf61",
+    "rarity": "Common"
+  },
+  {
+    "id": "250",
+    "name": "Espresso Log",
+    "emoji": "\ud83c\udf61",
+    "rarity": "Common"
+  },
+  {
+    "id": "251",
+    "name": "Coconut Ball",
+    "emoji": "\ud83c\udf6d",
+    "rarity": "Epic"
+  },
+  {
+    "id": "252",
+    "name": "Caramel Truffle",
+    "emoji": "\ud83c\udf61",
+    "rarity": "Legendary"
+  },
+  {
+    "id": "253",
+    "name": "Rocky Road Bean",
+    "emoji": "\ud83e\uddc3",
+    "rarity": "Epic"
+  },
+  {
+    "id": "254",
+    "name": "Pineapple Square",
+    "emoji": "\ud83e\uddc1",
+    "rarity": "Rare"
+  },
+  {
+    "id": "255",
+    "name": "Milk Chocolate Lollipop",
+    "emoji": "\ud83c\udf6c",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "256",
+    "name": "Brown Butter Bite",
+    "emoji": "\ud83c\udf6b",
+    "rarity": "Epic"
+  },
+  {
+    "id": "257",
+    "name": "Maple Pecan Puff",
+    "emoji": "\ud83e\uddc1",
+    "rarity": "Rare"
+  },
+  {
+    "id": "258",
+    "name": "Brown Butter Button",
+    "emoji": "\ud83c\udf6a",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "259",
+    "name": "Rocky Road Cluster",
+    "emoji": "\ud83c\udf69",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "260",
+    "name": "Lemon Chew",
+    "emoji": "\ud83c\udf6a",
+    "rarity": "Common"
+  },
+  {
+    "id": "261",
+    "name": "Toffee Lollipop",
+    "emoji": "\ud83e\uddc1",
+    "rarity": "Common"
+  },
+  {
+    "id": "262",
+    "name": "Brown Butter Taffy",
+    "emoji": "\ud83e\uddc3",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "263",
+    "name": "Sour Apple Square",
+    "emoji": "\ud83c\udf6d",
+    "rarity": "Common"
+  },
+  {
+    "id": "264",
+    "name": "Milk Chocolate Kiss",
+    "emoji": "\ud83c\udf69",
+    "rarity": "Common"
+  },
+  {
+    "id": "265",
+    "name": "Marshmallow Caramel Chew",
+    "emoji": "\ud83c\udf61",
+    "rarity": "Rare"
+  },
+  {
+    "id": "266",
+    "name": "Rocky Road Wafer",
+    "emoji": "\ud83c\udf69",
+    "rarity": "Common"
+  },
+  {
+    "id": "267",
+    "name": "Spiced Pumpkin Cane",
+    "emoji": "\ud83c\udf6d",
+    "rarity": "Rare"
+  },
+  {
+    "id": "268",
+    "name": "Milk Chocolate Button",
+    "emoji": "\ud83e\uddc1",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "269",
+    "name": "Honey Log",
+    "emoji": "\ud83e\uddc3",
+    "rarity": "Common"
+  },
+  {
+    "id": "270",
+    "name": "Cola Stick",
+    "emoji": "\ud83c\udf6d",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "271",
+    "name": "Salted Caramel Cane",
+    "emoji": "\ud83c\udf69",
+    "rarity": "Rare"
+  },
+  {
+    "id": "272",
+    "name": "Orange Cluster",
+    "emoji": "\ud83c\udf69",
+    "rarity": "Rare"
+  },
+  {
+    "id": "273",
+    "name": "Sour Apple Caramel Chew",
+    "emoji": "\ud83c\udf6b",
+    "rarity": "Common"
+  },
+  {
+    "id": "274",
+    "name": "Coconut Chew",
+    "emoji": "\ud83c\udf6a",
+    "rarity": "Common"
+  },
+  {
+    "id": "275",
+    "name": "Mint Chocolate Brittle",
+    "emoji": "\ud83c\udf69",
+    "rarity": "Common"
+  },
+  {
+    "id": "276",
+    "name": "Apple Cider Truffle",
+    "emoji": "\ud83c\udf6b",
+    "rarity": "Common"
+  },
+  {
+    "id": "277",
+    "name": "Maple Pecan Bite",
+    "emoji": "\ud83c\udf6d",
+    "rarity": "Common"
+  },
+  {
+    "id": "278",
+    "name": "Dark Chocolate Bark",
+    "emoji": "\ud83c\udf69",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "279",
+    "name": "Salted Caramel Pop",
+    "emoji": "\ud83c\udf6d",
+    "rarity": "Common"
+  },
+  {
+    "id": "280",
+    "name": "Caramel Disc",
+    "emoji": "\ud83c\udf69",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "281",
+    "name": "Espresso Pop",
+    "emoji": "\ud83c\udf61",
+    "rarity": "Common"
+  },
+  {
+    "id": "282",
+    "name": "S'mores Cluster",
+    "emoji": "\ud83e\uddc3",
+    "rarity": "Common"
+  },
+  {
+    "id": "283",
+    "name": "Candy Cane Ring",
+    "emoji": "\ud83c\udf69",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "284",
+    "name": "Toffee Cup",
+    "emoji": "\ud83c\udf6d",
+    "rarity": "Common"
+  },
+  {
+    "id": "285",
+    "name": "Strawberry Coin",
+    "emoji": "\ud83c\udf6d",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "286",
+    "name": "Birthday Cake Bar",
+    "emoji": "\ud83c\udf6d",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "287",
+    "name": "Orange Praline",
+    "emoji": "\ud83e\uddc3",
+    "rarity": "Legendary"
+  },
+  {
+    "id": "288",
+    "name": "Peanut Butter Truffle",
+    "emoji": "\ud83e\uddc3",
+    "rarity": "Common"
+  },
+  {
+    "id": "289",
+    "name": "Birthday Cake Chew",
+    "emoji": "\ud83c\udf6d",
+    "rarity": "Common"
+  },
+  {
+    "id": "290",
+    "name": "Cinnamon Caramel Chew",
+    "emoji": "\ud83e\uddc1",
+    "rarity": "Common"
+  },
+  {
+    "id": "291",
+    "name": "Fudge Brownie Truffle",
+    "emoji": "\ud83c\udf6c",
+    "rarity": "Common"
+  },
+  {
+    "id": "292",
+    "name": "Mint Chocolate Twist",
+    "emoji": "\ud83c\udf6b",
+    "rarity": "Rare"
+  },
+  {
+    "id": "293",
+    "name": "S'mores Bonbon",
+    "emoji": "\ud83c\udf61",
+    "rarity": "Common"
+  },
+  {
+    "id": "294",
+    "name": "Candy Cane Pop",
+    "emoji": "\ud83c\udf6d",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "295",
+    "name": "Orange Puff",
+    "emoji": "\ud83c\udf6d",
+    "rarity": "Common"
+  },
+  {
+    "id": "296",
+    "name": "Vanilla Jelly Bean",
+    "emoji": "\ud83c\udf6d",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "297",
+    "name": "Honey Gumdrop",
+    "emoji": "\ud83c\udf6a",
+    "rarity": "Common"
+  },
+  {
+    "id": "298",
+    "name": "Butterscotch Coin",
+    "emoji": "\ud83c\udf6b",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "299",
+    "name": "Cookies & Cream Log",
+    "emoji": "\ud83c\udf6d",
+    "rarity": "Common"
+  },
+  {
+    "id": "300",
+    "name": "Watermelon Puff",
+    "emoji": "\ud83c\udf6d",
+    "rarity": "Rare"
+  }
+]
