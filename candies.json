@@ -1,1802 +1,3002 @@
 [
   {
     "id": "001",
-    "name": "Glowing Web",
-    "emoji": "\ud83e\udd87",
-    "rarity": "Common"
+    "name": "Pumpkin Toffee",
+    "emoji": "\ud83c\udf6a",
+    "rarity": "Rare"
   },
   {
     "id": "002",
-    "name": "Silver Bite",
-    "emoji": "\ud83c\udf6a",
-    "rarity": "Common"
+    "name": "Pumpkin King Drop",
+    "emoji": "\ud83e\uddc1",
+    "rarity": "Legendary"
   },
   {
     "id": "003",
-    "name": "Shadow Swirl",
+    "name": "All Hallows Crunch",
     "emoji": "\ud83c\udf61",
     "rarity": "Common"
   },
   {
     "id": "004",
-    "name": "Shadow Gumdrop",
-    "emoji": "\ud83c\udf6a",
-    "rarity": "Uncommon"
+    "name": "Ghost Gummy Worm",
+    "emoji": "\ud83c\udf6f",
+    "rarity": "Rare"
   },
   {
     "id": "005",
-    "name": "Frosty Eyeball",
-    "emoji": "\ud83c\udf6b",
-    "rarity": "Uncommon"
+    "name": "Dusk Till Dawn Truffle",
+    "emoji": "\ud83c\udf6f",
+    "rarity": "Common"
   },
   {
     "id": "006",
-    "name": "Whispering Bark",
-    "emoji": "\ud83c\udf6c",
-    "rarity": "Uncommon"
+    "name": "Poison Apple Bark",
+    "emoji": "\ud83c\udf6f",
+    "rarity": "Common"
   },
   {
     "id": "007",
-    "name": "Jack-o'- Cauldron",
-    "emoji": "\ud83d\udc80",
-    "rarity": "Common"
+    "name": "Dusk Till Dawn Truffle",
+    "emoji": "\ud83c\udf6f",
+    "rarity": "Legendary"
   },
   {
     "id": "008",
-    "name": "Bloody Pumpkin",
+    "name": "Shadow Realm Fudge Square",
     "emoji": "\ud83c\udf6a",
-    "rarity": "Common"
+    "rarity": "Epic"
   },
   {
     "id": "009",
-    "name": "Rotten Bark",
-    "emoji": "\ud83c\udf6f",
-    "rarity": "Uncommon"
+    "name": "Spooky Truffle",
+    "emoji": "\ud83e\udd87",
+    "rarity": "Legendary"
   },
   {
     "id": "010",
-    "name": "Sticky Drop",
-    "emoji": "\ud83c\udf6a",
-    "rarity": "Common"
+    "name": "Enchanted Forest Truffle",
+    "emoji": "\ud83e\udd87",
+    "rarity": "Legendary"
   },
   {
     "id": "011",
-    "name": "Moonlit Swirl",
-    "emoji": "\ud83c\udf61",
-    "rarity": "Uncommon"
+    "name": "Hex Jelly Bean",
+    "emoji": "\ud83d\udd77\ufe0f",
+    "rarity": "Legendary"
   },
   {
     "id": "012",
-    "name": "Zombie Truffle",
-    "emoji": "\ud83c\udf6d",
+    "name": "Banshee Bite",
+    "emoji": "\ud83c\udf6c",
     "rarity": "Common"
   },
   {
     "id": "013",
-    "name": "Cackling Corn",
+    "name": "Mummy Wrap Nougat",
+    "emoji": "\ud83c\udf61",
+    "rarity": "Epic"
+  },
+  {
+    "id": "014",
+    "name": "Hex Drop",
     "emoji": "\ud83e\uddc1",
     "rarity": "Common"
   },
   {
-    "id": "014",
-    "name": "Silver Ghost",
-    "emoji": "\ud83d\udc80",
-    "rarity": "Rare"
-  },
-  {
     "id": "015",
-    "name": "Pumpkin Wafer",
-    "emoji": "\ud83e\uddea",
-    "rarity": "Uncommon"
+    "name": "Witch's Hat Stick",
+    "emoji": "\ud83e\udd87",
+    "rarity": "Epic"
   },
   {
     "id": "016",
-    "name": "Shadow Twist",
-    "emoji": "\ud83d\udc7b",
-    "rarity": "Uncommon"
+    "name": "Autumn Leaf Pop",
+    "emoji": "\ud83e\uddc1",
+    "rarity": "Epic"
   },
   {
     "id": "017",
-    "name": "Grim Chew",
-    "emoji": "\ud83c\udf6c",
+    "name": "Hex Jelly Bean",
+    "emoji": "\ud83d\udd77\ufe0f",
     "rarity": "Rare"
   },
   {
     "id": "018",
-    "name": "Gummy Crisp",
-    "emoji": "\ud83c\udf6c",
-    "rarity": "Rare"
-  },
-  {
-    "id": "019",
-    "name": "Wicked Cauldron",
-    "emoji": "\ud83c\udf61",
-    "rarity": "Common"
-  },
-  {
-    "id": "020",
-    "name": "Gummy Swirl",
-    "emoji": "\ud83c\udf61",
-    "rarity": "Rare"
-  },
-  {
-    "id": "021",
-    "name": "Screaming Truffle",
-    "emoji": "\ud83c\udf6c",
-    "rarity": "Common"
-  },
-  {
-    "id": "022",
-    "name": "Ghostly Broomstick",
-    "emoji": "\ud83c\udf6c",
-    "rarity": "Epic"
-  },
-  {
-    "id": "023",
-    "name": "Golden Cane",
-    "emoji": "\ud83c\udf6a",
-    "rarity": "Common"
-  },
-  {
-    "id": "024",
-    "name": "Gummy Brittle",
-    "emoji": "\ud83c\udf6a",
-    "rarity": "Common"
-  },
-  {
-    "id": "025",
-    "name": "Glowing Bar",
+    "name": "Ghoul's Delight Pattie",
     "emoji": "\ud83c\udf6b",
     "rarity": "Common"
   },
   {
-    "id": "026",
-    "name": "Screaming Bean",
-    "emoji": "\ud83d\udc80",
+    "id": "019",
+    "name": "Rattling Bones Rope",
+    "emoji": "\ud83d\udc7b",
     "rarity": "Uncommon"
   },
   {
-    "id": "027",
-    "name": "Cackling Cluster",
-    "emoji": "\ud83e\uddc1",
-    "rarity": "Rare"
+    "id": "020",
+    "name": "Spiderweb Lace Gummy Worm",
+    "emoji": "\ud83c\udf83",
+    "rarity": "Legendary"
   },
   {
-    "id": "028",
-    "name": "Wailing Fudge",
-    "emoji": "\ud83d\udc80",
+    "id": "021",
+    "name": "Spooky Puff",
+    "emoji": "\ud83e\uddc1",
+    "rarity": "Epic"
+  },
+  {
+    "id": "022",
+    "name": "Witch's Hat Stick",
+    "emoji": "\ud83e\udd87",
     "rarity": "Common"
   },
   {
-    "id": "029",
-    "name": "Sparkly Swirl",
-    "emoji": "\ud83d\udd77\ufe0f",
+    "id": "023",
+    "name": "Trick or Treat Stick",
+    "emoji": "\ud83d\udc7b",
+    "rarity": "Epic"
+  },
+  {
+    "id": "024",
+    "name": "All Hallows Crunch",
+    "emoji": "\ud83c\udf61",
+    "rarity": "Legendary"
+  },
+  {
+    "id": "025",
+    "name": "All Hallows Gumdrop",
+    "emoji": "\ud83d\udc7b",
+    "rarity": "Legendary"
+  },
+  {
+    "id": "026",
+    "name": "Dracula's Pop",
+    "emoji": "\ud83c\udf83",
+    "rarity": "Legendary"
+  },
+  {
+    "id": "027",
+    "name": "Cursed Pattie",
+    "emoji": "\ud83d\udc80",
     "rarity": "Uncommon"
   },
   {
+    "id": "028",
+    "name": "Ghoul's Delight Pattie",
+    "emoji": "\ud83c\udf6b",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "029",
+    "name": "Abandoned Attic Sour Strip",
+    "emoji": "\ud83e\uddc3",
+    "rarity": "Epic"
+  },
+  {
     "id": "030",
-    "name": "Fizzy Cane",
-    "emoji": "\ud83c\udf61",
+    "name": "Grim Reaper Chew",
+    "emoji": "\ud83c\udf6c",
     "rarity": "Common"
   },
   {
     "id": "031",
-    "name": "Melting Gumdrop",
-    "emoji": "\ud83c\udf61",
-    "rarity": "Legendary"
+    "name": "Ghost Fudge Square",
+    "emoji": "\ud83c\udf6d",
+    "rarity": "Rare"
   },
   {
     "id": "032",
-    "name": "Minty Fang",
-    "emoji": "\ud83e\udd87",
-    "rarity": "Uncommon"
-  },
-  {
-    "id": "033",
-    "name": "Toxic Bean",
-    "emoji": "\ud83c\udf6b",
+    "name": "Autumn Leaf Brittle",
+    "emoji": "\ud83e\uddc3",
     "rarity": "Common"
   },
   {
-    "id": "034",
-    "name": "Glowing Potion",
-    "emoji": "\ud83d\udc7b",
-    "rarity": "Uncommon"
+    "id": "033",
+    "name": "Ghost Fudge Square",
+    "emoji": "\ud83c\udf6d",
+    "rarity": "Epic"
   },
   {
-    "id": "035",
-    "name": "Chocolate Bark",
+    "id": "034",
+    "name": "Trick or Treat Caramel Apple",
     "emoji": "\ud83c\udf6f",
     "rarity": "Rare"
   },
   {
+    "id": "035",
+    "name": "Spiderweb Lace Gummy Worm",
+    "emoji": "\ud83c\udf83",
+    "rarity": "Uncommon"
+  },
+  {
     "id": "036",
-    "name": "Sparkly Nugget",
-    "emoji": "\ud83c\udf6c",
+    "name": "Hollow Sour Strip",
+    "emoji": "\ud83d\udc7b",
     "rarity": "Common"
   },
   {
     "id": "037",
-    "name": "Silver Bark",
-    "emoji": "\ud83e\uddea",
+    "name": "Candle Wax Rope",
+    "emoji": "\ud83d\udc80",
     "rarity": "Rare"
   },
   {
     "id": "038",
-    "name": "Sparkly Corn",
-    "emoji": "\ud83e\udd87",
-    "rarity": "Rare"
+    "name": "Bloody Fang Puff",
+    "emoji": "\ud83d\udd77\ufe0f",
+    "rarity": "Common"
   },
   {
     "id": "039",
-    "name": "Zombie Gumdrop",
-    "emoji": "\ud83c\udf6b",
-    "rarity": "Uncommon"
+    "name": "Graveyard Gumdrop",
+    "emoji": "\ud83e\udd87",
+    "rarity": "Legendary"
   },
   {
     "id": "040",
-    "name": "Crunchy Puff",
-    "emoji": "\ud83d\udc80",
-    "rarity": "Common"
+    "name": "Grim Reaper Chew",
+    "emoji": "\ud83c\udf6c",
+    "rarity": "Uncommon"
   },
   {
     "id": "041",
-    "name": "Pumpkin Web",
-    "emoji": "\ud83c\udf6f",
-    "rarity": "Common"
+    "name": "All Hallows Gummy Bear",
+    "emoji": "\ud83c\udf6b",
+    "rarity": "Uncommon"
   },
   {
     "id": "042",
-    "name": "Ghostly Cluster",
-    "emoji": "\ud83c\udf6d",
-    "rarity": "Uncommon"
-  },
-  {
-    "id": "043",
-    "name": "Toxic Taffy",
-    "emoji": "\ud83e\uddc1",
-    "rarity": "Uncommon"
-  },
-  {
-    "id": "044",
-    "name": "Pumpkin Brittle",
-    "emoji": "\ud83d\udc7b",
-    "rarity": "Uncommon"
-  },
-  {
-    "id": "045",
-    "name": "Zombie Wafer",
-    "emoji": "\ud83d\udd77\ufe0f",
-    "rarity": "Uncommon"
-  },
-  {
-    "id": "046",
-    "name": "Sparkly Cane",
-    "emoji": "\ud83c\udf6d",
-    "rarity": "Common"
-  },
-  {
-    "id": "047",
-    "name": "Phantom Ghost",
-    "emoji": "\ud83e\uddea",
-    "rarity": "Uncommon"
-  },
-  {
-    "id": "048",
-    "name": "Cackling Pop",
-    "emoji": "\ud83c\udf6b",
-    "rarity": "Common"
-  },
-  {
-    "id": "049",
-    "name": "Ghostly Twist",
-    "emoji": "\ud83e\uddc1",
+    "name": "Specter Bark",
+    "emoji": "\ud83e\uddc3",
     "rarity": "Rare"
   },
   {
-    "id": "050",
-    "name": "Haunted Bar",
-    "emoji": "\ud83d\udc80",
+    "id": "043",
+    "name": "Spooky Truffle",
+    "emoji": "\ud83e\udd87",
+    "rarity": "Epic"
+  },
+  {
+    "id": "044",
+    "name": "Shadow Realm Fudge Square",
+    "emoji": "\ud83c\udf6a",
     "rarity": "Common"
   },
   {
-    "id": "051",
-    "name": "Midnight Wafer",
-    "emoji": "\ud83e\uddea",
-    "rarity": "Common"
-  },
-  {
-    "id": "052",
-    "name": "Sparkly Crisp",
-    "emoji": "\ud83c\udf6d",
+    "id": "045",
+    "name": "Skeleton Crew Wafer",
+    "emoji": "\ud83c\udf6c",
     "rarity": "Legendary"
   },
   {
-    "id": "053",
-    "name": "Wailing Chew",
-    "emoji": "\ud83d\udd77\ufe0f",
+    "id": "046",
+    "name": "Candle Wax Rope",
+    "emoji": "\ud83d\udc80",
     "rarity": "Uncommon"
   },
   {
+    "id": "047",
+    "name": "Ash & Ember Sour Strip",
+    "emoji": "\ud83d\udd77\ufe0f",
+    "rarity": "Rare"
+  },
+  {
+    "id": "048",
+    "name": "Rattling Bones Rope",
+    "emoji": "\ud83d\udc7b",
+    "rarity": "Epic"
+  },
+  {
+    "id": "049",
+    "name": "Trick or Treat Candy Corn",
+    "emoji": "\ud83c\udf6a",
+    "rarity": "Epic"
+  },
+  {
+    "id": "050",
+    "name": "Mummy Wrap Nougat",
+    "emoji": "\ud83c\udf61",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "051",
+    "name": "Ash & Ember Bonbon",
+    "emoji": "\ud83c\udf6d",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "052",
+    "name": "Bloody Fang Chocolate Bar",
+    "emoji": "\ud83c\udf61",
+    "rarity": "Rare"
+  },
+  {
+    "id": "053",
+    "name": "Howling Wolf Pattie",
+    "emoji": "\ud83c\udf6a",
+    "rarity": "Rare"
+  },
+  {
     "id": "054",
-    "name": "Bubbly Web",
+    "name": "Grim Reaper Chew",
     "emoji": "\ud83c\udf6c",
-    "rarity": "Common"
+    "rarity": "Epic"
   },
   {
     "id": "055",
-    "name": "Chocolate Coin",
-    "emoji": "\ud83c\udf6c",
-    "rarity": "Common"
+    "name": "Dracula's Pop",
+    "emoji": "\ud83c\udf83",
+    "rarity": "Epic"
   },
   {
     "id": "056",
-    "name": "Zombie Button",
-    "emoji": "\ud83d\udd77\ufe0f",
-    "rarity": "Legendary"
+    "name": "Shadow Realm Fudge Square",
+    "emoji": "\ud83c\udf6a",
+    "rarity": "Uncommon"
   },
   {
     "id": "057",
-    "name": "Fizzy Pop",
-    "emoji": "\ud83c\udf6b",
+    "name": "Harvest Moon Toffee",
+    "emoji": "\ud83e\uddc1",
     "rarity": "Rare"
   },
   {
     "id": "058",
-    "name": "Moonlit Skull",
-    "emoji": "\ud83e\uddea",
-    "rarity": "Rare"
-  },
-  {
-    "id": "059",
-    "name": "Electric Truffle",
-    "emoji": "\ud83e\uddc1",
-    "rarity": "Common"
-  },
-  {
-    "id": "060",
-    "name": "Cackling Ring",
+    "name": "Blood Moon Bite",
     "emoji": "\ud83d\udc7b",
     "rarity": "Common"
   },
   {
+    "id": "059",
+    "name": "Lantern Bite",
+    "emoji": "\ud83c\udf6d",
+    "rarity": "Rare"
+  },
+  {
+    "id": "060",
+    "name": "Mummy Wrap Rope",
+    "emoji": "\ud83c\udf6f",
+    "rarity": "Rare"
+  },
+  {
     "id": "061",
-    "name": "Grim Ghost",
-    "emoji": "\ud83d\udd77\ufe0f",
+    "name": "Pumpkin Nougat",
+    "emoji": "\ud83c\udf6f",
     "rarity": "Common"
   },
   {
     "id": "062",
-    "name": "Shadow Ring",
-    "emoji": "\ud83c\udf6a",
-    "rarity": "Uncommon"
+    "name": "All Hallows Crunch",
+    "emoji": "\ud83c\udf61",
+    "rarity": "Epic"
   },
   {
     "id": "063",
-    "name": "Melting Gum",
-    "emoji": "\ud83c\udf6c",
-    "rarity": "Uncommon"
-  },
-  {
-    "id": "064",
-    "name": "Cursed Bar",
-    "emoji": "\ud83c\udf6b",
-    "rarity": "Uncommon"
-  },
-  {
-    "id": "065",
-    "name": "Jack-o'- Puff",
-    "emoji": "\ud83c\udf6a",
-    "rarity": "Uncommon"
-  },
-  {
-    "id": "066",
-    "name": "Minty Eyeball",
-    "emoji": "\ud83c\udf83",
+    "name": "Foggy Moor Sour Strip",
+    "emoji": "\ud83d\udc80",
     "rarity": "Rare"
   },
   {
-    "id": "067",
-    "name": "Frosty Lollipop",
+    "id": "064",
+    "name": "Candle Wax Rope",
+    "emoji": "\ud83d\udc80",
+    "rarity": "Epic"
+  },
+  {
+    "id": "065",
+    "name": "Banshee Rope",
     "emoji": "\ud83c\udf6a",
+    "rarity": "Common"
+  },
+  {
+    "id": "066",
+    "name": "Ghoul's Delight Pattie",
+    "emoji": "\ud83c\udf6b",
+    "rarity": "Epic"
+  },
+  {
+    "id": "067",
+    "name": "Trick or Treat Caramel Apple",
+    "emoji": "\ud83c\udf6f",
     "rarity": "Common"
   },
   {
     "id": "068",
-    "name": "Sour Web",
-    "emoji": "\ud83c\udf61",
-    "rarity": "Uncommon"
+    "name": "Werewolf Howler Bite",
+    "emoji": "\ud83e\uddc3",
+    "rarity": "Epic"
   },
   {
     "id": "069",
-    "name": "Spooky Bite",
+    "name": "Ghoulish Crunch",
     "emoji": "\ud83c\udf6a",
-    "rarity": "Common"
+    "rarity": "Rare"
   },
   {
     "id": "070",
-    "name": "Wailing Gumdrop",
-    "emoji": "\ud83c\udf61",
-    "rarity": "Common"
+    "name": "Graveyard Gumdrop",
+    "emoji": "\ud83e\udd87",
+    "rarity": "Rare"
   },
   {
     "id": "071",
-    "name": "Sticky Taffy",
-    "emoji": "\ud83d\udd77\ufe0f",
-    "rarity": "Common"
-  },
-  {
-    "id": "072",
-    "name": "Wicked Taffy",
+    "name": "Cauldron Bite",
     "emoji": "\ud83c\udf6b",
-    "rarity": "Common"
-  },
-  {
-    "id": "073",
-    "name": "Spooky Fudge",
-    "emoji": "\ud83c\udf6a",
     "rarity": "Uncommon"
   },
   {
+    "id": "072",
+    "name": "Pumpkin Pattie",
+    "emoji": "\ud83c\udf6c",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "073",
+    "name": "Candle Wax Rope",
+    "emoji": "\ud83d\udc80",
+    "rarity": "Legendary"
+  },
+  {
     "id": "074",
-    "name": "Jack-o'- Button",
-    "emoji": "\ud83e\udd87",
-    "rarity": "Common"
+    "name": "Candle Wax Bite",
+    "emoji": "\ud83c\udf6b",
+    "rarity": "Uncommon"
   },
   {
     "id": "075",
-    "name": "Moonlit Brittle",
-    "emoji": "\ud83c\udf83",
+    "name": "Pumpkin Patch Ghoul Gummy Bear",
+    "emoji": "\ud83d\udc80",
     "rarity": "Rare"
   },
   {
     "id": "076",
-    "name": "Wailing Twist",
-    "emoji": "\ud83e\udd87",
-    "rarity": "Uncommon"
+    "name": "Witch's Lollipop",
+    "emoji": "\ud83d\udc7b",
+    "rarity": "Legendary"
   },
   {
     "id": "077",
-    "name": "Sour Puff",
-    "emoji": "\ud83e\uddc1",
-    "rarity": "Epic"
+    "name": "Mummy Wrap Crunch",
+    "emoji": "\ud83c\udf6b",
+    "rarity": "Common"
   },
   {
     "id": "078",
-    "name": "Chewy Truffle",
-    "emoji": "\ud83e\uddea",
-    "rarity": "Rare"
+    "name": "Poison Apple Bark",
+    "emoji": "\ud83c\udf6f",
+    "rarity": "Epic"
   },
   {
     "id": "079",
-    "name": "Grim Gum",
-    "emoji": "\ud83d\udc7b",
+    "name": "Pumpkin Toffee",
+    "emoji": "\ud83c\udf6a",
     "rarity": "Common"
   },
   {
     "id": "080",
-    "name": "Vampire Brittle",
-    "emoji": "\ud83c\udf83",
-    "rarity": "Common"
+    "name": "Pumpkin Toffee",
+    "emoji": "\ud83c\udf6a",
+    "rarity": "Legendary"
   },
   {
     "id": "081",
-    "name": "Moonlit Kiss",
-    "emoji": "\ud83e\uddc1",
-    "rarity": "Uncommon"
+    "name": "Graveyard Truffle",
+    "emoji": "\ud83c\udf61",
+    "rarity": "Common"
   },
   {
     "id": "082",
-    "name": "Wailing Nugget",
-    "emoji": "\ud83c\udf6f",
+    "name": "Abandoned Attic Disc",
+    "emoji": "\ud83d\udc7b",
     "rarity": "Uncommon"
   },
   {
     "id": "083",
-    "name": "Golden Bark",
-    "emoji": "\ud83d\udc7b",
-    "rarity": "Uncommon"
+    "name": "Poison Apple Wafer",
+    "emoji": "\ud83c\udf6a",
+    "rarity": "Common"
   },
   {
     "id": "084",
-    "name": "Rattling Fudge",
-    "emoji": "\ud83c\udf83",
+    "name": "Candle Wax Bite",
+    "emoji": "\ud83c\udf6b",
     "rarity": "Rare"
   },
   {
     "id": "085",
-    "name": "Frosty Taffy",
-    "emoji": "\ud83e\udd87",
-    "rarity": "Uncommon"
+    "name": "Howling Wolf Pattie",
+    "emoji": "\ud83c\udf6a",
+    "rarity": "Legendary"
   },
   {
     "id": "086",
-    "name": "Haunted Kiss",
-    "emoji": "\ud83d\udc80",
-    "rarity": "Common"
+    "name": "Candy Coffin Bark",
+    "emoji": "\ud83c\udf61",
+    "rarity": "Legendary"
   },
   {
     "id": "087",
-    "name": "Toxic Gumdrop",
-    "emoji": "\ud83c\udf6f",
-    "rarity": "Epic"
+    "name": "Bloody Fang Chocolate Bar",
+    "emoji": "\ud83c\udf61",
+    "rarity": "Uncommon"
   },
   {
     "id": "088",
-    "name": "Crimson Taffy",
-    "emoji": "\ud83c\udf6a",
-    "rarity": "Common"
-  },
-  {
-    "id": "089",
-    "name": "Frosty Nugget",
-    "emoji": "\ud83e\udd87",
-    "rarity": "Common"
-  },
-  {
-    "id": "090",
-    "name": "Gummy Truffle",
-    "emoji": "\ud83e\uddea",
+    "name": "Grimoire Truffle",
+    "emoji": "\ud83d\udd77\ufe0f",
     "rarity": "Rare"
   },
   {
+    "id": "089",
+    "name": "Werewolf Howler Bite",
+    "emoji": "\ud83e\uddc3",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "090",
+    "name": "Candy Coffin Bark",
+    "emoji": "\ud83c\udf61",
+    "rarity": "Epic"
+  },
+  {
     "id": "091",
-    "name": "Rotten Ring",
-    "emoji": "\ud83c\udf6a",
+    "name": "Rattling Bones Rope",
+    "emoji": "\ud83d\udc7b",
     "rarity": "Common"
   },
   {
     "id": "092",
-    "name": "Gummy Chew",
-    "emoji": "\ud83c\udf6d",
-    "rarity": "Common"
+    "name": "Ghoul's Delight Pattie",
+    "emoji": "\ud83c\udf6b",
+    "rarity": "Rare"
   },
   {
     "id": "093",
-    "name": "Midnight Lollipop",
-    "emoji": "\ud83d\udc7b",
-    "rarity": "Uncommon"
-  },
-  {
-    "id": "094",
-    "name": "Frosty Ring",
+    "name": "Caldron Bubble Pattie",
     "emoji": "\ud83d\udc80",
-    "rarity": "Uncommon"
-  },
-  {
-    "id": "095",
-    "name": "Frosty Pumpkin",
-    "emoji": "\ud83c\udf6d",
     "rarity": "Common"
   },
   {
+    "id": "094",
+    "name": "Specter Bark",
+    "emoji": "\ud83e\uddc3",
+    "rarity": "Legendary"
+  },
+  {
+    "id": "095",
+    "name": "Haunted House Puff",
+    "emoji": "\ud83c\udf6a",
+    "rarity": "Uncommon"
+  },
+  {
     "id": "096",
-    "name": "Bubbly Taffy",
-    "emoji": "\ud83c\udf6d",
+    "name": "Candy Coffin Bark",
+    "emoji": "\ud83c\udf61",
     "rarity": "Uncommon"
   },
   {
     "id": "097",
-    "name": "Minty Web",
-    "emoji": "\ud83c\udf6f",
+    "name": "Broken Mirror Gumdrop",
+    "emoji": "\ud83c\udf6d",
     "rarity": "Common"
   },
   {
     "id": "098",
-    "name": "Wailing Skull",
-    "emoji": "\ud83c\udf6d",
-    "rarity": "Uncommon"
+    "name": "Creaky Door Pattie",
+    "emoji": "\ud83c\udf6c",
+    "rarity": "Common"
   },
   {
     "id": "099",
-    "name": "Golden Coin",
-    "emoji": "\ud83c\udf83",
+    "name": "Blood Moon Bite",
+    "emoji": "\ud83d\udc7b",
     "rarity": "Epic"
   },
   {
     "id": "100",
-    "name": "Fizzy Gumdrop",
-    "emoji": "\ud83c\udf6d",
-    "rarity": "Epic"
+    "name": "Frankenstein's Bite",
+    "emoji": "\ud83c\udf6c",
+    "rarity": "Legendary"
   },
   {
     "id": "101",
-    "name": "Phantom Swirl",
-    "emoji": "\ud83e\uddea",
-    "rarity": "Uncommon"
-  },
-  {
-    "id": "102",
-    "name": "Bubbly Ring",
-    "emoji": "\ud83e\udd87",
-    "rarity": "Common"
-  },
-  {
-    "id": "103",
-    "name": "Ghostly Drop",
-    "emoji": "\ud83d\udc80",
-    "rarity": "Uncommon"
-  },
-  {
-    "id": "104",
-    "name": "Gummy Taffy",
-    "emoji": "\ud83c\udf6a",
-    "rarity": "Common"
-  },
-  {
-    "id": "105",
-    "name": "Midnight Fang",
+    "name": "Candle Wax Bite",
     "emoji": "\ud83c\udf6b",
     "rarity": "Epic"
   },
   {
-    "id": "106",
-    "name": "Chewy Bean",
-    "emoji": "\ud83c\udf6a",
-    "rarity": "Common"
-  },
-  {
-    "id": "107",
-    "name": "Chewy Bat",
+    "id": "102",
+    "name": "Creepy Crawler Marshmallow",
     "emoji": "\ud83d\udd77\ufe0f",
-    "rarity": "Common"
-  },
-  {
-    "id": "108",
-    "name": "Rotten Fang",
-    "emoji": "\ud83c\udf6f",
-    "rarity": "Common"
-  },
-  {
-    "id": "109",
-    "name": "Gummy Fang",
-    "emoji": "\ud83c\udf6a",
-    "rarity": "Common"
-  },
-  {
-    "id": "110",
-    "name": "Glowing Cane",
-    "emoji": "\ud83c\udf83",
-    "rarity": "Common"
-  },
-  {
-    "id": "111",
-    "name": "Golden Pumpkin",
-    "emoji": "\ud83c\udf6a",
-    "rarity": "Common"
-  },
-  {
-    "id": "112",
-    "name": "Ghostly Coin",
-    "emoji": "\ud83e\uddea",
     "rarity": "Uncommon"
   },
   {
+    "id": "103",
+    "name": "All Hallows Gummy Bear",
+    "emoji": "\ud83c\udf6b",
+    "rarity": "Epic"
+  },
+  {
+    "id": "104",
+    "name": "All Hallows Gummy Bear",
+    "emoji": "\ud83c\udf6b",
+    "rarity": "Legendary"
+  },
+  {
+    "id": "105",
+    "name": "Cursed Pattie",
+    "emoji": "\ud83d\udc80",
+    "rarity": "Rare"
+  },
+  {
+    "id": "106",
+    "name": "Spine-Chilling Toffee",
+    "emoji": "\ud83c\udf6b",
+    "rarity": "Rare"
+  },
+  {
+    "id": "107",
+    "name": "Pumpkin Pattie",
+    "emoji": "\ud83c\udf6c",
+    "rarity": "Legendary"
+  },
+  {
+    "id": "108",
+    "name": "Poison Apple Wafer",
+    "emoji": "\ud83c\udf6a",
+    "rarity": "Epic"
+  },
+  {
+    "id": "109",
+    "name": "Monster Mash Cluster",
+    "emoji": "\ud83e\uddc1",
+    "rarity": "Epic"
+  },
+  {
+    "id": "110",
+    "name": "Pumpkin Nougat",
+    "emoji": "\ud83c\udf6f",
+    "rarity": "Epic"
+  },
+  {
+    "id": "111",
+    "name": "Candy Coffin Cotton Candy",
+    "emoji": "\ud83c\udf6b",
+    "rarity": "Epic"
+  },
+  {
+    "id": "112",
+    "name": "Abandoned Attic Disc",
+    "emoji": "\ud83d\udc7b",
+    "rarity": "Common"
+  },
+  {
     "id": "113",
-    "name": "Chocolate Bar",
-    "emoji": "\ud83e\udd87",
+    "name": "Pumpkin Patch Ghoul Brittle",
+    "emoji": "\ud83c\udf6d",
     "rarity": "Legendary"
   },
   {
     "id": "114",
-    "name": "Zombie Bat",
+    "name": "Creaky Door Pattie",
     "emoji": "\ud83c\udf6c",
-    "rarity": "Common"
+    "rarity": "Rare"
   },
   {
     "id": "115",
-    "name": "Crunchy Corn",
+    "name": "Ash & Ember Sour Strip",
     "emoji": "\ud83d\udd77\ufe0f",
-    "rarity": "Epic"
+    "rarity": "Uncommon"
   },
   {
     "id": "116",
-    "name": "Melting Pop",
-    "emoji": "\ud83d\udd77\ufe0f",
-    "rarity": "Common"
+    "name": "Witch's Hat Stick",
+    "emoji": "\ud83e\udd87",
+    "rarity": "Legendary"
   },
   {
     "id": "117",
-    "name": "Zombie Nugget",
+    "name": "Dracula's Pop",
     "emoji": "\ud83c\udf83",
-    "rarity": "Common"
+    "rarity": "Uncommon"
   },
   {
     "id": "118",
-    "name": "Vampire Taffy",
-    "emoji": "\ud83e\uddc1",
+    "name": "Ash & Ember Sour Strip",
+    "emoji": "\ud83d\udd77\ufe0f",
     "rarity": "Common"
   },
   {
     "id": "119",
-    "name": "Minty Bone",
-    "emoji": "\ud83d\udc80",
-    "rarity": "Epic"
+    "name": "Spider Ring Fudge Square",
+    "emoji": "\ud83c\udf6f",
+    "rarity": "Uncommon"
   },
   {
     "id": "120",
-    "name": "Phantom Button",
-    "emoji": "\ud83d\udd77\ufe0f",
+    "name": "Ghoulish Crunch",
+    "emoji": "\ud83c\udf6a",
     "rarity": "Legendary"
   },
   {
     "id": "121",
-    "name": "Cursed Gum",
-    "emoji": "\ud83c\udf61",
-    "rarity": "Common"
+    "name": "Shadow Realm Fudge Square",
+    "emoji": "\ud83c\udf6a",
+    "rarity": "Rare"
   },
   {
     "id": "122",
-    "name": "Spooky Worm",
-    "emoji": "\ud83c\udf6f",
-    "rarity": "Common"
-  },
-  {
-    "id": "123",
-    "name": "Rattling Gum",
-    "emoji": "\ud83c\udf61",
-    "rarity": "Uncommon"
-  },
-  {
-    "id": "124",
-    "name": "Vampire Truffle",
-    "emoji": "\ud83d\udd77\ufe0f",
+    "name": "Pumpkin Pattie",
+    "emoji": "\ud83c\udf6c",
     "rarity": "Epic"
   },
   {
+    "id": "123",
+    "name": "Harvest Moon Caramel Apple",
+    "emoji": "\ud83d\udd77\ufe0f",
+    "rarity": "Rare"
+  },
+  {
+    "id": "124",
+    "name": "Pumpkin Sour Strip",
+    "emoji": "\ud83e\uddc1",
+    "rarity": "Common"
+  },
+  {
     "id": "125",
-    "name": "Golden Kiss",
-    "emoji": "\ud83c\udf61",
+    "name": "Foggy Moor Sour Strip",
+    "emoji": "\ud83d\udc80",
     "rarity": "Common"
   },
   {
     "id": "126",
-    "name": "Cursed Pop",
-    "emoji": "\ud83c\udf61",
+    "name": "Pumpkin Pattie",
+    "emoji": "\ud83c\udf6c",
     "rarity": "Common"
   },
   {
     "id": "127",
-    "name": "Haunted Twist",
-    "emoji": "\ud83c\udf6c",
-    "rarity": "Common"
+    "name": "Mummy Wrap Nougat",
+    "emoji": "\ud83c\udf61",
+    "rarity": "Legendary"
   },
   {
     "id": "128",
-    "name": "Vampire Potion",
-    "emoji": "\ud83c\udf6d",
-    "rarity": "Common"
+    "name": "Monster Mash Cluster",
+    "emoji": "\ud83e\uddc1",
+    "rarity": "Legendary"
   },
   {
     "id": "129",
-    "name": "Haunted Bean",
-    "emoji": "\ud83c\udf6f",
-    "rarity": "Common"
-  },
-  {
-    "id": "130",
-    "name": "Vampire Nugget",
-    "emoji": "\ud83c\udf6f",
-    "rarity": "Uncommon"
-  },
-  {
-    "id": "131",
-    "name": "Bloody Brittle",
-    "emoji": "\ud83c\udf6c",
-    "rarity": "Common"
-  },
-  {
-    "id": "132",
-    "name": "Sparkly Button",
-    "emoji": "\ud83c\udf6c",
-    "rarity": "Epic"
-  },
-  {
-    "id": "133",
-    "name": "Sweet Bat",
-    "emoji": "\ud83c\udf6a",
-    "rarity": "Uncommon"
-  },
-  {
-    "id": "134",
-    "name": "Screaming Coin",
-    "emoji": "\ud83e\udd87",
-    "rarity": "Uncommon"
-  },
-  {
-    "id": "135",
-    "name": "Sticky Button",
-    "emoji": "\ud83c\udf6d",
-    "rarity": "Epic"
-  },
-  {
-    "id": "136",
-    "name": "Minty Cluster",
-    "emoji": "\ud83c\udf61",
-    "rarity": "Uncommon"
-  },
-  {
-    "id": "137",
-    "name": "Pumpkin Bar",
-    "emoji": "\ud83c\udf61",
-    "rarity": "Common"
-  },
-  {
-    "id": "138",
-    "name": "Crimson Wafer",
-    "emoji": "\ud83c\udf6c",
-    "rarity": "Rare"
-  },
-  {
-    "id": "139",
-    "name": "Glowing Bean",
+    "name": "All Hallows Gummy Bear",
     "emoji": "\ud83c\udf6b",
     "rarity": "Common"
   },
   {
+    "id": "130",
+    "name": "Banshee Bite",
+    "emoji": "\ud83c\udf6c",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "131",
+    "name": "Abandoned Attic Disc",
+    "emoji": "\ud83d\udc7b",
+    "rarity": "Legendary"
+  },
+  {
+    "id": "132",
+    "name": "All Hallows Gumdrop",
+    "emoji": "\ud83d\udc7b",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "133",
+    "name": "Spooky Truffle",
+    "emoji": "\ud83e\udd87",
+    "rarity": "Rare"
+  },
+  {
+    "id": "134",
+    "name": "Bloody Fang Chocolate Bar",
+    "emoji": "\ud83c\udf61",
+    "rarity": "Common"
+  },
+  {
+    "id": "135",
+    "name": "Devil's Food Ball",
+    "emoji": "\ud83c\udf61",
+    "rarity": "Legendary"
+  },
+  {
+    "id": "136",
+    "name": "Eyeball Stick",
+    "emoji": "\ud83d\udc7b",
+    "rarity": "Common"
+  },
+  {
+    "id": "137",
+    "name": "Bloody Fang Puff",
+    "emoji": "\ud83d\udd77\ufe0f",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "138",
+    "name": "Foggy Moor Sour Strip",
+    "emoji": "\ud83d\udc80",
+    "rarity": "Epic"
+  },
+  {
+    "id": "139",
+    "name": "Haunted House Pattie",
+    "emoji": "\ud83d\udc80",
+    "rarity": "Legendary"
+  },
+  {
     "id": "140",
-    "name": "Pumpkin Puff",
-    "emoji": "\ud83c\udf6a",
+    "name": "Pumpkin Patch Ghoul Pop",
+    "emoji": "\ud83e\uddc1",
     "rarity": "Uncommon"
   },
   {
     "id": "141",
-    "name": "Electric Bar",
-    "emoji": "\ud83c\udf6f",
-    "rarity": "Rare"
+    "name": "Eerie Ball",
+    "emoji": "\ud83c\udf83",
+    "rarity": "Legendary"
   },
   {
     "id": "142",
-    "name": "Wailing Button",
+    "name": "Spiderweb Lace Gummy Worm",
     "emoji": "\ud83c\udf83",
     "rarity": "Common"
   },
   {
     "id": "143",
-    "name": "Fizzy Eyeball",
-    "emoji": "\ud83c\udf6a",
-    "rarity": "Common"
-  },
-  {
-    "id": "144",
-    "name": "Cursed Puff",
-    "emoji": "\ud83c\udf61",
+    "name": "Banshee Bite",
+    "emoji": "\ud83c\udf6c",
     "rarity": "Rare"
   },
   {
+    "id": "144",
+    "name": "Creeping Vine Jelly Bean",
+    "emoji": "\ud83c\udf83",
+    "rarity": "Uncommon"
+  },
+  {
     "id": "145",
-    "name": "Fizzy Fudge",
-    "emoji": "\ud83c\udf6d",
-    "rarity": "Epic"
-  },
-  {
-    "id": "146",
-    "name": "Moonlit Fudge",
-    "emoji": "\ud83c\udf83",
-    "rarity": "Epic"
-  },
-  {
-    "id": "147",
-    "name": "Moonlit Worm",
-    "emoji": "\ud83c\udf6f",
-    "rarity": "Uncommon"
-  },
-  {
-    "id": "148",
-    "name": "Chewy Gumdrop",
-    "emoji": "\ud83c\udf83",
-    "rarity": "Uncommon"
-  },
-  {
-    "id": "149",
-    "name": "Ghostly Lollipop",
+    "name": "Enchanted Forest Truffle",
     "emoji": "\ud83e\udd87",
     "rarity": "Common"
   },
   {
+    "id": "146",
+    "name": "Pumpkin Patch Ghoul Gummy Bear",
+    "emoji": "\ud83d\udc80",
+    "rarity": "Legendary"
+  },
+  {
+    "id": "147",
+    "name": "Bloody Fang Puff",
+    "emoji": "\ud83d\udd77\ufe0f",
+    "rarity": "Rare"
+  },
+  {
+    "id": "148",
+    "name": "Spooky Puff",
+    "emoji": "\ud83e\uddc1",
+    "rarity": "Rare"
+  },
+  {
+    "id": "149",
+    "name": "Howling Wolf Pattie",
+    "emoji": "\ud83c\udf6a",
+    "rarity": "Epic"
+  },
+  {
     "id": "150",
-    "name": "Rotten Gum",
-    "emoji": "\ud83c\udf83",
-    "rarity": "Common"
+    "name": "Ghoulish Crunch",
+    "emoji": "\ud83c\udf6a",
+    "rarity": "Epic"
   },
   {
     "id": "151",
-    "name": "Fizzy Bat",
-    "emoji": "\ud83e\uddea",
+    "name": "Witch's Hat Stick",
+    "emoji": "\ud83e\udd87",
     "rarity": "Uncommon"
   },
   {
     "id": "152",
-    "name": "Grim Pop",
-    "emoji": "\ud83c\udf83",
-    "rarity": "Common"
+    "name": "Creepy Crawler Bite",
+    "emoji": "\ud83e\uddc3",
+    "rarity": "Epic"
   },
   {
     "id": "153",
-    "name": "Cursed Twist",
-    "emoji": "\ud83c\udf6d",
-    "rarity": "Common"
-  },
-  {
-    "id": "154",
-    "name": "Gummy Ghost",
-    "emoji": "\ud83c\udf6a",
-    "rarity": "Common"
-  },
-  {
-    "id": "155",
-    "name": "Ghostly Bite",
-    "emoji": "\ud83e\uddea",
-    "rarity": "Rare"
-  },
-  {
-    "id": "156",
-    "name": "Sweet Potion",
-    "emoji": "\ud83d\udc7b",
-    "rarity": "Uncommon"
-  },
-  {
-    "id": "157",
-    "name": "Caramel Twist",
-    "emoji": "\ud83e\uddea",
-    "rarity": "Uncommon"
-  },
-  {
-    "id": "158",
-    "name": "Bubbly Brittle",
-    "emoji": "\ud83c\udf6b",
-    "rarity": "Common"
-  },
-  {
-    "id": "159",
-    "name": "Grim Bark",
-    "emoji": "\ud83c\udf6b",
-    "rarity": "Common"
-  },
-  {
-    "id": "160",
-    "name": "Haunted Worm",
-    "emoji": "\ud83d\udc7b",
+    "name": "Eyeball Brittle",
+    "emoji": "\ud83e\uddc3",
     "rarity": "Legendary"
   },
   {
-    "id": "161",
-    "name": "Caramel Coin",
-    "emoji": "\ud83e\uddea",
-    "rarity": "Rare"
+    "id": "154",
+    "name": "Lantern Bite",
+    "emoji": "\ud83c\udf6d",
+    "rarity": "Uncommon"
   },
   {
-    "id": "162",
-    "name": "Minty Puff",
-    "emoji": "\ud83c\udf6d",
+    "id": "155",
+    "name": "Pumpkin King Drop",
+    "emoji": "\ud83e\uddc1",
     "rarity": "Common"
   },
   {
+    "id": "156",
+    "name": "Eerie Ball",
+    "emoji": "\ud83c\udf83",
+    "rarity": "Rare"
+  },
+  {
+    "id": "157",
+    "name": "Bloody Fang Chocolate Bar",
+    "emoji": "\ud83c\udf61",
+    "rarity": "Epic"
+  },
+  {
+    "id": "158",
+    "name": "Ghoulish Gummy Worm",
+    "emoji": "\ud83c\udf61",
+    "rarity": "Rare"
+  },
+  {
+    "id": "159",
+    "name": "Eyeball Stick",
+    "emoji": "\ud83d\udc7b",
+    "rarity": "Epic"
+  },
+  {
+    "id": "160",
+    "name": "Mummy Wrap Rope",
+    "emoji": "\ud83c\udf6f",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "161",
+    "name": "Frankenstein's Bite",
+    "emoji": "\ud83c\udf6c",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "162",
+    "name": "Trick or Treat Candy Corn",
+    "emoji": "\ud83c\udf6a",
+    "rarity": "Legendary"
+  },
+  {
     "id": "163",
-    "name": "Crunchy Taffy",
-    "emoji": "\ud83c\udf6d",
+    "name": "Bat Bite Jelly Bean",
+    "emoji": "\ud83c\udf6a",
     "rarity": "Rare"
   },
   {
     "id": "164",
-    "name": "Grim Corn",
-    "emoji": "\ud83c\udf6c",
-    "rarity": "Common"
+    "name": "Spiderweb Lace Bite",
+    "emoji": "\ud83d\udc7b",
+    "rarity": "Legendary"
   },
   {
     "id": "165",
-    "name": "Minty Coin",
-    "emoji": "\ud83c\udf6d",
-    "rarity": "Common"
+    "name": "All Hallows Gumdrop",
+    "emoji": "\ud83d\udc7b",
+    "rarity": "Rare"
   },
   {
     "id": "166",
-    "name": "Shadow Coin",
-    "emoji": "\ud83e\udd87",
+    "name": "Witch's Hat Brittle",
+    "emoji": "\ud83c\udf6a",
     "rarity": "Common"
   },
   {
     "id": "167",
-    "name": "Jack-o'- Bar",
-    "emoji": "\ud83d\udc80",
-    "rarity": "Common"
+    "name": "Graveyard Truffle",
+    "emoji": "\ud83c\udf61",
+    "rarity": "Epic"
   },
   {
     "id": "168",
-    "name": "Crunchy Gumdrop",
-    "emoji": "\ud83c\udf6c",
-    "rarity": "Common"
+    "name": "Cursed Pattie",
+    "emoji": "\ud83d\udc80",
+    "rarity": "Legendary"
   },
   {
     "id": "169",
-    "name": "Whispering Brittle",
-    "emoji": "\ud83e\udd87",
-    "rarity": "Uncommon"
+    "name": "Haunted House Pattie",
+    "emoji": "\ud83d\udc80",
+    "rarity": "Rare"
   },
   {
     "id": "170",
-    "name": "Bubbly Gum",
-    "emoji": "\ud83e\uddc1",
+    "name": "Hex Jelly Bean",
+    "emoji": "\ud83d\udd77\ufe0f",
     "rarity": "Common"
   },
   {
     "id": "171",
-    "name": "Sweet Spider",
+    "name": "Pumpkin Sour Strip",
     "emoji": "\ud83e\uddc1",
-    "rarity": "Rare"
+    "rarity": "Epic"
   },
   {
     "id": "172",
-    "name": "Glowing Brittle",
-    "emoji": "\ud83c\udf6d",
+    "name": "Howl Marshmallow",
+    "emoji": "\ud83d\udd77\ufe0f",
     "rarity": "Epic"
   },
   {
     "id": "173",
-    "name": "Fizzy Twist",
-    "emoji": "\ud83c\udf6f",
-    "rarity": "Rare"
+    "name": "Pumpkin Patch Ghoul Brittle",
+    "emoji": "\ud83c\udf6d",
+    "rarity": "Uncommon"
   },
   {
     "id": "174",
-    "name": "Caramel Cluster",
-    "emoji": "\ud83d\udc7b",
+    "name": "Banshee Rope",
+    "emoji": "\ud83c\udf6a",
     "rarity": "Uncommon"
   },
   {
     "id": "175",
-    "name": "Haunted Gum",
-    "emoji": "\ud83c\udf61",
-    "rarity": "Common"
-  },
-  {
-    "id": "176",
-    "name": "Shadow Truffle",
-    "emoji": "\ud83c\udf61",
-    "rarity": "Rare"
-  },
-  {
-    "id": "177",
-    "name": "Chocolate Fudge",
-    "emoji": "\ud83e\uddc1",
+    "name": "Bloody Fang Puff",
+    "emoji": "\ud83d\udd77\ufe0f",
     "rarity": "Epic"
   },
   {
+    "id": "176",
+    "name": "Banshee Rope",
+    "emoji": "\ud83c\udf6a",
+    "rarity": "Epic"
+  },
+  {
+    "id": "177",
+    "name": "Ghost Gummy Worm",
+    "emoji": "\ud83c\udf6f",
+    "rarity": "Common"
+  },
+  {
     "id": "178",
-    "name": "Moonlit Cauldron",
-    "emoji": "\ud83e\udd87",
+    "name": "Hex Candy Corn",
+    "emoji": "\ud83e\uddc1",
     "rarity": "Uncommon"
   },
   {
     "id": "179",
-    "name": "Rattling Spider",
+    "name": "Zombie Brain Marshmallow",
     "emoji": "\ud83d\udd77\ufe0f",
-    "rarity": "Common"
+    "rarity": "Legendary"
   },
   {
     "id": "180",
-    "name": "Spooky Button",
-    "emoji": "\ud83c\udf6f",
-    "rarity": "Common"
+    "name": "Spine-Chilling Toffee",
+    "emoji": "\ud83c\udf6b",
+    "rarity": "Uncommon"
   },
   {
     "id": "181",
-    "name": "Sticky Puff",
-    "emoji": "\ud83c\udf83",
-    "rarity": "Common"
+    "name": "Pumpkin Pattie",
+    "emoji": "\ud83c\udf6c",
+    "rarity": "Rare"
   },
   {
     "id": "182",
-    "name": "Crunchy Bean",
+    "name": "Witch's Lollipop",
+    "emoji": "\ud83d\udc7b",
+    "rarity": "Rare"
+  },
+  {
+    "id": "183",
+    "name": "Howl Marshmallow",
     "emoji": "\ud83d\udd77\ufe0f",
     "rarity": "Common"
   },
   {
-    "id": "183",
-    "name": "Wailing Swirl",
-    "emoji": "\ud83c\udf6f",
-    "rarity": "Uncommon"
-  },
-  {
     "id": "184",
-    "name": "Shadow Taffy",
-    "emoji": "\ud83c\udf6c",
+    "name": "Spooky Puff",
+    "emoji": "\ud83e\uddc1",
     "rarity": "Common"
   },
   {
     "id": "185",
-    "name": "Rattling Broomstick",
+    "name": "Witch's Hat Brittle",
     "emoji": "\ud83c\udf6a",
-    "rarity": "Epic"
+    "rarity": "Rare"
   },
   {
     "id": "186",
-    "name": "Electric Drop",
-    "emoji": "\ud83d\udc7b",
-    "rarity": "Uncommon"
+    "name": "Phantasm Chew",
+    "emoji": "\ud83c\udf6b",
+    "rarity": "Common"
   },
   {
     "id": "187",
-    "name": "Bubbly Potion",
-    "emoji": "\ud83e\uddea",
+    "name": "Candlelit Jelly Bean",
+    "emoji": "\ud83c\udf6f",
     "rarity": "Common"
   },
   {
     "id": "188",
-    "name": "Bubbly Gumdrop",
-    "emoji": "\ud83e\udd87",
-    "rarity": "Common"
+    "name": "All Hallows Puff",
+    "emoji": "\ud83d\udd77\ufe0f",
+    "rarity": "Legendary"
   },
   {
     "id": "189",
-    "name": "Wailing Crisp",
-    "emoji": "\ud83e\uddc1",
-    "rarity": "Common"
-  },
-  {
-    "id": "190",
-    "name": "Phantom Kiss",
-    "emoji": "\ud83e\udd87",
-    "rarity": "Uncommon"
-  },
-  {
-    "id": "191",
-    "name": "Wailing Drop",
-    "emoji": "\ud83c\udf6a",
-    "rarity": "Common"
-  },
-  {
-    "id": "192",
-    "name": "Vampire Bar",
-    "emoji": "\ud83c\udf6d",
-    "rarity": "Rare"
-  },
-  {
-    "id": "193",
-    "name": "Spooky Drop",
-    "emoji": "\ud83d\udc7b",
-    "rarity": "Common"
-  },
-  {
-    "id": "194",
-    "name": "Grim Bean",
+    "name": "Phantasm Chew",
     "emoji": "\ud83c\udf6b",
-    "rarity": "Uncommon"
-  },
-  {
-    "id": "195",
-    "name": "Rattling Potion",
-    "emoji": "\ud83e\uddea",
-    "rarity": "Common"
-  },
-  {
-    "id": "196",
-    "name": "Cackling Worm",
-    "emoji": "\ud83e\uddea",
-    "rarity": "Common"
-  },
-  {
-    "id": "197",
-    "name": "Rotten Drop",
-    "emoji": "\ud83c\udf6d",
     "rarity": "Epic"
   },
   {
-    "id": "198",
-    "name": "Bubbly Corn",
-    "emoji": "\ud83c\udf6f",
+    "id": "190",
+    "name": "Monster Mash Cluster",
+    "emoji": "\ud83e\uddc1",
     "rarity": "Rare"
+  },
+  {
+    "id": "191",
+    "name": "Autumn Leaf Brittle",
+    "emoji": "\ud83e\uddc3",
+    "rarity": "Rare"
+  },
+  {
+    "id": "192",
+    "name": "Haunted House Puff",
+    "emoji": "\ud83c\udf6a",
+    "rarity": "Common"
+  },
+  {
+    "id": "193",
+    "name": "Hollow Sour Strip",
+    "emoji": "\ud83d\udc7b",
+    "rarity": "Rare"
+  },
+  {
+    "id": "194",
+    "name": "Creepy Crawler Bite",
+    "emoji": "\ud83e\uddc3",
+    "rarity": "Rare"
+  },
+  {
+    "id": "195",
+    "name": "Full Moon Brittle",
+    "emoji": "\ud83c\udf6c",
+    "rarity": "Epic"
+  },
+  {
+    "id": "196",
+    "name": "Rattling Bones Rope",
+    "emoji": "\ud83d\udc7b",
+    "rarity": "Rare"
+  },
+  {
+    "id": "197",
+    "name": "Creepy Crawler Bite",
+    "emoji": "\ud83e\uddc3",
+    "rarity": "Common"
+  },
+  {
+    "id": "198",
+    "name": "Creepy Crawler Bite",
+    "emoji": "\ud83e\uddc3",
+    "rarity": "Uncommon"
   },
   {
     "id": "199",
-    "name": "Gummy Drop",
+    "name": "Pumpkin Toffee",
     "emoji": "\ud83c\udf6a",
-    "rarity": "Rare"
+    "rarity": "Uncommon"
   },
   {
     "id": "200",
-    "name": "Crimson Truffle",
-    "emoji": "\ud83d\udc7b",
+    "name": "Poison Apple Bark",
+    "emoji": "\ud83c\udf6f",
     "rarity": "Uncommon"
   },
   {
     "id": "201",
-    "name": "Bubbly Fang",
-    "emoji": "\ud83e\uddc1",
-    "rarity": "Common"
+    "name": "Enchanted Forest Truffle",
+    "emoji": "\ud83e\udd87",
+    "rarity": "Epic"
   },
   {
     "id": "202",
-    "name": "Cackling Eyeball",
-    "emoji": "\ud83c\udf61",
-    "rarity": "Uncommon"
-  },
-  {
-    "id": "203",
-    "name": "Crunchy Bar",
-    "emoji": "\ud83c\udf6c",
-    "rarity": "Uncommon"
-  },
-  {
-    "id": "204",
-    "name": "Sour Spider",
-    "emoji": "\ud83c\udf61",
-    "rarity": "Common"
-  },
-  {
-    "id": "205",
-    "name": "Minty Bark",
-    "emoji": "\ud83d\udd77\ufe0f",
-    "rarity": "Rare"
-  },
-  {
-    "id": "206",
-    "name": "Bubbly Worm",
-    "emoji": "\ud83e\udd87",
-    "rarity": "Common"
-  },
-  {
-    "id": "207",
-    "name": "Minty Nugget",
-    "emoji": "\ud83c\udf83",
-    "rarity": "Rare"
-  },
-  {
-    "id": "208",
-    "name": "Sweet Taffy",
-    "emoji": "\ud83c\udf6a",
-    "rarity": "Rare"
-  },
-  {
-    "id": "209",
-    "name": "Crimson Lollipop",
-    "emoji": "\ud83e\udd87",
-    "rarity": "Legendary"
-  },
-  {
-    "id": "210",
-    "name": "Wicked Gum",
-    "emoji": "\ud83c\udf6c",
-    "rarity": "Common"
-  },
-  {
-    "id": "211",
-    "name": "Bloody Bone",
-    "emoji": "\ud83e\uddea",
-    "rarity": "Uncommon"
-  },
-  {
-    "id": "212",
-    "name": "Jack-o'- Bone",
-    "emoji": "\ud83c\udf6c",
-    "rarity": "Common"
-  },
-  {
-    "id": "213",
-    "name": "Sweet Puff",
-    "emoji": "\ud83d\udc7b",
-    "rarity": "Uncommon"
-  },
-  {
-    "id": "214",
-    "name": "Candy-Coated Bar",
-    "emoji": "\ud83c\udf6c",
-    "rarity": "Common"
-  },
-  {
-    "id": "215",
-    "name": "Haunted Pumpkin",
-    "emoji": "\ud83d\udc80",
-    "rarity": "Common"
-  },
-  {
-    "id": "216",
-    "name": "Phantom Cauldron",
-    "emoji": "\ud83e\uddea",
-    "rarity": "Uncommon"
-  },
-  {
-    "id": "217",
-    "name": "Minty Cauldron",
-    "emoji": "\ud83c\udf83",
-    "rarity": "Common"
-  },
-  {
-    "id": "218",
-    "name": "Cursed Cauldron",
-    "emoji": "\ud83e\uddc1",
-    "rarity": "Rare"
-  },
-  {
-    "id": "219",
-    "name": "Rattling Eyeball",
+    "name": "Cauldron Bite",
     "emoji": "\ud83c\udf6b",
     "rarity": "Common"
   },
   {
-    "id": "220",
-    "name": "Minty Fudge",
+    "id": "203",
+    "name": "Autumn Leaf Pop",
+    "emoji": "\ud83e\uddc1",
+    "rarity": "Legendary"
+  },
+  {
+    "id": "204",
+    "name": "Pumpkin King Drop",
+    "emoji": "\ud83e\uddc1",
+    "rarity": "Epic"
+  },
+  {
+    "id": "205",
+    "name": "Cauldron Bite",
+    "emoji": "\ud83c\udf6b",
+    "rarity": "Legendary"
+  },
+  {
+    "id": "206",
+    "name": "Eyeball Stick",
+    "emoji": "\ud83d\udc7b",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "207",
+    "name": "Candy Coffin Bark",
     "emoji": "\ud83c\udf61",
     "rarity": "Common"
   },
   {
-    "id": "221",
-    "name": "Toxic Spider",
-    "emoji": "\ud83c\udf6a",
+    "id": "208",
+    "name": "Broken Mirror Gumdrop",
+    "emoji": "\ud83c\udf6d",
+    "rarity": "Legendary"
+  },
+  {
+    "id": "209",
+    "name": "Poltergeist Toffee",
+    "emoji": "\ud83e\uddc1",
     "rarity": "Common"
   },
   {
+    "id": "210",
+    "name": "Abandoned Attic Disc",
+    "emoji": "\ud83d\udc7b",
+    "rarity": "Rare"
+  },
+  {
+    "id": "211",
+    "name": "Candy Coffin Bark",
+    "emoji": "\ud83c\udf61",
+    "rarity": "Rare"
+  },
+  {
+    "id": "212",
+    "name": "Witch's Lollipop",
+    "emoji": "\ud83d\udc7b",
+    "rarity": "Epic"
+  },
+  {
+    "id": "213",
+    "name": "Full Moon Brittle",
+    "emoji": "\ud83c\udf6c",
+    "rarity": "Common"
+  },
+  {
+    "id": "214",
+    "name": "Scarecrow Chocolate Bar",
+    "emoji": "\ud83e\uddc3",
+    "rarity": "Legendary"
+  },
+  {
+    "id": "215",
+    "name": "Graveyard Truffle",
+    "emoji": "\ud83c\udf61",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "216",
+    "name": "Pumpkin Patch Ghoul Pop",
+    "emoji": "\ud83e\uddc1",
+    "rarity": "Common"
+  },
+  {
+    "id": "217",
+    "name": "Spooky Truffle",
+    "emoji": "\ud83e\udd87",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "218",
+    "name": "Ghost Gummy Worm",
+    "emoji": "\ud83c\udf6f",
+    "rarity": "Legendary"
+  },
+  {
+    "id": "219",
+    "name": "Hex Candy Corn",
+    "emoji": "\ud83e\uddc1",
+    "rarity": "Rare"
+  },
+  {
+    "id": "220",
+    "name": "Mummy Wrap Crunch",
+    "emoji": "\ud83c\udf6b",
+    "rarity": "Epic"
+  },
+  {
+    "id": "221",
+    "name": "Graveyard Truffle",
+    "emoji": "\ud83c\udf61",
+    "rarity": "Rare"
+  },
+  {
     "id": "222",
-    "name": "Cackling Swirl",
-    "emoji": "\ud83d\udd77\ufe0f",
+    "name": "Devil's Food Ball",
+    "emoji": "\ud83c\udf61",
     "rarity": "Common"
   },
   {
     "id": "223",
-    "name": "Caramel Kiss",
-    "emoji": "\ud83d\udd77\ufe0f",
-    "rarity": "Common"
-  },
-  {
-    "id": "224",
-    "name": "Wicked Bean",
-    "emoji": "\ud83c\udf6b",
-    "rarity": "Common"
-  },
-  {
-    "id": "225",
-    "name": "Bubbly Truffle",
-    "emoji": "\ud83c\udf6f",
+    "name": "Monster Mash Cluster",
+    "emoji": "\ud83e\uddc1",
     "rarity": "Uncommon"
   },
   {
+    "id": "224",
+    "name": "Cauldron Bite",
+    "emoji": "\ud83c\udf6b",
+    "rarity": "Rare"
+  },
+  {
+    "id": "225",
+    "name": "Abandoned Attic Sour Strip",
+    "emoji": "\ud83e\uddc3",
+    "rarity": "Legendary"
+  },
+  {
     "id": "226",
-    "name": "Rattling Bean",
-    "emoji": "\ud83e\udd87",
+    "name": "Poison Apple Wafer",
+    "emoji": "\ud83c\udf6a",
     "rarity": "Rare"
   },
   {
     "id": "227",
-    "name": "Moonlit Cane",
-    "emoji": "\ud83d\udc80",
-    "rarity": "Common"
+    "name": "Trick or Treat Caramel Apple",
+    "emoji": "\ud83c\udf6f",
+    "rarity": "Epic"
   },
   {
     "id": "228",
-    "name": "Shadow Cane",
-    "emoji": "\ud83e\uddc1",
+    "name": "Harvest Moon Caramel Apple",
+    "emoji": "\ud83d\udd77\ufe0f",
     "rarity": "Uncommon"
   },
   {
     "id": "229",
-    "name": "Ghostly Skull",
-    "emoji": "\ud83d\udd77\ufe0f",
-    "rarity": "Common"
-  },
-  {
-    "id": "230",
-    "name": "Fizzy Bone",
-    "emoji": "\ud83c\udf6d",
-    "rarity": "Common"
-  },
-  {
-    "id": "231",
-    "name": "Grim Drop",
-    "emoji": "\ud83c\udf83",
+    "name": "Trick or Treat Stick",
+    "emoji": "\ud83d\udc7b",
     "rarity": "Uncommon"
   },
   {
+    "id": "230",
+    "name": "Spine-Chilling Toffee",
+    "emoji": "\ud83c\udf6b",
+    "rarity": "Epic"
+  },
+  {
+    "id": "231",
+    "name": "Hex Candy Corn",
+    "emoji": "\ud83e\uddc1",
+    "rarity": "Epic"
+  },
+  {
     "id": "232",
-    "name": "Chewy Ghost",
-    "emoji": "\ud83e\udd87",
+    "name": "Creeping Vine Jelly Bean",
+    "emoji": "\ud83c\udf83",
     "rarity": "Common"
   },
   {
     "id": "233",
-    "name": "Golden Puff",
-    "emoji": "\ud83e\udd87",
-    "rarity": "Epic"
-  },
-  {
-    "id": "234",
-    "name": "Crunchy Pop",
-    "emoji": "\ud83c\udf83",
+    "name": "Caldron Bubble Pattie",
+    "emoji": "\ud83d\udc80",
     "rarity": "Rare"
   },
   {
+    "id": "234",
+    "name": "Ash & Ember Bonbon",
+    "emoji": "\ud83c\udf6d",
+    "rarity": "Legendary"
+  },
+  {
     "id": "235",
-    "name": "Haunted Bark",
-    "emoji": "\ud83c\udf6b",
-    "rarity": "Uncommon"
+    "name": "Vile Wafer",
+    "emoji": "\ud83e\udd87",
+    "rarity": "Rare"
   },
   {
     "id": "236",
-    "name": "Wailing Cluster",
-    "emoji": "\ud83e\uddea",
-    "rarity": "Common"
+    "name": "Harvest Moon Caramel Apple",
+    "emoji": "\ud83d\udd77\ufe0f",
+    "rarity": "Legendary"
   },
   {
     "id": "237",
-    "name": "Witch's Ring",
-    "emoji": "\ud83d\udc80",
-    "rarity": "Uncommon"
+    "name": "Poltergeist Toffee",
+    "emoji": "\ud83e\uddc1",
+    "rarity": "Legendary"
   },
   {
     "id": "238",
-    "name": "Crimson Bean",
-    "emoji": "\ud83c\udf6f",
-    "rarity": "Common"
+    "name": "Trick or Treat Candy Corn",
+    "emoji": "\ud83c\udf6a",
+    "rarity": "Uncommon"
   },
   {
     "id": "239",
-    "name": "Witch's Chew",
-    "emoji": "\ud83c\udf61",
+    "name": "Hex Candy Corn",
+    "emoji": "\ud83e\uddc1",
     "rarity": "Common"
   },
   {
     "id": "240",
-    "name": "Frosty Broomstick",
-    "emoji": "\ud83c\udf6d",
+    "name": "Scarecrow Chocolate Bar",
+    "emoji": "\ud83e\uddc3",
     "rarity": "Common"
   },
   {
     "id": "241",
-    "name": "Sweet Brittle",
-    "emoji": "\ud83c\udf6f",
+    "name": "Haunted Hayride Bonbon",
+    "emoji": "\ud83c\udf61",
     "rarity": "Rare"
   },
   {
     "id": "242",
-    "name": "Melting Twist",
-    "emoji": "\ud83c\udf6f",
-    "rarity": "Rare"
+    "name": "Haunted Hayride Wafer",
+    "emoji": "\ud83d\udc80",
+    "rarity": "Epic"
   },
   {
     "id": "243",
-    "name": "Crimson Twist",
-    "emoji": "\ud83e\uddc1",
-    "rarity": "Common"
+    "name": "Trick or Treat Stick",
+    "emoji": "\ud83d\udc7b",
+    "rarity": "Legendary"
   },
   {
     "id": "244",
-    "name": "Wailing Web",
-    "emoji": "\ud83c\udf6b",
-    "rarity": "Common"
+    "name": "Hollow Sour Strip",
+    "emoji": "\ud83d\udc7b",
+    "rarity": "Legendary"
   },
   {
     "id": "245",
-    "name": "Rattling Bark",
-    "emoji": "\ud83d\udc7b",
-    "rarity": "Uncommon"
+    "name": "Frankenstein's Bite",
+    "emoji": "\ud83c\udf6c",
+    "rarity": "Epic"
   },
   {
     "id": "246",
-    "name": "Chewy Cane",
-    "emoji": "\ud83c\udf6d",
-    "rarity": "Uncommon"
+    "name": "Eerie Ball",
+    "emoji": "\ud83c\udf83",
+    "rarity": "Epic"
   },
   {
     "id": "247",
-    "name": "Bloody Bar",
-    "emoji": "\ud83c\udf6a",
-    "rarity": "Common"
-  },
-  {
-    "id": "248",
-    "name": "Frosty Cauldron",
+    "name": "Shadow Realm Fudge Square",
     "emoji": "\ud83c\udf6a",
     "rarity": "Legendary"
   },
   {
+    "id": "248",
+    "name": "Candy Coffin Cotton Candy",
+    "emoji": "\ud83c\udf6b",
+    "rarity": "Uncommon"
+  },
+  {
     "id": "249",
-    "name": "Whispering Potion",
-    "emoji": "\ud83c\udf6d",
+    "name": "Mummy Wrap Nougat",
+    "emoji": "\ud83c\udf61",
     "rarity": "Rare"
   },
   {
     "id": "250",
-    "name": "Whispering Kiss",
-    "emoji": "\ud83c\udf6d",
-    "rarity": "Common"
+    "name": "Creeping Vine Jelly Bean",
+    "emoji": "\ud83c\udf83",
+    "rarity": "Legendary"
   },
   {
     "id": "251",
-    "name": "Wailing Bone",
-    "emoji": "\ud83d\udd77\ufe0f",
+    "name": "Haunted House Puff",
+    "emoji": "\ud83c\udf6a",
     "rarity": "Rare"
   },
   {
     "id": "252",
-    "name": "Fizzy Coin",
-    "emoji": "\ud83c\udf6b",
-    "rarity": "Common"
+    "name": "Pumpkin Patch Ghoul Pop",
+    "emoji": "\ud83e\uddc1",
+    "rarity": "Legendary"
   },
   {
     "id": "253",
-    "name": "Silver Bean",
-    "emoji": "\ud83c\udf6d",
+    "name": "Hex Drop",
+    "emoji": "\ud83e\uddc1",
     "rarity": "Uncommon"
   },
   {
     "id": "254",
-    "name": "Frosty Bean",
-    "emoji": "\ud83e\uddc1",
-    "rarity": "Common"
+    "name": "Ash & Ember Bonbon",
+    "emoji": "\ud83c\udf6d",
+    "rarity": "Rare"
   },
   {
     "id": "255",
-    "name": "Minty Pop",
-    "emoji": "\ud83e\uddc1",
+    "name": "Haunted Hayride Wafer",
+    "emoji": "\ud83d\udc80",
     "rarity": "Common"
   },
   {
     "id": "256",
-    "name": "Gummy Bark",
-    "emoji": "\ud83c\udf6a",
-    "rarity": "Common"
-  },
-  {
-    "id": "257",
-    "name": "Minty Button",
-    "emoji": "\ud83e\udd87",
-    "rarity": "Rare"
-  },
-  {
-    "id": "258",
-    "name": "Cursed Ghost",
-    "emoji": "\ud83e\uddea",
-    "rarity": "Common"
-  },
-  {
-    "id": "259",
-    "name": "Gummy Worm",
-    "emoji": "\ud83c\udf61",
-    "rarity": "Common"
-  },
-  {
-    "id": "260",
-    "name": "Crimson Ghost",
-    "emoji": "\ud83d\udc80",
-    "rarity": "Common"
-  },
-  {
-    "id": "261",
-    "name": "Pumpkin Twist",
-    "emoji": "\ud83d\udd77\ufe0f",
-    "rarity": "Common"
-  },
-  {
-    "id": "262",
-    "name": "Ghostly Web",
-    "emoji": "\ud83c\udf6d",
-    "rarity": "Common"
-  },
-  {
-    "id": "263",
-    "name": "Toxic Truffle",
-    "emoji": "\ud83c\udf6a",
-    "rarity": "Common"
-  },
-  {
-    "id": "264",
-    "name": "Zombie Worm",
-    "emoji": "\ud83d\udc80",
-    "rarity": "Uncommon"
-  },
-  {
-    "id": "265",
-    "name": "Witch's Wafer",
-    "emoji": "\ud83d\udd77\ufe0f",
-    "rarity": "Uncommon"
-  },
-  {
-    "id": "266",
-    "name": "Rotten Ghost",
-    "emoji": "\ud83c\udf6c",
-    "rarity": "Common"
-  },
-  {
-    "id": "267",
-    "name": "Witch's Pop",
-    "emoji": "\ud83c\udf6a",
-    "rarity": "Common"
-  },
-  {
-    "id": "268",
-    "name": "Toxic Web",
-    "emoji": "\ud83c\udf6a",
-    "rarity": "Epic"
-  },
-  {
-    "id": "269",
-    "name": "Frosty Cluster",
-    "emoji": "\ud83c\udf83",
-    "rarity": "Rare"
-  },
-  {
-    "id": "270",
-    "name": "Sparkly Brittle",
-    "emoji": "\ud83c\udf6a",
-    "rarity": "Rare"
-  },
-  {
-    "id": "271",
-    "name": "Silver Wafer",
-    "emoji": "\ud83d\udc80",
-    "rarity": "Common"
-  },
-  {
-    "id": "272",
-    "name": "Wicked Lollipop",
-    "emoji": "\ud83c\udf6d",
-    "rarity": "Uncommon"
-  },
-  {
-    "id": "273",
-    "name": "Gummy Bite",
-    "emoji": "\ud83e\udd87",
-    "rarity": "Uncommon"
-  },
-  {
-    "id": "274",
-    "name": "Shadow Puff",
-    "emoji": "\ud83e\udd87",
-    "rarity": "Rare"
-  },
-  {
-    "id": "275",
-    "name": "Frosty Brittle",
-    "emoji": "\ud83c\udf6d",
-    "rarity": "Common"
-  },
-  {
-    "id": "276",
-    "name": "Cackling Broomstick",
-    "emoji": "\ud83c\udf6c",
-    "rarity": "Uncommon"
-  },
-  {
-    "id": "277",
-    "name": "Melting Pumpkin",
-    "emoji": "\ud83d\udd77\ufe0f",
-    "rarity": "Legendary"
-  },
-  {
-    "id": "278",
-    "name": "Rattling Chew",
-    "emoji": "\ud83c\udf6c",
-    "rarity": "Uncommon"
-  },
-  {
-    "id": "279",
-    "name": "Midnight Web",
-    "emoji": "\ud83c\udf6c",
-    "rarity": "Common"
-  },
-  {
-    "id": "280",
-    "name": "Pumpkin Cluster",
-    "emoji": "\ud83e\udd87",
-    "rarity": "Common"
-  },
-  {
-    "id": "281",
-    "name": "Whispering Twist",
-    "emoji": "\ud83c\udf83",
-    "rarity": "Legendary"
-  },
-  {
-    "id": "282",
-    "name": "Minty Gumdrop",
-    "emoji": "\ud83c\udf6d",
-    "rarity": "Common"
-  },
-  {
-    "id": "283",
-    "name": "Zombie Crisp",
-    "emoji": "\ud83c\udf6c",
-    "rarity": "Common"
-  },
-  {
-    "id": "284",
-    "name": "Golden Bat",
-    "emoji": "\ud83c\udf6f",
-    "rarity": "Common"
-  },
-  {
-    "id": "285",
-    "name": "Bloody Ghost",
-    "emoji": "\ud83c\udf6c",
-    "rarity": "Common"
-  },
-  {
-    "id": "286",
-    "name": "Gummy Bat",
-    "emoji": "\ud83c\udf6c",
-    "rarity": "Epic"
-  },
-  {
-    "id": "287",
-    "name": "Whispering Worm",
-    "emoji": "\ud83d\udd77\ufe0f",
-    "rarity": "Common"
-  },
-  {
-    "id": "288",
-    "name": "Candy-Coated Skull",
-    "emoji": "\ud83d\udc7b",
-    "rarity": "Uncommon"
-  },
-  {
-    "id": "289",
-    "name": "Rattling Pumpkin",
-    "emoji": "\ud83e\uddea",
-    "rarity": "Common"
-  },
-  {
-    "id": "290",
-    "name": "Phantom Crisp",
-    "emoji": "\ud83e\uddea",
-    "rarity": "Common"
-  },
-  {
-    "id": "291",
-    "name": "Glowing Bite",
-    "emoji": "\ud83c\udf6d",
-    "rarity": "Common"
-  },
-  {
-    "id": "292",
-    "name": "Grim Brittle",
-    "emoji": "\ud83d\udc7b",
-    "rarity": "Common"
-  },
-  {
-    "id": "293",
-    "name": "Sweet Swirl",
-    "emoji": "\ud83c\udf6b",
-    "rarity": "Rare"
-  },
-  {
-    "id": "294",
-    "name": "Bubbly Nugget",
-    "emoji": "\ud83d\udd77\ufe0f",
-    "rarity": "Common"
-  },
-  {
-    "id": "295",
-    "name": "Sparkly Chew",
-    "emoji": "\ud83c\udf61",
-    "rarity": "Common"
-  },
-  {
-    "id": "296",
-    "name": "Chocolate Cane",
+    "name": "Harvest Moon Toffee",
     "emoji": "\ud83e\uddc1",
     "rarity": "Common"
   },
   {
-    "id": "297",
-    "name": "Spooky Bark",
+    "id": "257",
+    "name": "Ghost Gummy Worm",
+    "emoji": "\ud83c\udf6f",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "258",
+    "name": "Pumpkin King Drop",
+    "emoji": "\ud83e\uddc1",
+    "rarity": "Rare"
+  },
+  {
+    "id": "259",
+    "name": "Autumn Leaf Pop",
+    "emoji": "\ud83e\uddc1",
+    "rarity": "Common"
+  },
+  {
+    "id": "260",
+    "name": "Bat Bite Jelly Bean",
+    "emoji": "\ud83c\udf6a",
+    "rarity": "Legendary"
+  },
+  {
+    "id": "261",
+    "name": "Harvest Moon Toffee",
+    "emoji": "\ud83e\uddc1",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "262",
+    "name": "Spider Ring Fudge Square",
+    "emoji": "\ud83c\udf6f",
+    "rarity": "Common"
+  },
+  {
+    "id": "263",
+    "name": "Candlelit Jelly Bean",
+    "emoji": "\ud83c\udf6f",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "264",
+    "name": "Haunted House Puff",
+    "emoji": "\ud83c\udf6a",
+    "rarity": "Epic"
+  },
+  {
+    "id": "265",
+    "name": "Ash & Ember Bonbon",
+    "emoji": "\ud83c\udf6d",
+    "rarity": "Common"
+  },
+  {
+    "id": "266",
+    "name": "Pumpkin Sour Strip",
+    "emoji": "\ud83e\uddc1",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "267",
+    "name": "Eyeball Stick",
+    "emoji": "\ud83d\udc7b",
+    "rarity": "Rare"
+  },
+  {
+    "id": "268",
+    "name": "Zombie Brain Marshmallow",
+    "emoji": "\ud83d\udd77\ufe0f",
+    "rarity": "Common"
+  },
+  {
+    "id": "269",
+    "name": "Pumpkin Patch Ghoul Brittle",
+    "emoji": "\ud83c\udf6d",
+    "rarity": "Common"
+  },
+  {
+    "id": "270",
+    "name": "Pumpkin Toffee",
+    "emoji": "\ud83c\udf6a",
+    "rarity": "Epic"
+  },
+  {
+    "id": "271",
+    "name": "Spooky Truffle",
+    "emoji": "\ud83e\udd87",
+    "rarity": "Common"
+  },
+  {
+    "id": "272",
+    "name": "Grimoire Truffle",
+    "emoji": "\ud83d\udd77\ufe0f",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "273",
+    "name": "Wicked Witch Button",
+    "emoji": "\ud83c\udf61",
+    "rarity": "Common"
+  },
+  {
+    "id": "274",
+    "name": "Caldron Bubble Pattie",
+    "emoji": "\ud83d\udc80",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "275",
+    "name": "Haunted House Puff",
+    "emoji": "\ud83c\udf6a",
+    "rarity": "Legendary"
+  },
+  {
+    "id": "276",
+    "name": "Abandoned Attic Sour Strip",
+    "emoji": "\ud83e\uddc3",
+    "rarity": "Rare"
+  },
+  {
+    "id": "277",
+    "name": "Graveyard Gumdrop",
+    "emoji": "\ud83e\udd87",
+    "rarity": "Epic"
+  },
+  {
+    "id": "278",
+    "name": "Haunted Hayride Rope",
+    "emoji": "\ud83d\udd77\ufe0f",
+    "rarity": "Legendary"
+  },
+  {
+    "id": "279",
+    "name": "Broken Mirror Gumdrop",
+    "emoji": "\ud83c\udf6d",
+    "rarity": "Epic"
+  },
+  {
+    "id": "280",
+    "name": "Harvest Moon Toffee",
+    "emoji": "\ud83e\uddc1",
+    "rarity": "Legendary"
+  },
+  {
+    "id": "281",
+    "name": "Pumpkin Patch Ghoul Pop",
+    "emoji": "\ud83e\uddc1",
+    "rarity": "Rare"
+  },
+  {
+    "id": "282",
+    "name": "Ghost Fudge Square",
+    "emoji": "\ud83c\udf6d",
+    "rarity": "Legendary"
+  },
+  {
+    "id": "283",
+    "name": "Autumn Leaf Brittle",
+    "emoji": "\ud83e\uddc3",
+    "rarity": "Legendary"
+  },
+  {
+    "id": "284",
+    "name": "Wicked Witch Button",
+    "emoji": "\ud83c\udf61",
+    "rarity": "Legendary"
+  },
+  {
+    "id": "285",
+    "name": "Haunted House Pattie",
     "emoji": "\ud83d\udc80",
     "rarity": "Common"
   },
   {
+    "id": "286",
+    "name": "Hollow Sour Strip",
+    "emoji": "\ud83d\udc7b",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "287",
+    "name": "Mummy Wrap Rope",
+    "emoji": "\ud83c\udf6f",
+    "rarity": "Common"
+  },
+  {
+    "id": "288",
+    "name": "Enchanted Forest Truffle",
+    "emoji": "\ud83e\udd87",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "289",
+    "name": "Lantern Bite",
+    "emoji": "\ud83c\udf6d",
+    "rarity": "Common"
+  },
+  {
+    "id": "290",
+    "name": "Haunted Hayride Rope",
+    "emoji": "\ud83d\udd77\ufe0f",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "291",
+    "name": "Rattling Bones Rope",
+    "emoji": "\ud83d\udc7b",
+    "rarity": "Legendary"
+  },
+  {
+    "id": "292",
+    "name": "Poltergeist Toffee",
+    "emoji": "\ud83e\uddc1",
+    "rarity": "Rare"
+  },
+  {
+    "id": "293",
+    "name": "Ghoulish Gummy Worm",
+    "emoji": "\ud83c\udf61",
+    "rarity": "Common"
+  },
+  {
+    "id": "294",
+    "name": "Lantern Bite",
+    "emoji": "\ud83c\udf6d",
+    "rarity": "Epic"
+  },
+  {
+    "id": "295",
+    "name": "Hex Jelly Bean",
+    "emoji": "\ud83d\udd77\ufe0f",
+    "rarity": "Epic"
+  },
+  {
+    "id": "296",
+    "name": "Bat Wing Caramel Apple",
+    "emoji": "\ud83c\udf6d",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "297",
+    "name": "Spiderweb Lace Gummy Worm",
+    "emoji": "\ud83c\udf83",
+    "rarity": "Epic"
+  },
+  {
     "id": "298",
-    "name": "Haunted Web",
+    "name": "Vile Wafer",
+    "emoji": "\ud83e\udd87",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "299",
+    "name": "Hex Drop",
+    "emoji": "\ud83e\uddc1",
+    "rarity": "Legendary"
+  },
+  {
+    "id": "300",
+    "name": "Banshee Rope",
+    "emoji": "\ud83c\udf6a",
+    "rarity": "Legendary"
+  },
+  {
+    "id": "301",
+    "name": "Frankenstein's Bite",
+    "emoji": "\ud83c\udf6c",
+    "rarity": "Common"
+  },
+  {
+    "id": "302",
+    "name": "Vile Wafer",
+    "emoji": "\ud83e\udd87",
+    "rarity": "Epic"
+  },
+  {
+    "id": "303",
+    "name": "Spooky Puff",
+    "emoji": "\ud83e\uddc1",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "304",
+    "name": "Candlelit Jelly Bean",
+    "emoji": "\ud83c\udf6f",
+    "rarity": "Legendary"
+  },
+  {
+    "id": "305",
+    "name": "All Hallows Gumdrop",
+    "emoji": "\ud83d\udc7b",
+    "rarity": "Epic"
+  },
+  {
+    "id": "306",
+    "name": "Bat Bite Jelly Bean",
+    "emoji": "\ud83c\udf6a",
+    "rarity": "Epic"
+  },
+  {
+    "id": "307",
+    "name": "Creaky Door Pattie",
+    "emoji": "\ud83c\udf6c",
+    "rarity": "Epic"
+  },
+  {
+    "id": "308",
+    "name": "Skeleton Crew Wafer",
+    "emoji": "\ud83c\udf6c",
+    "rarity": "Common"
+  },
+  {
+    "id": "309",
+    "name": "Poison Apple Wafer",
+    "emoji": "\ud83c\udf6a",
+    "rarity": "Legendary"
+  },
+  {
+    "id": "310",
+    "name": "Lantern Bite",
+    "emoji": "\ud83c\udf6d",
+    "rarity": "Legendary"
+  },
+  {
+    "id": "311",
+    "name": "Pumpkin Patch Ghoul Gummy Bear",
+    "emoji": "\ud83d\udc80",
+    "rarity": "Epic"
+  },
+  {
+    "id": "312",
+    "name": "Abandoned Attic Sour Strip",
+    "emoji": "\ud83e\uddc3",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "313",
+    "name": "Ghoulish Crunch",
+    "emoji": "\ud83c\udf6a",
+    "rarity": "Common"
+  },
+  {
+    "id": "314",
+    "name": "Haunted Hayride Bonbon",
+    "emoji": "\ud83c\udf61",
+    "rarity": "Epic"
+  },
+  {
+    "id": "315",
+    "name": "Candy Coffin Cotton Candy",
+    "emoji": "\ud83c\udf6b",
+    "rarity": "Rare"
+  },
+  {
+    "id": "316",
+    "name": "Pumpkin Patch Ghoul Pop",
+    "emoji": "\ud83e\uddc1",
+    "rarity": "Epic"
+  },
+  {
+    "id": "317",
+    "name": "Hex Drop",
+    "emoji": "\ud83e\uddc1",
+    "rarity": "Rare"
+  },
+  {
+    "id": "318",
+    "name": "Cursed Pattie",
+    "emoji": "\ud83d\udc80",
+    "rarity": "Common"
+  },
+  {
+    "id": "319",
+    "name": "Witch's Hat Stick",
+    "emoji": "\ud83e\udd87",
+    "rarity": "Rare"
+  },
+  {
+    "id": "320",
+    "name": "Haunted Hayride Rope",
+    "emoji": "\ud83d\udd77\ufe0f",
+    "rarity": "Common"
+  },
+  {
+    "id": "321",
+    "name": "Creepy Crawler Bite",
+    "emoji": "\ud83e\uddc3",
+    "rarity": "Legendary"
+  },
+  {
+    "id": "322",
+    "name": "Pumpkin Patch Ghoul Gummy Bear",
+    "emoji": "\ud83d\udc80",
+    "rarity": "Common"
+  },
+  {
+    "id": "323",
+    "name": "Creepy Crawler Marshmallow",
+    "emoji": "\ud83d\udd77\ufe0f",
+    "rarity": "Common"
+  },
+  {
+    "id": "324",
+    "name": "Candlelit Jelly Bean",
+    "emoji": "\ud83c\udf6f",
+    "rarity": "Rare"
+  },
+  {
+    "id": "325",
+    "name": "All Hallows Gumdrop",
     "emoji": "\ud83d\udc7b",
     "rarity": "Common"
   },
   {
-    "id": "299",
-    "name": "Pumpkin Coin",
-    "emoji": "\ud83e\uddea",
+    "id": "326",
+    "name": "Haunted Hayride Bonbon",
+    "emoji": "\ud83c\udf61",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "327",
+    "name": "Harvest Moon Caramel Apple",
+    "emoji": "\ud83d\udd77\ufe0f",
+    "rarity": "Epic"
+  },
+  {
+    "id": "328",
+    "name": "Full Moon Brittle",
+    "emoji": "\ud83c\udf6c",
     "rarity": "Rare"
   },
   {
-    "id": "300",
-    "name": "Electric Gumdrop",
+    "id": "329",
+    "name": "Blood Moon Bite",
+    "emoji": "\ud83d\udc7b",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "330",
+    "name": "Spiderweb Lace Bite",
+    "emoji": "\ud83d\udc7b",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "331",
+    "name": "Spider Ring Fudge Square",
+    "emoji": "\ud83c\udf6f",
+    "rarity": "Legendary"
+  },
+  {
+    "id": "332",
+    "name": "Eyeball Brittle",
+    "emoji": "\ud83e\uddc3",
+    "rarity": "Epic"
+  },
+  {
+    "id": "333",
+    "name": "Trick or Treat Stick",
+    "emoji": "\ud83d\udc7b",
+    "rarity": "Common"
+  },
+  {
+    "id": "334",
+    "name": "Haunted House Pattie",
+    "emoji": "\ud83d\udc80",
+    "rarity": "Epic"
+  },
+  {
+    "id": "335",
+    "name": "Graveyard Gumdrop",
+    "emoji": "\ud83e\udd87",
+    "rarity": "Common"
+  },
+  {
+    "id": "336",
+    "name": "Foggy Moor Sour Strip",
+    "emoji": "\ud83d\udc80",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "337",
+    "name": "Candlelit Jelly Bean",
+    "emoji": "\ud83c\udf6f",
+    "rarity": "Epic"
+  },
+  {
+    "id": "338",
+    "name": "Witch's Lollipop",
+    "emoji": "\ud83d\udc7b",
+    "rarity": "Common"
+  },
+  {
+    "id": "339",
+    "name": "All Hallows Puff",
+    "emoji": "\ud83d\udd77\ufe0f",
+    "rarity": "Common"
+  },
+  {
+    "id": "340",
+    "name": "Candy Coffin Cotton Candy",
+    "emoji": "\ud83c\udf6b",
+    "rarity": "Legendary"
+  },
+  {
+    "id": "341",
+    "name": "Pumpkin Sour Strip",
+    "emoji": "\ud83e\uddc1",
+    "rarity": "Legendary"
+  },
+  {
+    "id": "342",
+    "name": "Werewolf Howler Bite",
+    "emoji": "\ud83e\uddc3",
+    "rarity": "Rare"
+  },
+  {
+    "id": "343",
+    "name": "Creepy Crawler Marshmallow",
+    "emoji": "\ud83d\udd77\ufe0f",
+    "rarity": "Epic"
+  },
+  {
+    "id": "344",
+    "name": "All Hallows Puff",
+    "emoji": "\ud83d\udd77\ufe0f",
+    "rarity": "Rare"
+  },
+  {
+    "id": "345",
+    "name": "Banshee Bite",
+    "emoji": "\ud83c\udf6c",
+    "rarity": "Legendary"
+  },
+  {
+    "id": "346",
+    "name": "Hex Candy Corn",
+    "emoji": "\ud83e\uddc1",
+    "rarity": "Legendary"
+  },
+  {
+    "id": "347",
+    "name": "Ghoul's Delight Pattie",
+    "emoji": "\ud83c\udf6b",
+    "rarity": "Legendary"
+  },
+  {
+    "id": "348",
+    "name": "Ash & Ember Bonbon",
+    "emoji": "\ud83c\udf6d",
+    "rarity": "Epic"
+  },
+  {
+    "id": "349",
+    "name": "Blood Moon Bite",
+    "emoji": "\ud83d\udc7b",
+    "rarity": "Rare"
+  },
+  {
+    "id": "350",
+    "name": "Haunted Hayride Bonbon",
+    "emoji": "\ud83c\udf61",
+    "rarity": "Common"
+  },
+  {
+    "id": "351",
+    "name": "Caldron Bubble Pattie",
+    "emoji": "\ud83d\udc80",
+    "rarity": "Epic"
+  },
+  {
+    "id": "352",
+    "name": "Full Moon Brittle",
+    "emoji": "\ud83c\udf6c",
+    "rarity": "Legendary"
+  },
+  {
+    "id": "353",
+    "name": "Phantasm Chew",
+    "emoji": "\ud83c\udf6b",
+    "rarity": "Legendary"
+  },
+  {
+    "id": "354",
+    "name": "Ash & Ember Sour Strip",
+    "emoji": "\ud83d\udd77\ufe0f",
+    "rarity": "Epic"
+  },
+  {
+    "id": "355",
+    "name": "Autumn Leaf Brittle",
+    "emoji": "\ud83e\uddc3",
+    "rarity": "Epic"
+  },
+  {
+    "id": "356",
+    "name": "Eyeball Brittle",
+    "emoji": "\ud83e\uddc3",
+    "rarity": "Rare"
+  },
+  {
+    "id": "357",
+    "name": "Pumpkin Sour Strip",
+    "emoji": "\ud83e\uddc1",
+    "rarity": "Rare"
+  },
+  {
+    "id": "358",
+    "name": "Foggy Moor Sour Strip",
+    "emoji": "\ud83d\udc80",
+    "rarity": "Legendary"
+  },
+  {
+    "id": "359",
+    "name": "All Hallows Puff",
+    "emoji": "\ud83d\udd77\ufe0f",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "360",
+    "name": "Autumn Leaf Pop",
+    "emoji": "\ud83e\uddc1",
+    "rarity": "Rare"
+  },
+  {
+    "id": "361",
+    "name": "Mummy Wrap Crunch",
+    "emoji": "\ud83c\udf6b",
+    "rarity": "Rare"
+  },
+  {
+    "id": "362",
+    "name": "Specter Bark",
+    "emoji": "\ud83e\uddc3",
+    "rarity": "Common"
+  },
+  {
+    "id": "363",
+    "name": "Ghost Fudge Square",
+    "emoji": "\ud83c\udf6d",
+    "rarity": "Common"
+  },
+  {
+    "id": "364",
+    "name": "Howling Wolf Pattie",
+    "emoji": "\ud83c\udf6a",
+    "rarity": "Common"
+  },
+  {
+    "id": "365",
+    "name": "Candy Coffin Cotton Candy",
+    "emoji": "\ud83c\udf6b",
+    "rarity": "Common"
+  },
+  {
+    "id": "366",
+    "name": "Dracula's Pop",
+    "emoji": "\ud83c\udf83",
+    "rarity": "Rare"
+  },
+  {
+    "id": "367",
+    "name": "Vile Wafer",
+    "emoji": "\ud83e\udd87",
+    "rarity": "Common"
+  },
+  {
+    "id": "368",
+    "name": "Devil's Food Ball",
+    "emoji": "\ud83c\udf61",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "369",
+    "name": "Pumpkin Patch Ghoul Brittle",
+    "emoji": "\ud83c\udf6d",
+    "rarity": "Epic"
+  },
+  {
+    "id": "370",
+    "name": "Broken Mirror Gumdrop",
+    "emoji": "\ud83c\udf6d",
+    "rarity": "Rare"
+  },
+  {
+    "id": "371",
+    "name": "Spider Ring Fudge Square",
+    "emoji": "\ud83c\udf6f",
+    "rarity": "Rare"
+  },
+  {
+    "id": "372",
+    "name": "Abandoned Attic Disc",
+    "emoji": "\ud83d\udc7b",
+    "rarity": "Epic"
+  },
+  {
+    "id": "373",
+    "name": "Graveyard Truffle",
+    "emoji": "\ud83c\udf61",
+    "rarity": "Legendary"
+  },
+  {
+    "id": "374",
+    "name": "Spine-Chilling Toffee",
+    "emoji": "\ud83c\udf6b",
+    "rarity": "Legendary"
+  },
+  {
+    "id": "375",
+    "name": "Dusk Till Dawn Truffle",
+    "emoji": "\ud83c\udf6f",
+    "rarity": "Epic"
+  },
+  {
+    "id": "376",
+    "name": "Mummy Wrap Nougat",
+    "emoji": "\ud83c\udf61",
+    "rarity": "Common"
+  },
+  {
+    "id": "377",
+    "name": "Zombie Brain Marshmallow",
+    "emoji": "\ud83d\udd77\ufe0f",
+    "rarity": "Rare"
+  },
+  {
+    "id": "378",
+    "name": "Poltergeist Toffee",
+    "emoji": "\ud83e\uddc1",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "379",
+    "name": "Zombie Brain Marshmallow",
+    "emoji": "\ud83d\udd77\ufe0f",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "380",
+    "name": "Ghost Fudge Square",
+    "emoji": "\ud83c\udf6d",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "381",
+    "name": "Mummy Wrap Crunch",
+    "emoji": "\ud83c\udf6b",
+    "rarity": "Legendary"
+  },
+  {
+    "id": "382",
+    "name": "Eerie Ball",
+    "emoji": "\ud83c\udf83",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "383",
+    "name": "Haunted Hayride Rope",
+    "emoji": "\ud83d\udd77\ufe0f",
+    "rarity": "Rare"
+  },
+  {
+    "id": "384",
+    "name": "All Hallows Crunch",
+    "emoji": "\ud83c\udf61",
+    "rarity": "Rare"
+  },
+  {
+    "id": "385",
+    "name": "Candle Wax Rope",
+    "emoji": "\ud83d\udc80",
+    "rarity": "Common"
+  },
+  {
+    "id": "386",
+    "name": "Full Moon Brittle",
+    "emoji": "\ud83c\udf6c",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "387",
+    "name": "Bat Bite Jelly Bean",
+    "emoji": "\ud83c\udf6a",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "388",
+    "name": "Werewolf Howler Bite",
+    "emoji": "\ud83e\uddc3",
+    "rarity": "Legendary"
+  },
+  {
+    "id": "389",
+    "name": "Hex Jelly Bean",
+    "emoji": "\ud83d\udd77\ufe0f",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "390",
+    "name": "Hollow Sour Strip",
+    "emoji": "\ud83d\udc7b",
+    "rarity": "Epic"
+  },
+  {
+    "id": "391",
+    "name": "Frankenstein's Bite",
+    "emoji": "\ud83c\udf6c",
+    "rarity": "Rare"
+  },
+  {
+    "id": "392",
+    "name": "Dracula's Pop",
+    "emoji": "\ud83c\udf83",
+    "rarity": "Common"
+  },
+  {
+    "id": "393",
+    "name": "Scarecrow Chocolate Bar",
+    "emoji": "\ud83e\uddc3",
+    "rarity": "Epic"
+  },
+  {
+    "id": "394",
+    "name": "Grimoire Truffle",
+    "emoji": "\ud83d\udd77\ufe0f",
+    "rarity": "Common"
+  },
+  {
+    "id": "395",
+    "name": "Ghost Gummy Worm",
+    "emoji": "\ud83c\udf6f",
+    "rarity": "Epic"
+  },
+  {
+    "id": "396",
+    "name": "Dusk Till Dawn Truffle",
+    "emoji": "\ud83c\udf6f",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "397",
+    "name": "Pumpkin Patch Ghoul Gummy Bear",
+    "emoji": "\ud83d\udc80",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "398",
+    "name": "Spooky Puff",
+    "emoji": "\ud83e\uddc1",
+    "rarity": "Legendary"
+  },
+  {
+    "id": "399",
+    "name": "Autumn Leaf Pop",
+    "emoji": "\ud83e\uddc1",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "400",
+    "name": "Candle Wax Bite",
+    "emoji": "\ud83c\udf6b",
+    "rarity": "Common"
+  },
+  {
+    "id": "401",
+    "name": "Mummy Wrap Rope",
+    "emoji": "\ud83c\udf6f",
+    "rarity": "Epic"
+  },
+  {
+    "id": "402",
+    "name": "Hex Drop",
+    "emoji": "\ud83e\uddc1",
+    "rarity": "Epic"
+  },
+  {
+    "id": "403",
+    "name": "Ghoulish Gummy Worm",
+    "emoji": "\ud83c\udf61",
+    "rarity": "Epic"
+  },
+  {
+    "id": "404",
+    "name": "Skeleton Crew Wafer",
+    "emoji": "\ud83c\udf6c",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "405",
+    "name": "Banshee Rope",
+    "emoji": "\ud83c\udf6a",
+    "rarity": "Rare"
+  },
+  {
+    "id": "406",
+    "name": "Trick or Treat Stick",
+    "emoji": "\ud83d\udc7b",
+    "rarity": "Rare"
+  },
+  {
+    "id": "407",
+    "name": "Grim Reaper Chew",
+    "emoji": "\ud83c\udf6c",
+    "rarity": "Legendary"
+  },
+  {
+    "id": "408",
+    "name": "Ash & Ember Sour Strip",
+    "emoji": "\ud83d\udd77\ufe0f",
+    "rarity": "Legendary"
+  },
+  {
+    "id": "409",
+    "name": "Bloody Fang Puff",
+    "emoji": "\ud83d\udd77\ufe0f",
+    "rarity": "Legendary"
+  },
+  {
+    "id": "410",
+    "name": "Monster Mash Cluster",
+    "emoji": "\ud83e\uddc1",
+    "rarity": "Common"
+  },
+  {
+    "id": "411",
+    "name": "Poltergeist Toffee",
+    "emoji": "\ud83e\uddc1",
+    "rarity": "Epic"
+  },
+  {
+    "id": "412",
+    "name": "Haunted Hayride Wafer",
+    "emoji": "\ud83d\udc80",
+    "rarity": "Legendary"
+  },
+  {
+    "id": "413",
+    "name": "Specter Bark",
+    "emoji": "\ud83e\uddc3",
+    "rarity": "Epic"
+  },
+  {
+    "id": "414",
+    "name": "Howl Marshmallow",
+    "emoji": "\ud83d\udd77\ufe0f",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "415",
+    "name": "Ghoulish Crunch",
+    "emoji": "\ud83c\udf6a",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "416",
+    "name": "Candle Wax Bite",
+    "emoji": "\ud83c\udf6b",
+    "rarity": "Legendary"
+  },
+  {
+    "id": "417",
+    "name": "Haunted Hayride Rope",
+    "emoji": "\ud83d\udd77\ufe0f",
+    "rarity": "Epic"
+  },
+  {
+    "id": "418",
+    "name": "Broken Mirror Gumdrop",
+    "emoji": "\ud83c\udf6d",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "419",
+    "name": "Devil's Food Ball",
+    "emoji": "\ud83c\udf61",
+    "rarity": "Rare"
+  },
+  {
+    "id": "420",
+    "name": "Pumpkin Nougat",
+    "emoji": "\ud83c\udf6f",
+    "rarity": "Legendary"
+  },
+  {
+    "id": "421",
+    "name": "Pumpkin King Drop",
+    "emoji": "\ud83e\uddc1",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "422",
+    "name": "Wicked Witch Button",
+    "emoji": "\ud83c\udf61",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "423",
+    "name": "Trick or Treat Caramel Apple",
+    "emoji": "\ud83c\udf6f",
+    "rarity": "Legendary"
+  },
+  {
+    "id": "424",
+    "name": "Spiderweb Lace Bite",
+    "emoji": "\ud83d\udc7b",
+    "rarity": "Epic"
+  },
+  {
+    "id": "425",
+    "name": "Zombie Brain Marshmallow",
+    "emoji": "\ud83d\udd77\ufe0f",
+    "rarity": "Epic"
+  },
+  {
+    "id": "426",
+    "name": "Creaky Door Pattie",
+    "emoji": "\ud83c\udf6c",
+    "rarity": "Legendary"
+  },
+  {
+    "id": "427",
+    "name": "Skeleton Crew Wafer",
+    "emoji": "\ud83c\udf6c",
+    "rarity": "Rare"
+  },
+  {
+    "id": "428",
+    "name": "Spine-Chilling Toffee",
+    "emoji": "\ud83c\udf6b",
+    "rarity": "Common"
+  },
+  {
+    "id": "429",
+    "name": "Grimoire Truffle",
+    "emoji": "\ud83d\udd77\ufe0f",
+    "rarity": "Epic"
+  },
+  {
+    "id": "430",
+    "name": "Spiderweb Lace Gummy Worm",
+    "emoji": "\ud83c\udf83",
+    "rarity": "Rare"
+  },
+  {
+    "id": "431",
+    "name": "Bat Wing Caramel Apple",
+    "emoji": "\ud83c\udf6d",
+    "rarity": "Legendary"
+  },
+  {
+    "id": "432",
+    "name": "Creepy Crawler Marshmallow",
+    "emoji": "\ud83d\udd77\ufe0f",
+    "rarity": "Rare"
+  },
+  {
+    "id": "433",
+    "name": "Spider Ring Fudge Square",
+    "emoji": "\ud83c\udf6f",
+    "rarity": "Epic"
+  },
+  {
+    "id": "434",
+    "name": "Cauldron Bite",
+    "emoji": "\ud83c\udf6b",
+    "rarity": "Epic"
+  },
+  {
+    "id": "435",
+    "name": "Pumpkin Patch Ghoul Brittle",
+    "emoji": "\ud83c\udf6d",
+    "rarity": "Rare"
+  },
+  {
+    "id": "436",
+    "name": "Witch's Hat Brittle",
+    "emoji": "\ud83c\udf6a",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "437",
+    "name": "Eyeball Brittle",
+    "emoji": "\ud83e\uddc3",
+    "rarity": "Common"
+  },
+  {
+    "id": "438",
+    "name": "Witch's Hat Brittle",
+    "emoji": "\ud83c\udf6a",
+    "rarity": "Epic"
+  },
+  {
+    "id": "439",
+    "name": "Mummy Wrap Rope",
+    "emoji": "\ud83c\udf6f",
+    "rarity": "Legendary"
+  },
+  {
+    "id": "440",
+    "name": "Harvest Moon Toffee",
+    "emoji": "\ud83e\uddc1",
+    "rarity": "Epic"
+  },
+  {
+    "id": "441",
+    "name": "Grim Reaper Chew",
+    "emoji": "\ud83c\udf6c",
+    "rarity": "Rare"
+  },
+  {
+    "id": "442",
+    "name": "Trick or Treat Caramel Apple",
+    "emoji": "\ud83c\udf6f",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "443",
+    "name": "Mummy Wrap Crunch",
+    "emoji": "\ud83c\udf6b",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "444",
+    "name": "Haunted Hayride Bonbon",
+    "emoji": "\ud83c\udf61",
+    "rarity": "Legendary"
+  },
+  {
+    "id": "445",
+    "name": "Skeleton Crew Wafer",
+    "emoji": "\ud83c\udf6c",
+    "rarity": "Epic"
+  },
+  {
+    "id": "446",
+    "name": "Bat Wing Caramel Apple",
+    "emoji": "\ud83c\udf6d",
+    "rarity": "Rare"
+  },
+  {
+    "id": "447",
+    "name": "Creaky Door Pattie",
+    "emoji": "\ud83c\udf6c",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "448",
+    "name": "Ghoulish Gummy Worm",
+    "emoji": "\ud83c\udf61",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "449",
+    "name": "Creeping Vine Jelly Bean",
+    "emoji": "\ud83c\udf83",
+    "rarity": "Rare"
+  },
+  {
+    "id": "450",
+    "name": "Eyeball Stick",
+    "emoji": "\ud83d\udc7b",
+    "rarity": "Legendary"
+  },
+  {
+    "id": "451",
+    "name": "Graveyard Gumdrop",
+    "emoji": "\ud83e\udd87",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "452",
+    "name": "Enchanted Forest Truffle",
     "emoji": "\ud83e\udd87",
     "rarity": "Rare"
+  },
+  {
+    "id": "453",
+    "name": "Cursed Pattie",
+    "emoji": "\ud83d\udc80",
+    "rarity": "Epic"
+  },
+  {
+    "id": "454",
+    "name": "All Hallows Crunch",
+    "emoji": "\ud83c\udf61",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "455",
+    "name": "Haunted Hayride Wafer",
+    "emoji": "\ud83d\udc80",
+    "rarity": "Rare"
+  },
+  {
+    "id": "456",
+    "name": "Dusk Till Dawn Truffle",
+    "emoji": "\ud83c\udf6f",
+    "rarity": "Rare"
+  },
+  {
+    "id": "457",
+    "name": "Caldron Bubble Pattie",
+    "emoji": "\ud83d\udc80",
+    "rarity": "Legendary"
+  },
+  {
+    "id": "458",
+    "name": "Poison Apple Wafer",
+    "emoji": "\ud83c\udf6a",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "459",
+    "name": "Specter Bark",
+    "emoji": "\ud83e\uddc3",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "460",
+    "name": "Eerie Ball",
+    "emoji": "\ud83c\udf83",
+    "rarity": "Common"
+  },
+  {
+    "id": "461",
+    "name": "Pumpkin Nougat",
+    "emoji": "\ud83c\udf6f",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "462",
+    "name": "All Hallows Gummy Bear",
+    "emoji": "\ud83c\udf6b",
+    "rarity": "Rare"
+  },
+  {
+    "id": "463",
+    "name": "Creeping Vine Jelly Bean",
+    "emoji": "\ud83c\udf83",
+    "rarity": "Epic"
+  },
+  {
+    "id": "464",
+    "name": "Eyeball Brittle",
+    "emoji": "\ud83e\uddc3",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "465",
+    "name": "Poison Apple Bark",
+    "emoji": "\ud83c\udf6f",
+    "rarity": "Rare"
+  },
+  {
+    "id": "466",
+    "name": "Bat Wing Caramel Apple",
+    "emoji": "\ud83c\udf6d",
+    "rarity": "Common"
+  },
+  {
+    "id": "467",
+    "name": "Banshee Bite",
+    "emoji": "\ud83c\udf6c",
+    "rarity": "Epic"
+  },
+  {
+    "id": "468",
+    "name": "Werewolf Howler Bite",
+    "emoji": "\ud83e\uddc3",
+    "rarity": "Common"
+  },
+  {
+    "id": "469",
+    "name": "Phantasm Chew",
+    "emoji": "\ud83c\udf6b",
+    "rarity": "Rare"
+  },
+  {
+    "id": "470",
+    "name": "Trick or Treat Candy Corn",
+    "emoji": "\ud83c\udf6a",
+    "rarity": "Rare"
+  },
+  {
+    "id": "471",
+    "name": "Poison Apple Bark",
+    "emoji": "\ud83c\udf6f",
+    "rarity": "Legendary"
+  },
+  {
+    "id": "472",
+    "name": "Scarecrow Chocolate Bar",
+    "emoji": "\ud83e\uddc3",
+    "rarity": "Rare"
+  },
+  {
+    "id": "473",
+    "name": "Howl Marshmallow",
+    "emoji": "\ud83d\udd77\ufe0f",
+    "rarity": "Legendary"
+  },
+  {
+    "id": "474",
+    "name": "Witch's Lollipop",
+    "emoji": "\ud83d\udc7b",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "475",
+    "name": "Howling Wolf Pattie",
+    "emoji": "\ud83c\udf6a",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "476",
+    "name": "Scarecrow Chocolate Bar",
+    "emoji": "\ud83e\uddc3",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "477",
+    "name": "Grimoire Truffle",
+    "emoji": "\ud83d\udd77\ufe0f",
+    "rarity": "Legendary"
+  },
+  {
+    "id": "478",
+    "name": "Wicked Witch Button",
+    "emoji": "\ud83c\udf61",
+    "rarity": "Epic"
+  },
+  {
+    "id": "479",
+    "name": "Bloody Fang Chocolate Bar",
+    "emoji": "\ud83c\udf61",
+    "rarity": "Legendary"
+  },
+  {
+    "id": "480",
+    "name": "Pumpkin Nougat",
+    "emoji": "\ud83c\udf6f",
+    "rarity": "Rare"
+  },
+  {
+    "id": "481",
+    "name": "Harvest Moon Caramel Apple",
+    "emoji": "\ud83d\udd77\ufe0f",
+    "rarity": "Common"
+  },
+  {
+    "id": "482",
+    "name": "Trick or Treat Candy Corn",
+    "emoji": "\ud83c\udf6a",
+    "rarity": "Common"
+  },
+  {
+    "id": "483",
+    "name": "Bat Wing Caramel Apple",
+    "emoji": "\ud83c\udf6d",
+    "rarity": "Epic"
+  },
+  {
+    "id": "484",
+    "name": "Abandoned Attic Sour Strip",
+    "emoji": "\ud83e\uddc3",
+    "rarity": "Common"
+  },
+  {
+    "id": "485",
+    "name": "All Hallows Puff",
+    "emoji": "\ud83d\udd77\ufe0f",
+    "rarity": "Epic"
+  },
+  {
+    "id": "486",
+    "name": "Phantasm Chew",
+    "emoji": "\ud83c\udf6b",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "487",
+    "name": "Spiderweb Lace Bite",
+    "emoji": "\ud83d\udc7b",
+    "rarity": "Rare"
+  },
+  {
+    "id": "488",
+    "name": "Spiderweb Lace Bite",
+    "emoji": "\ud83d\udc7b",
+    "rarity": "Common"
+  },
+  {
+    "id": "489",
+    "name": "Devil's Food Ball",
+    "emoji": "\ud83c\udf61",
+    "rarity": "Epic"
+  },
+  {
+    "id": "490",
+    "name": "Haunted House Pattie",
+    "emoji": "\ud83d\udc80",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "491",
+    "name": "Vile Wafer",
+    "emoji": "\ud83e\udd87",
+    "rarity": "Legendary"
+  },
+  {
+    "id": "492",
+    "name": "Bat Bite Jelly Bean",
+    "emoji": "\ud83c\udf6a",
+    "rarity": "Common"
+  },
+  {
+    "id": "493",
+    "name": "Blood Moon Bite",
+    "emoji": "\ud83d\udc7b",
+    "rarity": "Legendary"
+  },
+  {
+    "id": "494",
+    "name": "Autumn Leaf Brittle",
+    "emoji": "\ud83e\uddc3",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "495",
+    "name": "Wicked Witch Button",
+    "emoji": "\ud83c\udf61",
+    "rarity": "Rare"
+  },
+  {
+    "id": "496",
+    "name": "Howl Marshmallow",
+    "emoji": "\ud83d\udd77\ufe0f",
+    "rarity": "Rare"
+  },
+  {
+    "id": "497",
+    "name": "Witch's Hat Brittle",
+    "emoji": "\ud83c\udf6a",
+    "rarity": "Legendary"
+  },
+  {
+    "id": "498",
+    "name": "Ghoulish Gummy Worm",
+    "emoji": "\ud83c\udf61",
+    "rarity": "Legendary"
+  },
+  {
+    "id": "499",
+    "name": "Haunted Hayride Wafer",
+    "emoji": "\ud83d\udc80",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "500",
+    "name": "Creepy Crawler Marshmallow",
+    "emoji": "\ud83d\udd77\ufe0f",
+    "rarity": "Legendary"
   }
 ]
