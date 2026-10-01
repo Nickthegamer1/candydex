@@ -1,0 +1,432 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Candy Pokedex</title>
+<style>
+  :root {
+    --bg: #0d0b1a;
+    --panel: #171330;
+    --panel2: #1f1a42;
+    --border: #322a5e;
+    --accent: #ff8c00;
+    --accent2: #ff5fa2;
+    --text: #f1eefc;
+    --muted: #9b94c4;
+    --common: #9aa0a8;
+    --uncommon: #4caf50;
+    --rare: #2196f3;
+    --epic: #a259ff;
+    --legendary: #ffd700;
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    min-height: 100vh;
+    background:
+      radial-gradient(circle at 15% 0%, rgba(255,140,0,0.12), transparent 40%),
+      radial-gradient(circle at 85% 10%, rgba(162,89,255,0.14), transparent 45%),
+      var(--bg);
+    color: var(--text);
+    font-family: 'Segoe UI', Arial, sans-serif;
+  }
+
+  header {
+    text-align: center;
+    padding: 36px 20px 20px;
+  }
+
+  header h1 {
+    margin: 0;
+    font-size: 34px;
+    font-weight: 800;
+    letter-spacing: 0.5px;
+  }
+
+  header p {
+    margin: 6px 0 0;
+    color: var(--muted);
+    font-size: 15px;
+  }
+
+  .stat-bar {
+    display: flex;
+    justify-content: center;
+    gap: 14px;
+    flex-wrap: wrap;
+    margin: 22px auto 0;
+    max-width: 900px;
+  }
+
+  .stat-pill {
+    background: var(--panel);
+    border: 1px solid var(--border);
+    border-radius: 999px;
+    padding: 10px 20px;
+    font-size: 13px;
+    color: var(--muted);
+  }
+  .stat-pill b { color: var(--text); font-size: 15px; }
+
+  nav.tabs {
+    display: flex;
+    justify-content: center;
+    gap: 8px;
+    margin: 28px auto 0;
+    max-width: 500px;
+    background: var(--panel);
+    border: 1px solid var(--border);
+    border-radius: 14px;
+    padding: 6px;
+  }
+
+  nav.tabs button {
+    flex: 1;
+    padding: 10px 16px;
+    border: none;
+    border-radius: 10px;
+    background: transparent;
+    color: var(--muted);
+    font-size: 14px;
+    font-weight: 700;
+    cursor: pointer;
+    transition: all 0.15s ease;
+  }
+  nav.tabs button.active {
+    background: linear-gradient(135deg, var(--accent), var(--accent2));
+    color: #1a0f0a;
+  }
+
+  main {
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 28px 20px 60px;
+  }
+
+  section { display: none; }
+  section.active { display: block; }
+
+  .search-row {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-bottom: 18px;
+    flex-wrap: wrap;
+  }
+
+  .search-row input {
+    padding: 12px 16px;
+    border-radius: 10px;
+    border: 1px solid var(--border);
+    background: var(--panel);
+    color: var(--text);
+    font-size: 15px;
+    width: 260px;
+  }
+  .search-row input:focus { outline: 2px solid var(--accent); }
+
+  .search-row button {
+    padding: 12px 22px;
+    border-radius: 10px;
+    border: none;
+    background: linear-gradient(135deg, var(--accent), var(--accent2));
+    color: #1a0f0a;
+    font-weight: 800;
+    font-size: 14px;
+    cursor: pointer;
+  }
+
+  .filters {
+    display: flex;
+    justify-content: center;
+    gap: 8px;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+  }
+  .filters button {
+    padding: 7px 16px;
+    border-radius: 999px;
+    border: 1px solid var(--border);
+    background: var(--panel);
+    color: var(--muted);
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    cursor: pointer;
+  }
+  .filters button.active { color: #0d0b1a; background: var(--text); }
+
+  .stats-line {
+    text-align: center;
+    color: var(--muted);
+    font-size: 14px;
+    margin-bottom: 22px;
+  }
+
+  #grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
+    gap: 12px;
+  }
+
+  .card {
+    background: var(--panel);
+    border-radius: 14px;
+    padding: 14px 10px;
+    text-align: center;
+    border: 2px solid var(--border);
+    position: relative;
+    transition: transform 0.12s ease;
+  }
+  .card:hover { transform: translateY(-3px); }
+
+  .card.owned.Common    { border-color: var(--common); }
+  .card.owned.Uncommon  { border-color: var(--uncommon); box-shadow: 0 0 10px rgba(76,175,80,0.35); }
+  .card.owned.Rare      { border-color: var(--rare); box-shadow: 0 0 10px rgba(33,150,243,0.4); }
+  .card.owned.Epic      { border-color: var(--epic); box-shadow: 0 0 12px rgba(162,89,255,0.5); }
+  .card.owned.Legendary { border-color: var(--legendary); box-shadow: 0 0 16px rgba(255,215,0,0.6); }
+  .card.missing { opacity: 0.32; filter: grayscale(1); }
+
+  .card .emoji { font-size: 32px; }
+  .card .name { font-size: 12px; margin-top: 6px; min-height: 32px; line-height: 1.25; }
+  .card .rarity { font-size: 10px; text-transform: uppercase; opacity: 0.75; margin-top: 2px; letter-spacing: 0.5px; }
+
+  .count {
+    position: absolute;
+    top: 6px;
+    right: 8px;
+    background: var(--accent);
+    color: #1a0f0a;
+    font-weight: 800;
+    font-size: 10px;
+    border-radius: 8px;
+    padding: 2px 7px;
+  }
+
+  /* Leaderboard */
+  .lb-wrap {
+    max-width: 800px;
+    margin: 0 auto;
+    background: var(--panel);
+    border: 1px solid var(--border);
+    border-radius: 16px;
+    overflow: hidden;
+  }
+  table { width: 100%; border-collapse: collapse; }
+  thead th {
+    text-align: left;
+    padding: 14px 18px;
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    color: var(--muted);
+    background: var(--panel2);
+    border-bottom: 1px solid var(--border);
+  }
+  tbody td {
+    padding: 14px 18px;
+    border-bottom: 1px solid var(--border);
+    font-size: 14px;
+  }
+  tbody tr:last-child td { border-bottom: none; }
+  tbody tr:hover { background: rgba(255,255,255,0.03); }
+  .rank { font-weight: 800; width: 50px; }
+  .rank-1 { color: var(--legendary); }
+  .rank-2 { color: #d9d9d9; }
+  .rank-3 { color: #e0a569; }
+  .name-cell { font-weight: 700; }
+  .lb-empty {
+    text-align: center;
+    padding: 40px 20px;
+    color: var(--muted);
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>🎃 Candy Pokedex</h1>
+  <p>Collect, trade stories, and see how you stack up against the community</p>
+  <div class="stat-bar">
+    <div class="stat-pill"><b id="statTotalCandies">—</b> candies to collect</div>
+    <div class="stat-pill"><b id="statLegendary">—</b> Legendary</div>
+    <div class="stat-pill"><b id="statCommunityBags">—</b> community bags opened</div>
+  </div>
+</header>
+
+<nav class="tabs">
+  <button id="tabBtnMine" class="active">My Candy</button>
+  <button id="tabBtnBoard">Leaderboard</button>
+</nav>
+
+<main>
+  <section id="tabMine" class="active">
+    <div class="search-row">
+      <input id="usernameInput" type="text" placeholder="your Twitch/Kick/YouTube username" />
+      <button onclick="loadViewer()">Show my candy</button>
+    </div>
+    <div class="filters" id="rarityFilters"></div>
+    <div class="stats-line" id="stats"></div>
+    <div id="grid"></div>
+  </section>
+
+  <section id="tabBoard">
+    <div class="lb-wrap">
+      <table>
+        <thead>
+          <tr><th>Rank</th><th>Viewer</th><th>Candies</th><th>Legendary</th><th>Bags Opened</th></tr>
+        </thead>
+        <tbody id="lbBody"></tbody>
+      </table>
+    </div>
+  </section>
+</main>
+
+<script>
+const BASE = "./";
+let candies = [];
+let viewers = {};
+let activeRarity = "All";
+const RARITIES = ["All", "Common", "Uncommon", "Rare", "Epic", "Legendary"];
+
+async function loadData() {
+  const [candyRes, viewerRes, communityRes] = await Promise.all([
+    fetch(BASE + "candies.json", { cache: "no-store" }),
+    fetch(BASE + "viewers.json", { cache: "no-store" }),
+    fetch(BASE + "community.json", { cache: "no-store" }).catch(() => null)
+  ]);
+  candies = await candyRes.json();
+  try { viewers = await viewerRes.json(); } catch (e) { viewers = {}; }
+
+  document.getElementById("statTotalCandies").textContent = candies.length;
+  document.getElementById("statLegendary").textContent =
+    candies.filter(c => c.rarity === "Legendary").length;
+  try {
+    const communityText = communityRes ? (await communityRes.text()).trim() : "0";
+    document.getElementById("statCommunityBags").textContent = parseInt(communityText, 10) || 0;
+  } catch (e) {
+    document.getElementById("statCommunityBags").textContent = "0";
+  }
+}
+
+function buildFilters() {
+  const wrap = document.getElementById("rarityFilters");
+  wrap.innerHTML = "";
+  RARITIES.forEach(r => {
+    const btn = document.createElement("button");
+    btn.textContent = r;
+    if (r === activeRarity) btn.classList.add("active");
+    btn.onclick = () => {
+      activeRarity = r;
+      buildFilters();
+      renderGrid(currentOwnedMap);
+    };
+    wrap.appendChild(btn);
+  });
+}
+
+let currentOwnedMap = {};
+
+function renderGrid(ownedMap) {
+  currentOwnedMap = ownedMap;
+  const grid = document.getElementById("grid");
+  grid.innerHTML = "";
+  const list = activeRarity === "All" ? candies : candies.filter(c => c.rarity === activeRarity);
+  list.forEach(c => {
+    const owned = ownedMap[c.id] > 0;
+    const div = document.createElement("div");
+    div.className = "card " + (owned ? "owned " + c.rarity : "missing");
+    div.innerHTML = `
+      <div class="emoji">${owned ? c.emoji : "❓"}</div>
+      <div class="name">${owned ? c.name : "???"}</div>
+      <div class="rarity">${owned ? c.rarity : ""}</div>
+      ${owned ? `<div class="count">x${ownedMap[c.id]}</div>` : ""}
+    `;
+    grid.appendChild(div);
+  });
+}
+
+function loadViewer() {
+  const name = document.getElementById("usernameInput").value.trim().toLowerCase();
+  const stats = document.getElementById("stats");
+  if (!name) return;
+
+  const data = viewers[name];
+  const owned = data ? data.candies : {};
+  const ownedCount = Object.keys(owned).length;
+  const bags = data ? data.bagsOpened : 0;
+
+  stats.textContent = `${name}: ${ownedCount} / ${candies.length} candies collected — ${bags} bags opened`;
+  renderGrid(owned);
+}
+
+function renderLeaderboard() {
+  const candyById = {};
+  candies.forEach(c => { candyById[c.id] = c; });
+
+  const rows = Object.keys(viewers).map(name => {
+    const v = viewers[name];
+    const ownedIds = Object.keys(v.candies || {});
+    const uniqueCount = ownedIds.length;
+    let legendaryCount = 0;
+    ownedIds.forEach(id => {
+      const c = candyById[id];
+      if (c && c.rarity === "Legendary") legendaryCount += v.candies[id];
+    });
+    return { name, uniqueCount, legendaryCount, bagsOpened: v.bagsOpened || 0 };
+  });
+
+  rows.sort((a, b) => b.uniqueCount - a.uniqueCount || b.legendaryCount - a.legendaryCount || b.bagsOpened - a.bagsOpened);
+
+  const tbody = document.getElementById("lbBody");
+  tbody.innerHTML = "";
+
+  if (rows.length === 0) {
+    tbody.innerHTML = `<tr><td colspan="5" class="lb-empty">No bags opened yet — be the first!</td></tr>`;
+    return;
+  }
+
+  const medals = ["🥇", "🥈", "🥉"];
+  rows.slice(0, 25).forEach((r, i) => {
+    const rankClass = i < 3 ? `rank-${i + 1}` : "";
+    const rankDisplay = i < 3 ? medals[i] : `#${i + 1}`;
+    const tr = document.createElement("tr");
+    tr.innerHTML = `
+      <td class="rank ${rankClass}">${rankDisplay}</td>
+      <td class="name-cell">${r.name}</td>
+      <td>${r.uniqueCount} / ${candies.length}</td>
+      <td>${r.legendaryCount}</td>
+      <td>${r.bagsOpened}</td>
+    `;
+    tbody.appendChild(tr);
+  });
+}
+
+function switchTab(which) {
+  document.getElementById("tabMine").classList.toggle("active", which === "mine");
+  document.getElementById("tabBoard").classList.toggle("active", which === "board");
+  document.getElementById("tabBtnMine").classList.toggle("active", which === "mine");
+  document.getElementById("tabBtnBoard").classList.toggle("active", which === "board");
+}
+
+document.getElementById("tabBtnMine").onclick = () => switchTab("mine");
+document.getElementById("tabBtnBoard").onclick = () => {
+  switchTab("board");
+  renderLeaderboard();
+};
+
+(async () => {
+  await loadData();
+  buildFilters();
+  document.getElementById("stats").textContent =
+    `Search your name above to see your collection.`;
+  renderGrid({});
+})();
+</script>
+
+</body>
+</html>
