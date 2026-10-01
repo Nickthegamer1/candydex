@@ -1,9 +1,9 @@
 {
   "underscorepower": {
-    "bagsOpened": 14,
+    "bagsOpened": 15,
     "bagsByType": {
       "common": 11,
-      "rare": 3
+      "rare": 4
     },
     "candies": {
       "047": 1,
@@ -31,7 +31,9 @@
       "125": 1,
       "221": 1,
       "005": 1,
-      "070": 1
+      "070": 1,
+      "134": 1,
+      "024": 1
     }
   },
   "afterhoursai": {
