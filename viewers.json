@@ -1086,9 +1086,9 @@
     }
   },
   "Malachi954": {
-    "bagsOpened": 40,
+    "bagsOpened": 41,
     "bagsByType": {
-      "common": 28,
+      "common": 29,
       "rare": 10,
       "mystical": 2
     },
@@ -1163,7 +1163,8 @@
       "418": 1,
       "394": 1,
       "425": 1,
-      "134": 1
+      "134": 1,
+      "168": 1
     }
   },
   "monsterkait": {
