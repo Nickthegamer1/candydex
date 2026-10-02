@@ -1378,9 +1378,9 @@
     }
   },
   "3vi1Knight": {
-    "bagsOpened": 15,
+    "bagsOpened": 16,
     "bagsByType": {
-      "common": 8,
+      "common": 9,
       "mystical": 3,
       "rare": 4
     },
@@ -1415,7 +1415,8 @@
       "332": 1,
       "459": 1,
       "114": 1,
-      "039": 1
+      "039": 1,
+      "277": 1
     }
   }
 }
