@@ -1,8 +1,8 @@
 {
   "NolDawgg_": {
-    "bagsOpened": 257,
+    "bagsOpened": 258,
     "bagsByType": {
-      "common": 180,
+      "common": 181,
       "rare": 66,
       "mystical": 11
     },
@@ -279,7 +279,8 @@
       "352": 1,
       "194": 1,
       "384": 1,
-      "332": 1
+      "332": 1,
+      "188": 1
     }
   },
   "ItzLeeTV": {
@@ -645,9 +646,9 @@
     }
   },
   "SunshineJul": {
-    "bagsOpened": 107,
+    "bagsOpened": 108,
     "bagsByType": {
-      "common": 68,
+      "common": 69,
       "rare": 29,
       "mystical": 10
     },
@@ -821,7 +822,9 @@
       "330": 1,
       "374": 1,
       "010": 1,
-      "083": 1
+      "083": 1,
+      "111": 1,
+      "473": 1
     }
   },
   "og_CryptKeeper": {
