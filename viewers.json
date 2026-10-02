@@ -1255,10 +1255,10 @@
     }
   },
   "m0nsterk93": {
-    "bagsOpened": 22,
+    "bagsOpened": 23,
     "bagsByType": {
       "common": 12,
-      "rare": 9,
+      "rare": 10,
       "mystical": 1
     },
     "candies": {
@@ -1304,7 +1304,9 @@
       "175": 1,
       "436": 1,
       "105": 1,
-      "032": 1
+      "032": 1,
+      "473": 1,
+      "007": 1
     }
   },
   "HookNSet402": {
