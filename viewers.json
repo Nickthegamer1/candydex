@@ -1109,5 +1109,14 @@
       "485": 1,
       "234": 1
     }
+  },
+  "RIPster15": {
+    "bagsOpened": 1,
+    "bagsByType": {
+      "common": 1
+    },
+    "candies": {
+      "294": 1
+    }
   }
 }
