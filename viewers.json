@@ -344,9 +344,9 @@
     }
   },
   "ItzLeeTV": {
-    "bagsOpened": 316,
+    "bagsOpened": 317,
     "bagsByType": {
-      "common": 231,
+      "common": 232,
       "rare": 67,
       "mystical": 18
     },
@@ -665,7 +665,8 @@
       "246": 1,
       "376": 1,
       "295": 1,
-      "352": 1
+      "352": 1,
+      "015": 1
     }
   },
   "jcpandaLive": {
