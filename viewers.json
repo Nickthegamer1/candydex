@@ -1171,9 +1171,9 @@
     }
   },
   "FrostyStreams19": {
-    "bagsOpened": 12,
+    "bagsOpened": 13,
     "bagsByType": {
-      "rare": 3,
+      "rare": 4,
       "common": 8,
       "mystical": 1
     },
@@ -1198,7 +1198,9 @@
       "485": 1,
       "403": 1,
       "325": 1,
-      "461": 1
+      "461": 1,
+      "445": 1,
+      "271": 1
     }
   },
   "pig_gaming330": {
