@@ -91,9 +91,9 @@
     }
   },
   "ItzLeeTV": {
-    "bagsOpened": 43,
+    "bagsOpened": 44,
     "bagsByType": {
-      "common": 33,
+      "common": 34,
       "rare": 7,
       "mystical": 3
     },
@@ -168,7 +168,8 @@
       "193": 1,
       "004": 1,
       "499": 1,
-      "160": 1
+      "160": 1,
+      "386": 1
     }
   },
   "jcpandaLive": {
@@ -200,9 +201,9 @@
     }
   },
   "PrettyMassacre": {
-    "bagsOpened": 8,
+    "bagsOpened": 9,
     "bagsByType": {
-      "rare": 2,
+      "rare": 3,
       "common": 5,
       "mystical": 1
     },
@@ -220,7 +221,10 @@
       "360": 1,
       "031": 1,
       "281": 1,
-      "018": 1
+      "018": 1,
+      "252": 1,
+      "047": 1,
+      "119": 1
     }
   },
   "UnderscorePOPS73": {
