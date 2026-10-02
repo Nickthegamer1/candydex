@@ -1,9 +1,9 @@
 {
   "NolDawgg_": {
-    "bagsOpened": 357,
+    "bagsOpened": 358,
     "bagsByType": {
       "common": 250,
-      "rare": 93,
+      "rare": 94,
       "mystical": 14
     },
     "candies": {
@@ -321,7 +321,9 @@
       "013": 1,
       "191": 1,
       "046": 1,
-      "411": 1
+      "411": 1,
+      "026": 1,
+      "197": 1
     }
   },
   "ItzLeeTV": {
