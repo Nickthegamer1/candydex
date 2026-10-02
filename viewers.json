@@ -145,13 +145,14 @@
     }
   },
   "UnderscorePOPS73": {
-    "bagsOpened": 1,
+    "bagsOpened": 2,
     "bagsByType": {
-      "common": 1
+      "common": 2
     },
     "candies": {
       "492": 1,
-      "185": 1
+      "185": 1,
+      "174": 1
     }
   },
   "sosochrissy": {
