@@ -1431,5 +1431,14 @@
       "055": 1,
       "184": 1
     }
+  },
+  "arinabankz": {
+    "bagsOpened": 1,
+    "bagsByType": {
+      "common": 1
+    },
+    "candies": {
+      "192": 1
+    }
   }
 }
