@@ -1,8 +1,8 @@
 {
   "NolDawgg_": {
-    "bagsOpened": 205,
+    "bagsOpened": 206,
     "bagsByType": {
-      "common": 142,
+      "common": 143,
       "rare": 53,
       "mystical": 10
     },
@@ -166,7 +166,7 @@
       "234": 3,
       "220": 1,
       "416": 2,
-      "018": 2,
+      "018": 3,
       "156": 1,
       "261": 1,
       "051": 2,
@@ -503,10 +503,10 @@
     }
   },
   "PrettyMassacre": {
-    "bagsOpened": 25,
+    "bagsOpened": 26,
     "bagsByType": {
       "rare": 5,
-      "common": 18,
+      "common": 19,
       "mystical": 2
     },
     "candies": {
@@ -552,7 +552,8 @@
       "296": 1,
       "263": 1,
       "143": 1,
-      "445": 1
+      "445": 1,
+      "324": 1
     }
   },
   "UnderscorePOPS73": {
