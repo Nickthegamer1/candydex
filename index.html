@@ -43,6 +43,7 @@
     background-attachment: fixed;
   }
 
+  /* floating spooky decorations */
   .float-deco {
     position: fixed;
     font-size: 26px;
@@ -56,6 +57,7 @@
     50% { transform: translateY(-18px) rotate(6deg); }
   }
 
+  /* ---- Top bar ---- */
   .topbar {
     display: flex;
     align-items: center;
@@ -92,6 +94,7 @@
     font-size: 18px;
   }
 
+  /* ---- Slide-out nav menu (from the left, matches the icon) ---- */
   .nav-overlay {
     position: fixed;
     inset: 0;
@@ -155,6 +158,7 @@
     margin-bottom: 10px;
   }
 
+  /* ---- Hero ---- */
   .hero {
     position: relative;
     text-align: center;
@@ -326,6 +330,7 @@
     padding: 2px 7px;
   }
 
+  /* Leaderboard */
   .lb-wrap {
     max-width: 800px;
     margin: 0 auto;
@@ -486,13 +491,18 @@ function renderGrid(ownedMap) {
 }
 
 function loadViewer(fromClick) {
-  const name = document.getElementById("usernameInput").value.trim().toLowerCase();
+  const typed = document.getElementById("usernameInput").value.trim();
   const stats = document.getElementById("stats");
-  if (!name) return;
+  if (!typed) return;
 
-  try { localStorage.setItem(USERNAME_KEY, name); } catch (e) {}
+  try { localStorage.setItem(USERNAME_KEY, typed); } catch (e) {}
 
-  const data = viewers[name];
+  // Usernames are stored with whatever capitalization Twitch sent, so match
+  // case-insensitively rather than assuming everything is lowercase.
+  const lowerTyped = typed.toLowerCase();
+  const matchKey = Object.keys(viewers).find(k => k.toLowerCase() === lowerTyped);
+  const name = matchKey || typed;
+  const data = matchKey ? viewers[matchKey] : null;
   const owned = data ? data.candies : {};
   const ownedCount = Object.keys(owned).length;
   const bags = data ? data.bagsOpened : 0;
