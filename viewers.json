@@ -1,9 +1,9 @@
 {
   "NolDawgg_": {
-    "bagsOpened": 113,
+    "bagsOpened": 115,
     "bagsByType": {
-      "common": 78,
-      "rare": 29,
+      "common": 79,
+      "rare": 30,
       "mystical": 6
     },
     "candies": {
@@ -175,14 +175,18 @@
       "225": 1,
       "047": 1,
       "301": 1,
-      "240": 1
+      "240": 1,
+      "079": 1,
+      "249": 1,
+      "248": 1,
+      "107": 1
     }
   },
   "ItzLeeTV": {
-    "bagsOpened": 87,
+    "bagsOpened": 88,
     "bagsByType": {
       "common": 59,
-      "rare": 21,
+      "rare": 22,
       "mystical": 7
     },
     "candies": {
@@ -248,7 +252,7 @@
       "252": 1,
       "383": 1,
       "216": 2,
-      "462": 1,
+      "462": 2,
       "203": 2,
       "341": 1,
       "210": 1,
@@ -324,7 +328,9 @@
       "253": 1,
       "346": 1,
       "268": 1,
-      "145": 1
+      "145": 1,
+      "296": 1,
+      "337": 1
     }
   },
   "jcpandaLive": {
@@ -431,10 +437,10 @@
     }
   },
   "SunshineJul": {
-    "bagsOpened": 31,
+    "bagsOpened": 32,
     "bagsByType": {
       "common": 18,
-      "rare": 12,
+      "rare": 13,
       "mystical": 1
     },
     "candies": {
@@ -493,7 +499,10 @@
       "308": 1,
       "417": 1,
       "178": 1,
-      "421": 1
+      "421": 1,
+      "395": 1,
+      "120": 1,
+      "229": 1
     }
   },
   "og_CryptKeeper": {
@@ -512,9 +521,9 @@
     }
   },
   "Malachi954": {
-    "bagsOpened": 2,
+    "bagsOpened": 3,
     "bagsByType": {
-      "common": 1,
+      "common": 2,
       "rare": 1
     },
     "candies": {
@@ -522,7 +531,9 @@
       "241": 1,
       "006": 1,
       "447": 1,
-      "164": 1
+      "164": 1,
+      "092": 1,
+      "365": 1
     }
   },
   "monsterkait": {
