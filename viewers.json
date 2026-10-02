@@ -1339,17 +1339,19 @@
     }
   },
   "HookNSet402": {
-    "bagsOpened": 3,
+    "bagsOpened": 4,
     "bagsByType": {
       "rare": 1,
-      "common": 2
+      "common": 3
     },
     "candies": {
       "285": 1,
       "060": 1,
       "093": 1,
       "308": 1,
-      "250": 1
+      "250": 1,
+      "333": 1,
+      "174": 1
     }
   },
   "3vi1Knight": {
