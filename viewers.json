@@ -1,8 +1,8 @@
 {
   "NolDawgg_": {
-    "bagsOpened": 163,
+    "bagsOpened": 164,
     "bagsByType": {
-      "common": 111,
+      "common": 112,
       "rare": 43,
       "mystical": 9
     },
@@ -93,7 +93,7 @@
       "016": 1,
       "071": 2,
       "356": 1,
-      "266": 1,
+      "266": 2,
       "091": 1,
       "073": 1,
       "303": 1,
@@ -228,9 +228,9 @@
     }
   },
   "ItzLeeTV": {
-    "bagsOpened": 126,
+    "bagsOpened": 127,
     "bagsByType": {
-      "common": 90,
+      "common": 91,
       "rare": 28,
       "mystical": 8
     },
@@ -417,7 +417,8 @@
       "431": 1,
       "353": 1,
       "365": 1,
-      "104": 1
+      "104": 1,
+      "401": 1
     }
   },
   "jcpandaLive": {
@@ -449,10 +450,10 @@
     }
   },
   "PrettyMassacre": {
-    "bagsOpened": 17,
+    "bagsOpened": 18,
     "bagsByType": {
       "rare": 4,
-      "common": 11,
+      "common": 12,
       "mystical": 2
     },
     "candies": {
@@ -487,7 +488,9 @@
       "274": 1,
       "098": 1,
       "342": 1,
-      "134": 1
+      "134": 1,
+      "139": 1,
+      "160": 1
     }
   },
   "UnderscorePOPS73": {
