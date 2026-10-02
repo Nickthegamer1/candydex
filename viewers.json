@@ -1310,9 +1310,9 @@
     }
   },
   "3vi1Knight": {
-    "bagsOpened": 3,
+    "bagsOpened": 4,
     "bagsByType": {
-      "common": 2,
+      "common": 3,
       "mystical": 1
     },
     "candies": {
@@ -1322,7 +1322,8 @@
       "382": 1,
       "085": 1,
       "372": 1,
-      "160": 1
+      "160": 1,
+      "402": 1
     }
   }
 }
