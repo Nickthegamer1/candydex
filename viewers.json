@@ -362,5 +362,14 @@
       "485": 1,
       "431": 1
     }
+  },
+  "og_CryptKeeper": {
+    "bagsOpened": 1,
+    "bagsByType": {
+      "common": 1
+    },
+    "candies": {
+      "147": 1
+    }
   }
 }
