@@ -247,5 +247,15 @@
       "366": 1,
       "033": 1
     }
+  },
+  "SunshineJul": {
+    "bagsOpened": 1,
+    "bagsByType": {
+      "common": 1
+    },
+    "candies": {
+      "092": 1,
+      "185": 1
+    }
   }
 }
