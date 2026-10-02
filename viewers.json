@@ -1132,12 +1132,13 @@
     }
   },
   "RIPster15": {
-    "bagsOpened": 1,
+    "bagsOpened": 2,
     "bagsByType": {
-      "common": 1
+      "common": 2
     },
     "candies": {
-      "294": 1
+      "294": 1,
+      "111": 1
     }
   }
 }
