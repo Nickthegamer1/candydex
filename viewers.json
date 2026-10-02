@@ -1255,9 +1255,9 @@
     }
   },
   "m0nsterk93": {
-    "bagsOpened": 19,
+    "bagsOpened": 20,
     "bagsByType": {
-      "common": 10,
+      "common": 11,
       "rare": 8,
       "mystical": 1
     },
@@ -1297,7 +1297,9 @@
       "095": 1,
       "347": 1,
       "498": 1,
-      "031": 1
+      "031": 1,
+      "307": 1,
+      "082": 1
     }
   },
   "HookNSet402": {
