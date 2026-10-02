@@ -261,9 +261,9 @@
     }
   },
   "ItzLeeTV": {
-    "bagsOpened": 160,
+    "bagsOpened": 161,
     "bagsByType": {
-      "common": 117,
+      "common": 118,
       "rare": 34,
       "mystical": 9
     },
@@ -479,7 +479,8 @@
       "192": 1,
       "222": 1,
       "079": 1,
-      "101": 1
+      "101": 1,
+      "322": 1
     }
   },
   "jcpandaLive": {
@@ -600,9 +601,9 @@
     }
   },
   "SunshineJul": {
-    "bagsOpened": 82,
+    "bagsOpened": 84,
     "bagsByType": {
-      "common": 50,
+      "common": 52,
       "rare": 25,
       "mystical": 7
     },
@@ -742,7 +743,10 @@
       "380": 1,
       "256": 1,
       "004": 1,
-      "335": 1
+      "335": 1,
+      "372": 1,
+      "363": 1,
+      "447": 1
     }
   },
   "og_CryptKeeper": {
