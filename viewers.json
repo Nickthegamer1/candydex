@@ -224,9 +224,9 @@
     }
   },
   "ItzLeeTV": {
-    "bagsOpened": 121,
+    "bagsOpened": 122,
     "bagsByType": {
-      "common": 85,
+      "common": 86,
       "rare": 28,
       "mystical": 8
     },
@@ -408,7 +408,8 @@
       "084": 1,
       "083": 1,
       "344": 1,
-      "041": 1
+      "041": 1,
+      "032": 1
     }
   },
   "jcpandaLive": {
@@ -635,9 +636,9 @@
     }
   },
   "Malachi954": {
-    "bagsOpened": 30,
+    "bagsOpened": 31,
     "bagsByType": {
-      "common": 21,
+      "common": 22,
       "rare": 7,
       "mystical": 2
     },
@@ -691,12 +692,13 @@
       "266": 1,
       "175": 1,
       "472": 1,
-      "108": 1,
+      "108": 2,
       "283": 1,
       "090": 1,
       "341": 1,
       "254": 1,
-      "007": 1
+      "007": 1,
+      "107": 1
     }
   },
   "monsterkait": {
