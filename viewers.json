@@ -1087,5 +1087,14 @@
       "188": 1,
       "421": 1
     }
+  },
+  "pig_gaming330": {
+    "bagsOpened": 1,
+    "bagsByType": {
+      "common": 1
+    },
+    "candies": {
+      "485": 1
+    }
   }
 }
