@@ -1,8 +1,8 @@
 {
   "NolDawgg_": {
-    "bagsOpened": 10,
+    "bagsOpened": 11,
     "bagsByType": {
-      "common": 8,
+      "common": 9,
       "rare": 2
     },
     "candies": {
@@ -13,7 +13,7 @@
       "102": 1,
       "148": 1,
       "401": 1,
-      "219": 1,
+      "219": 2,
       "010": 1,
       "376": 1,
       "497": 1,
@@ -21,13 +21,14 @@
       "468": 1,
       "484": 1,
       "354": 1,
-      "161": 1
+      "161": 1,
+      "277": 1
     }
   },
   "ItzLeeTV": {
-    "bagsOpened": 7,
+    "bagsOpened": 8,
     "bagsByType": {
-      "common": 6,
+      "common": 7,
       "rare": 1
     },
     "candies": {
@@ -40,7 +41,19 @@
       "113": 1,
       "161": 1,
       "232": 1,
-      "170": 1
+      "170": 1,
+      "188": 1
+    }
+  },
+  "jcpandaLive": {
+    "bagsOpened": 1,
+    "bagsByType": {
+      "mystical": 1
+    },
+    "candies": {
+      "448": 1,
+      "360": 1,
+      "060": 1
     }
   }
 }
