@@ -1733,5 +1733,15 @@
       "099": 1,
       "425": 1
     }
+  },
+  "DuffDaddy318": {
+    "bagsOpened": 1,
+    "bagsByType": {
+      "rare": 1
+    },
+    "candies": {
+      "113": 1,
+      "134": 1
+    }
   }
 }
