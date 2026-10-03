@@ -1736,16 +1736,17 @@
     }
   },
   "DuffDaddy318": {
-    "bagsOpened": 3,
+    "bagsOpened": 4,
     "bagsByType": {
       "rare": 1,
-      "common": 2
+      "common": 3
     },
     "candies": {
       "113": 1,
       "134": 1,
       "018": 1,
-      "301": 1
+      "301": 1,
+      "042": 1
     }
   }
 }
