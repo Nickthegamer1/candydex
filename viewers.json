@@ -1560,9 +1560,9 @@
     }
   },
   "Monkeygal92": {
-    "bagsOpened": 12,
+    "bagsOpened": 13,
     "bagsByType": {
-      "common": 10,
+      "common": 11,
       "mystical": 1,
       "rare": 1
     },
@@ -1586,7 +1586,8 @@
       "181": 1,
       "049": 1,
       "253": 1,
-      "307": 1
+      "307": 1,
+      "102": 1
     }
   },
   "livndeadgirltv": {
