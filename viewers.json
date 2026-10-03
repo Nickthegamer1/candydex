@@ -2045,5 +2045,16 @@
       "076": 1,
       "098": 1
     }
+  },
+  "smoking_python_gaming": {
+    "bagsOpened": 1,
+    "bagsByType": {
+      "rare": 1
+    },
+    "candies": {
+      "146": 1,
+      "106": 1,
+      "256": 1
+    }
   }
 }
