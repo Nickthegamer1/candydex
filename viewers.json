@@ -1720,5 +1720,16 @@
       "342": 1,
       "012": 1
     }
+  },
+  "2faced_ferret_ttv": {
+    "bagsOpened": 1,
+    "bagsByType": {
+      "rare": 1
+    },
+    "candies": {
+      "196": 1,
+      "007": 1,
+      "181": 1
+    }
   }
 }
