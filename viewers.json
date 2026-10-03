@@ -1887,5 +1887,15 @@
       "250": 1,
       "287": 1
     }
+  },
+  "kllabtch987": {
+    "bagsOpened": 1,
+    "bagsByType": {
+      "common": 1
+    },
+    "candies": {
+      "238": 1,
+      "442": 1
+    }
   }
 }
