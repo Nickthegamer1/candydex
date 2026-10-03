@@ -1819,5 +1819,14 @@
       "218": 1,
       "400": 1
     }
+  },
+  "TheHumanMass": {
+    "bagsOpened": 1,
+    "bagsByType": {
+      "common": 1
+    },
+    "candies": {
+      "121": 1
+    }
   }
 }
