@@ -1494,9 +1494,9 @@
     }
   },
   "arinabankz": {
-    "bagsOpened": 5,
+    "bagsOpened": 6,
     "bagsByType": {
-      "common": 4,
+      "common": 5,
       "rare": 1
     },
     "candies": {
@@ -1507,7 +1507,9 @@
       "307": 1,
       "471": 1,
       "499": 1,
-      "053": 1
+      "053": 1,
+      "286": 1,
+      "102": 1
     }
   }
 }
