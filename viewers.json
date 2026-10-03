@@ -2028,5 +2028,15 @@
       "161": 1,
       "044": 1
     }
+  },
+  "astrayMeow": {
+    "bagsOpened": 1,
+    "bagsByType": {
+      "rare": 1
+    },
+    "candies": {
+      "076": 1,
+      "098": 1
+    }
   }
 }
