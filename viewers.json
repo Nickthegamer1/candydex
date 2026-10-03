@@ -2018,5 +2018,15 @@
       "238": 1,
       "442": 1
     }
+  },
+  "vmel0ns": {
+    "bagsOpened": 1,
+    "bagsByType": {
+      "common": 1
+    },
+    "candies": {
+      "161": 1,
+      "044": 1
+    }
   }
 }
