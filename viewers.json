@@ -1863,5 +1863,15 @@
     "candies": {
       "121": 1
     }
+  },
+  "KatrinaMoon1": {
+    "bagsOpened": 1,
+    "bagsByType": {
+      "rare": 1
+    },
+    "candies": {
+      "046": 1,
+      "456": 1
+    }
   }
 }
