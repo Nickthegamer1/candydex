@@ -1372,9 +1372,9 @@
     }
   },
   "RIPster15": {
-    "bagsOpened": 24,
+    "bagsOpened": 25,
     "bagsByType": {
-      "common": 16,
+      "common": 17,
       "rare": 7,
       "mystical": 1
     },
@@ -1420,7 +1420,9 @@
       "201": 1,
       "451": 1,
       "095": 1,
-      "140": 1
+      "140": 1,
+      "210": 1,
+      "200": 1
     }
   },
   "m0nsterk93": {
