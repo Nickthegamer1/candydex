@@ -1556,15 +1556,17 @@
     }
   },
   "Monkeygal92": {
-    "bagsOpened": 2,
+    "bagsOpened": 3,
     "bagsByType": {
-      "common": 2
+      "common": 3
     },
     "candies": {
       "063": 1,
       "025": 1,
       "046": 1,
-      "210": 1
+      "210": 1,
+      "192": 1,
+      "354": 1
     }
   }
 }
