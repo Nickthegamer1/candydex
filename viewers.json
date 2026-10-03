@@ -1384,9 +1384,9 @@
     }
   },
   "RIPster15": {
-    "bagsOpened": 37,
+    "bagsOpened": 38,
     "bagsByType": {
-      "common": 23,
+      "common": 24,
       "rare": 12,
       "mystical": 2
     },
@@ -1455,7 +1455,8 @@
       "003": 1,
       "004": 1,
       "164": 1,
-      "438": 1
+      "438": 1,
+      "303": 1
     }
   },
   "m0nsterk93": {
