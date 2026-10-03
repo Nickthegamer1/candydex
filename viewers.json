@@ -1597,13 +1597,16 @@
     }
   },
   "livndeadgirltv": {
-    "bagsOpened": 1,
+    "bagsOpened": 2,
     "bagsByType": {
-      "rare": 1
+      "rare": 1,
+      "common": 1
     },
     "candies": {
       "391": 1,
-      "053": 1
+      "053": 1,
+      "342": 1,
+      "012": 1
     }
   }
 }
