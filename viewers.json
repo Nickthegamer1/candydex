@@ -2374,10 +2374,10 @@
     }
   },
   "jcatt91": {
-    "bagsOpened": 4,
+    "bagsOpened": 5,
     "bagsByType": {
       "rare": 2,
-      "common": 2
+      "common": 3
     },
     "candies": {
       "238": 1,
@@ -2387,7 +2387,8 @@
       "139": 1,
       "184": 1,
       "064": 1,
-      "369": 1
+      "369": 1,
+      "073": 1
     }
   },
   "Mystical_Talon": {
