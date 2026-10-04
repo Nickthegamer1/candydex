@@ -423,9 +423,9 @@
     }
   },
   "ItzLeeTV": {
-    "bagsOpened": 635,
+    "bagsOpened": 636,
     "bagsByType": {
-      "common": 458,
+      "common": 459,
       "rare": 142,
       "mystical": 35
     },
@@ -502,7 +502,7 @@
       "499": 3,
       "160": 5,
       "386": 4,
-      "281": 8,
+      "281": 9,
       "002": 2,
       "031": 8,
       "029": 2,
@@ -1677,9 +1677,9 @@
     }
   },
   "monsterkait": {
-    "bagsOpened": 39,
+    "bagsOpened": 40,
     "bagsByType": {
-      "common": 22,
+      "common": 23,
       "rare": 14,
       "mystical": 3
     },
@@ -1758,7 +1758,8 @@
       "440": 1,
       "330": 1,
       "367": 2,
-      "307": 1
+      "307": 1,
+      "388": 1
     }
   },
   "Sir_Deko": {
