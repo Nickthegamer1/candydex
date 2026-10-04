@@ -1559,10 +1559,10 @@
     }
   },
   "Sir_Deko": {
-    "bagsOpened": 5,
+    "bagsOpened": 6,
     "bagsByType": {
       "mystical": 1,
-      "common": 3,
+      "common": 4,
       "rare": 1
     },
     "candies": {
@@ -1573,7 +1573,7 @@
       "470": 1,
       "079": 1,
       "106": 1,
-      "042": 1,
+      "042": 2,
       "258": 1,
       "217": 1
     }
