@@ -877,10 +877,10 @@
     }
   },
   "PrettyMassacre": {
-    "bagsOpened": 380,
+    "bagsOpened": 381,
     "bagsByType": {
       "rare": 87,
-      "common": 266,
+      "common": 267,
       "mystical": 27
     },
     "candies": {
@@ -1050,7 +1050,7 @@
       "402": 2,
       "141": 1,
       "306": 2,
-      "108": 3,
+      "108": 4,
       "058": 3,
       "456": 2,
       "256": 2,
@@ -2720,13 +2720,16 @@
     }
   },
   "underscorepower": {
-    "bagsOpened": 1,
+    "bagsOpened": 2,
     "bagsByType": {
-      "rare": 1
+      "rare": 1,
+      "common": 1
     },
     "candies": {
       "132": 1,
-      "067": 1
+      "067": 1,
+      "322": 1,
+      "395": 1
     }
   }
 }
