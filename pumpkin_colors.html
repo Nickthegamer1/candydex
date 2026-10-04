@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Pick Your Pumpkin Color</title>
+<link href="https://fonts.googleapis.com/css2?family=Creepster&family=Poppins:wght@500;700;800&display=swap" rel="stylesheet">
+<style>
+  :root { --bg:#0a0514; --panel:#18122c; --border:#3a2d63; --text:#f1eefc; --muted:#a79fc9; }
+  * { box-sizing: border-box; }
+  body {
+    margin:0; min-height:100vh; font-family:'Poppins',sans-serif; color:var(--text);
+    background: radial-gradient(circle at 50% -10%, rgba(124,58,237,0.20), transparent 45%), var(--bg);
+    padding: 30px 16px 60px; text-align:center;
+  }
+  h1 { font-family:'Creepster',cursive; font-size:38px; margin:10px 0 4px;
+    background: linear-gradient(135deg,#ff8c00,#ff5fa2 60%,#ffd700); -webkit-background-clip:text; background-clip:text; color:transparent; }
+  p.sub { color:var(--muted); margin-bottom:26px; }
+  .grid {
+    display:grid; grid-template-columns:repeat(auto-fill, minmax(70px,1fr));
+    gap:8px; max-width:900px; margin:0 auto;
+  }
+  .swatch {
+    aspect-ratio:1; border-radius:10px; display:flex; align-items:center; justify-content:center;
+    font-size:11px; font-weight:800; color:rgba(0,0,0,0.55); border:2px solid rgba(255,255,255,0.08);
+  }
+</style>
+</head>
+<body>
+
+<h1>🎨 Pick Your Pumpkin Color</h1>
+<p class="sub">Thanks for the gifted subs! Type <code>!pumpkincolor &lt;number&gt;</code> in chat with the number under your favorite shade.</p>
+
+<div class="grid" id="grid"></div>
+
+<script>
+const grid = document.getElementById("grid");
+for (let i = 1; i <= 100; i++) {
+  const hue = Math.round((i - 1) * 3.6);
+  const sw = document.createElement("div");
+  sw.className = "swatch";
+  sw.style.background = `hsl(${hue}, 70%, 55%)`;
+  sw.textContent = i;
+  grid.appendChild(sw);
+}
+</script>
+
+</body>
+</html>

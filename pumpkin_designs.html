@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Pick Your Pumpkin</title>
+<link href="https://fonts.googleapis.com/css2?family=Creepster&family=Poppins:wght@500;700;800&display=swap" rel="stylesheet">
+<style>
+  :root { --bg:#0a0514; --panel:#18122c; --border:#3a2d63; --accent:#ff8c00; --text:#f1eefc; --muted:#a79fc9; }
+  * { box-sizing: border-box; }
+  body {
+    margin:0; min-height:100vh; font-family:'Poppins',sans-serif; color:var(--text);
+    background: radial-gradient(circle at 50% -10%, rgba(255,140,0,0.18), transparent 45%), var(--bg);
+    padding: 30px 16px 60px; text-align:center;
+  }
+  h1 { font-family:'Creepster',cursive; font-size:38px; margin:10px 0 4px;
+    background: linear-gradient(135deg,#ff8c00,#ff5fa2 60%,#ffd700); -webkit-background-clip:text; background-clip:text; color:transparent; }
+  p.sub { color:var(--muted); margin-bottom:28px; }
+  .grid {
+    display:grid; grid-template-columns:repeat(auto-fill, minmax(140px,1fr));
+    gap:16px; max-width:900px; margin:0 auto;
+  }
+  .card {
+    background:var(--panel); border:2px solid var(--border); border-radius:16px;
+    padding:18px 10px; cursor:default;
+  }
+  .pumpkin { width:80px; height:80px; border-radius:50%; margin:0 auto 10px; position:relative; }
+  .eye { position:absolute; width:14px; height:14px; background:#1a0f0a; top:28px; }
+  .eye.left { left:18px; } .eye.right { right:18px; }
+  .eye.tri { clip-path: polygon(50% 0%, 0% 100%, 100% 100%); width:16px; height:16px; }
+  .eye.round { border-radius:50%; }
+  .eye.angry { clip-path: polygon(0% 0%, 100% 30%, 100% 100%, 0% 70%); width:18px; height:16px; }
+  .eye.heart { clip-path: polygon(50% 100%, 10% 40%, 10% 10%, 50% 30%, 90% 10%, 90% 40%); width:18px; height:16px; }
+  .mouth { position:absolute; bottom:18px; left:50%; transform:translateX(-50%); background:#1a0f0a; }
+  .mouth.grin { width:44px; height:14px; clip-path: polygon(0% 0%, 100% 0%, 85% 100%, 70% 40%, 50% 100%, 30% 40%, 15% 100%); }
+  .mouth.o { width:18px; height:18px; border-radius:50%; }
+  .mouth.frown { width:40px; height:10px; clip-path: polygon(0% 100%, 100% 100%, 85% 0%, 50% 60%, 15% 0%); }
+  .mouth.fang { width:44px; height:16px; clip-path: polygon(0% 0%, 100% 0%, 100% 40%, 85% 100%, 70% 40%, 50% 100%, 30% 40%, 15% 100%, 0% 40%); }
+  .mouth.zigzag { width:48px; height:12px; clip-path: polygon(0% 100%, 12% 0%, 25% 100%, 37% 0%, 50% 100%, 62% 0%, 75% 100%, 87% 0%, 100% 100%); }
+  .label { font-weight:700; font-size:14px; }
+  .cmd { font-size:12px; color:var(--accent); margin-top:4px; font-family:monospace; }
+</style>
+</head>
+<body>
+
+<h1>🎃 Pick Your Pumpkin</h1>
+<p class="sub">Thanks for subscribing! Type the command under the design you like in chat to plant it in the patch.</p>
+
+<div class="grid" id="grid"></div>
+
+<script>
+const designs = [
+  { id: 1, name: "Classic Grin", eyes: "tri", mouth: "grin" },
+  { id: 2, name: "Spooky Scream", eyes: "round", mouth: "o" },
+  { id: 3, name: "Silly Wink", eyes: "tri", mouth: "grin" },
+  { id: 4, name: "Angry Scowl", eyes: "angry", mouth: "frown" },
+  { id: 5, name: "Surprised", eyes: "round", mouth: "o" },
+  { id: 6, name: "Vampire Fangs", eyes: "tri", mouth: "fang" },
+  { id: 7, name: "Three-Eyed Monster", eyes: "round", mouth: "zigzag" },
+  { id: 8, name: "Heart Eyes", eyes: "heart", mouth: "grin" },
+];
+
+const grid = document.getElementById("grid");
+designs.forEach(d => {
+  const card = document.createElement("div");
+  card.className = "card";
+  const extraEye = d.id === 7 ? `<div class="eye round" style="left:50%; top:20px; transform:translateX(-50%); width:10px; height:10px;"></div>` : "";
+  card.innerHTML = `
+    <div class="pumpkin" style="background:#ff8c00;">
+      <div class="eye ${d.eyes} left"></div>
+      <div class="eye ${d.eyes} right"></div>
+      ${extraEye}
+      <div class="mouth ${d.mouth}"></div>
+    </div>
+    <div class="label">${d.id}. ${d.name}</div>
+    <div class="cmd">!pumpkin ${d.id}</div>
+  `;
+  grid.appendChild(card);
+});
+</script>
+
+</body>
+</html>
