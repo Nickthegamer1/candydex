@@ -2243,5 +2243,15 @@
       "168": 1,
       "490": 1
     }
+  },
+  "Mystical_Talon": {
+    "bagsOpened": 1,
+    "bagsByType": {
+      "common": 1
+    },
+    "candies": {
+      "216": 1,
+      "315": 1
+    }
   }
 }
