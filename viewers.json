@@ -801,10 +801,10 @@
     }
   },
   "PrettyMassacre": {
-    "bagsOpened": 215,
+    "bagsOpened": 216,
     "bagsByType": {
       "rare": 47,
-      "common": 153,
+      "common": 154,
       "mystical": 15
     },
     "candies": {
@@ -997,7 +997,7 @@
       "007": 1,
       "455": 1,
       "250": 1,
-      "254": 5,
+      "254": 6,
       "344": 2,
       "172": 2,
       "247": 2,
