@@ -1448,10 +1448,10 @@
     }
   },
   "Malachi954": {
-    "bagsOpened": 49,
+    "bagsOpened": 50,
     "bagsByType": {
       "common": 36,
-      "rare": 10,
+      "rare": 11,
       "mystical": 3
     },
     "candies": {
@@ -1539,7 +1539,9 @@
       "127": 1,
       "240": 1,
       "337": 1,
-      "163": 1
+      "163": 1,
+      "049": 1,
+      "318": 1
     }
   },
   "monsterkait": {
