@@ -1597,10 +1597,10 @@
     }
   },
   "RIPster15": {
-    "bagsOpened": 44,
+    "bagsOpened": 45,
     "bagsByType": {
       "common": 29,
-      "rare": 12,
+      "rare": 13,
       "mystical": 3
     },
     "candies": {
@@ -1682,7 +1682,9 @@
       "059": 1,
       "262": 1,
       "037": 1,
-      "234": 1
+      "234": 1,
+      "009": 1,
+      "098": 1
     }
   },
   "m0nsterk93": {
