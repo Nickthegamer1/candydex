@@ -78,5 +78,10 @@
     "design": 7,
     "color": null,
     "giant": false
+  },
+  "monsterkait": {
+    "design": 8,
+    "color": null,
+    "giant": false
   }
 }
