@@ -1559,10 +1559,10 @@
     }
   },
   "Sir_Deko": {
-    "bagsOpened": 7,
+    "bagsOpened": 8,
     "bagsByType": {
       "mystical": 1,
-      "common": 4,
+      "common": 5,
       "rare": 2
     },
     "candies": {
@@ -1577,7 +1577,9 @@
       "258": 1,
       "217": 1,
       "207": 1,
-      "346": 1
+      "346": 1,
+      "273": 1,
+      "301": 1
     }
   },
   "FrostyStreams19": {
