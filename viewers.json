@@ -2289,11 +2289,11 @@
     }
   },
   "Monkeygal92": {
-    "bagsOpened": 23,
+    "bagsOpened": 24,
     "bagsByType": {
       "common": 17,
       "mystical": 2,
-      "rare": 4
+      "rare": 5
     },
     "candies": {
       "063": 1,
@@ -2336,7 +2336,10 @@
       "264": 1,
       "062": 1,
       "071": 1,
-      "033": 1
+      "033": 1,
+      "090": 1,
+      "061": 1,
+      "007": 1
     }
   },
   "livndeadgirltv": {
