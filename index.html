@@ -367,6 +367,42 @@
     padding: 40px 20px;
     color: var(--muted);
   }
+
+  /* Pumpkin Patch */
+  #patchGrid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    gap: 16px;
+  }
+  .patch-card {
+    background: var(--panel);
+    border: 2px solid var(--border);
+    border-radius: 16px;
+    padding: 18px 10px 14px;
+    text-align: center;
+  }
+  .patch-card.giant { border-color: var(--legendary); box-shadow: 0 0 16px rgba(255,215,0,0.5); }
+  .patch-pumpkin { width: 72px; height: 72px; border-radius: 50%; margin: 0 auto 10px; position: relative; }
+  .patch-card.giant .patch-pumpkin { width: 92px; height: 92px; }
+  .patch-eye { position: absolute; width: 13px; height: 13px; background: #1a0f0a; top: 24px; }
+  .patch-eye.left { left: 16px; } .patch-eye.right { right: 16px; }
+  .patch-eye.tri { clip-path: polygon(50% 0%, 0% 100%, 100% 100%); width: 15px; height: 15px; }
+  .patch-eye.round { border-radius: 50%; }
+  .patch-eye.angry { clip-path: polygon(0% 0%, 100% 30%, 100% 100%, 0% 70%); width: 17px; height: 15px; }
+  .patch-eye.heart { clip-path: polygon(50% 100%, 10% 40%, 10% 10%, 50% 30%, 90% 10%, 90% 40%); width: 17px; height: 15px; }
+  .patch-mouth { position: absolute; bottom: 16px; left: 50%; transform: translateX(-50%); background: #1a0f0a; }
+  .patch-mouth.grin { width: 40px; height: 13px; clip-path: polygon(0% 0%, 100% 0%, 85% 100%, 70% 40%, 50% 100%, 30% 40%, 15% 100%); }
+  .patch-mouth.o { width: 16px; height: 16px; border-radius: 50%; }
+  .patch-mouth.frown { width: 36px; height: 9px; clip-path: polygon(0% 100%, 100% 100%, 85% 0%, 50% 60%, 15% 0%); }
+  .patch-mouth.fang { width: 40px; height: 15px; clip-path: polygon(0% 0%, 100% 0%, 100% 40%, 85% 100%, 70% 40%, 50% 100%, 30% 40%, 15% 100%, 0% 40%); }
+  .patch-mouth.zigzag { width: 44px; height: 11px; clip-path: polygon(0% 100%, 12% 0%, 25% 100%, 37% 0%, 50% 100%, 62% 0%, 75% 100%, 87% 0%, 100% 100%); }
+  .patch-name { font-weight: 700; font-size: 13px; }
+  .patch-badge {
+    display: inline-block; margin-top: 4px; font-size: 10px; font-weight: 800;
+    text-transform: uppercase; letter-spacing: 0.5px; color: #1a0f0a;
+    background: var(--legendary); border-radius: 999px; padding: 2px 9px;
+  }
+  .patch-empty { text-align: center; padding: 40px 20px; color: var(--muted); grid-column: 1 / -1; }
 </style>
 </head>
 <body>
@@ -388,6 +424,7 @@
   <div class="nav-title">Menu</div>
   <button class="nav-link active" id="navLinkMine">🍬 My Candy</button>
   <button class="nav-link" id="navLinkBoard">🏆 Leaderboard</button>
+  <button class="nav-link" id="navLinkPatch">🎃 Pumpkin Patch</button>
 </div>
 
 <div class="hero">
@@ -421,6 +458,11 @@
       </table>
     </div>
   </section>
+
+  <section id="tabPatch">
+    <div class="stats-line">Every planted pumpkin from a sub or gifted subs this month</div>
+    <div id="patchGrid"></div>
+  </section>
 </main>
 
 <script>
@@ -428,17 +470,33 @@ const BASE = "./";
 const USERNAME_KEY = "candydex_username";
 let candies = [];
 let viewers = {};
+let pumpkins = {};
 let activeRarity = "All";
 const RARITIES = ["All", "Common", "Uncommon", "Rare", "Epic", "Legendary"];
 
+// Must match the design list on pumpkin_designs.html so a saved design
+// number always renders the same face here.
+const PUMPKIN_DESIGNS = {
+  1: { eyes: "tri", mouth: "grin" },
+  2: { eyes: "round", mouth: "o" },
+  3: { eyes: "tri", mouth: "grin" },
+  4: { eyes: "angry", mouth: "frown" },
+  5: { eyes: "round", mouth: "o" },
+  6: { eyes: "tri", mouth: "fang" },
+  7: { eyes: "round", mouth: "zigzag" },
+  8: { eyes: "heart", mouth: "grin" },
+};
+
 async function loadData() {
-  const [candyRes, viewerRes, communityRes] = await Promise.all([
+  const [candyRes, viewerRes, communityRes, pumpkinRes] = await Promise.all([
     fetch(BASE + "candies.json", { cache: "no-store" }),
     fetch(BASE + "viewers.json", { cache: "no-store" }),
-    fetch(BASE + "community.json", { cache: "no-store" }).catch(() => null)
+    fetch(BASE + "community.json", { cache: "no-store" }).catch(() => null),
+    fetch(BASE + "pumpkins.json", { cache: "no-store" }).catch(() => null)
   ]);
   candies = await candyRes.json();
   try { viewers = await viewerRes.json(); } catch (e) { viewers = {}; }
+  try { pumpkins = pumpkinRes ? await pumpkinRes.json() : {}; } catch (e) { pumpkins = {}; }
 
   document.getElementById("statTotalCandies").textContent = candies.length;
   document.getElementById("statLegendary").textContent =
@@ -553,12 +611,48 @@ function renderLeaderboard() {
   });
 }
 
+function renderPatch() {
+  const grid = document.getElementById("patchGrid");
+  grid.innerHTML = "";
+  const names = Object.keys(pumpkins);
+
+  if (names.length === 0) {
+    grid.innerHTML = `<div class="patch-empty">No pumpkins planted yet — sub or gift subs to start the patch!</div>`;
+    return;
+  }
+
+  names.forEach(name => {
+    const p = pumpkins[name];
+    const design = PUMPKIN_DESIGNS[p.design] || PUMPKIN_DESIGNS[1];
+    const color = p.color || "#ff8c00";
+    const card = document.createElement("div");
+    card.className = "patch-card" + (p.giant ? " giant" : "");
+    const extraEye = p.design === 7
+      ? `<div class="patch-eye round" style="left:50%; top:16px; transform:translateX(-50%); width:9px; height:9px;"></div>`
+      : "";
+    card.innerHTML = `
+      <div class="patch-pumpkin" style="background:${color};">
+        <div class="patch-eye ${design.eyes} left"></div>
+        <div class="patch-eye ${design.eyes} right"></div>
+        ${extraEye}
+        <div class="patch-mouth ${design.mouth}"></div>
+      </div>
+      <div class="patch-name">${name}</div>
+      ${p.giant ? `<div class="patch-badge">Giant 🎃</div>` : ""}
+    `;
+    grid.appendChild(card);
+  });
+}
+
 function switchTab(which) {
   document.getElementById("tabMine").classList.toggle("active", which === "mine");
   document.getElementById("tabBoard").classList.toggle("active", which === "board");
+  document.getElementById("tabPatch").classList.toggle("active", which === "patch");
   document.getElementById("navLinkMine").classList.toggle("active", which === "mine");
   document.getElementById("navLinkBoard").classList.toggle("active", which === "board");
+  document.getElementById("navLinkPatch").classList.toggle("active", which === "patch");
   if (which === "board") renderLeaderboard();
+  if (which === "patch") renderPatch();
   closeNav();
 }
 
@@ -579,6 +673,7 @@ document.getElementById("navClose").onclick = closeNav;
 navOverlay.onclick = closeNav;
 document.getElementById("navLinkMine").onclick = () => switchTab("mine");
 document.getElementById("navLinkBoard").onclick = () => switchTab("board");
+document.getElementById("navLinkPatch").onclick = () => switchTab("patch");
 
 (async () => {
   await loadData();
