@@ -2477,13 +2477,14 @@
     }
   },
   "vmel0ns": {
-    "bagsOpened": 1,
+    "bagsOpened": 2,
     "bagsByType": {
-      "common": 1
+      "common": 2
     },
     "candies": {
       "161": 1,
-      "044": 1
+      "044": 1,
+      "410": 1
     }
   },
   "astrayMeow": {
