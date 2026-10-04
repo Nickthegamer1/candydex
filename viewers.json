@@ -2338,5 +2338,15 @@
       "216": 1,
       "315": 1
     }
+  },
+  "ega_batman_2396": {
+    "bagsOpened": 1,
+    "bagsByType": {
+      "common": 1
+    },
+    "candies": {
+      "497": 1,
+      "314": 1
+    }
   }
 }
