@@ -3,5 +3,20 @@
     "design": 1,
     "color": "#DDC33C",
     "giant": false
+  },
+  "SpookyGhost97": {
+    "design": 7,
+    "color": null,
+    "giant": false
+  },
+  "PrettyMassacre": {
+    "design": 6,
+    "color": "#DD3C93",
+    "giant": false
+  },
+  "pinktco": {
+    "design": 1,
+    "color": "#DD3CB9",
+    "giant": false
   }
 }
