@@ -38,5 +38,10 @@
     "design": 1,
     "color": "#96DD3C",
     "giant": false
+  },
+  "ItzLeeTV": {
+    "design": 2,
+    "color": null,
+    "giant": false
   }
 }
