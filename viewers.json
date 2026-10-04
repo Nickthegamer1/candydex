@@ -2154,9 +2154,9 @@
     }
   },
   "SpookyGhost97": {
-    "bagsOpened": 22,
+    "bagsOpened": 23,
     "bagsByType": {
-      "common": 13,
+      "common": 14,
       "rare": 8,
       "mystical": 1
     },
@@ -2202,7 +2202,8 @@
       "023": 1,
       "404": 1,
       "237": 1,
-      "211": 1
+      "211": 1,
+      "345": 1
     }
   }
 }
