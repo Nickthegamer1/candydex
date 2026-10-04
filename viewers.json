@@ -2345,16 +2345,19 @@
     }
   },
   "nicollette1213": {
-    "bagsOpened": 1,
+    "bagsOpened": 2,
     "bagsByType": {
-      "mystical": 1
+      "mystical": 1,
+      "common": 1
     },
     "candies": {
       "278": 1,
       "035": 1,
       "039": 1,
       "199": 1,
-      "001": 1
+      "001": 1,
+      "282": 1,
+      "499": 1
     }
   },
   "SpookyGhost97": {
