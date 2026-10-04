@@ -1556,9 +1556,9 @@
     }
   },
   "monsterkait": {
-    "bagsOpened": 2,
+    "bagsOpened": 3,
     "bagsByType": {
-      "common": 1,
+      "common": 2,
       "rare": 1
     },
     "candies": {
@@ -1566,7 +1566,8 @@
       "087": 1,
       "466": 1,
       "426": 1,
-      "080": 1
+      "080": 1,
+      "384": 1
     }
   },
   "Sir_Deko": {
