@@ -18,5 +18,10 @@
     "design": 1,
     "color": "#DD3CB9",
     "giant": false
+  },
+  "SunshineJul": {
+    "design": 3,
+    "color": null,
+    "giant": false
   }
 }
