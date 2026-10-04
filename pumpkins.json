@@ -33,5 +33,10 @@
     "design": 4,
     "color": null,
     "giant": false
+  },
+  "shunshine_jul": {
+    "design": 1,
+    "color": "#96DD3C",
+    "giant": false
   }
 }
