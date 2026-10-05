@@ -2833,10 +2833,10 @@
     }
   },
   "Bwezzy_": {
-    "bagsOpened": 8,
+    "bagsOpened": 9,
     "bagsByType": {
       "rare": 3,
-      "common": 5
+      "common": 6
     },
     "candies": {
       "385": 1,
@@ -2853,7 +2853,8 @@
       "255": 1,
       "141": 1,
       "094": 1,
-      "397": 1
+      "397": 1,
+      "241": 1
     }
   },
   "pinktco": {
