@@ -2684,10 +2684,10 @@
     }
   },
   "SpookyGhost97": {
-    "bagsOpened": 23,
+    "bagsOpened": 24,
     "bagsByType": {
       "common": 14,
-      "rare": 8,
+      "rare": 9,
       "mystical": 1
     },
     "candies": {
@@ -2733,7 +2733,10 @@
       "404": 1,
       "237": 1,
       "211": 1,
-      "345": 1
+      "345": 1,
+      "279": 1,
+      "424": 1,
+      "105": 1
     }
   },
   "jcatt91": {
