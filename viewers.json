@@ -1334,9 +1334,10 @@
     }
   },
   "LilHoss110": {
-    "bagsOpened": 4,
+    "bagsOpened": 5,
     "bagsByType": {
-      "common": 4
+      "common": 4,
+      "rare": 1
     },
     "candies": {
       "192": 1,
@@ -1345,7 +1346,9 @@
       "071": 1,
       "231": 1,
       "189": 1,
-      "390": 1
+      "390": 1,
+      "467": 1,
+      "025": 1
     }
   },
   "SunshineJul": {
