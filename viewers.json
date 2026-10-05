@@ -1670,9 +1670,9 @@
     }
   },
   "og_CryptKeeper": {
-    "bagsOpened": 6,
+    "bagsOpened": 7,
     "bagsByType": {
-      "common": 4,
+      "common": 5,
       "rare": 2
     },
     "candies": {
@@ -1685,7 +1685,9 @@
       "062": 1,
       "074": 1,
       "042": 1,
-      "051": 1
+      "051": 1,
+      "184": 1,
+      "308": 1
     }
   },
   "Malachi954": {
