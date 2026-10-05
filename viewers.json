@@ -2660,14 +2660,20 @@
     }
   },
   "smoking_python_gaming": {
-    "bagsOpened": 1,
+    "bagsOpened": 2,
     "bagsByType": {
-      "rare": 1
+      "rare": 1,
+      "mystical": 1
     },
     "candies": {
       "146": 1,
       "106": 1,
-      "256": 1
+      "256": 1,
+      "110": 1,
+      "162": 1,
+      "311": 1,
+      "060": 1,
+      "475": 1
     }
   },
   "nicollette1213": {
