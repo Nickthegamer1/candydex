@@ -1294,9 +1294,9 @@
     }
   },
   "UnderscorePOPS73": {
-    "bagsOpened": 7,
+    "bagsOpened": 8,
     "bagsByType": {
-      "common": 5,
+      "common": 6,
       "rare": 2
     },
     "candies": {
@@ -1311,7 +1311,9 @@
       "005": 1,
       "460": 1,
       "201": 1,
-      "428": 1
+      "428": 1,
+      "463": 1,
+      "018": 1
     }
   },
   "sosochrissy": {
