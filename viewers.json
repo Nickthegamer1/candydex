@@ -2923,5 +2923,15 @@
       "433": 1,
       "234": 1
     }
+  },
+  "TioSmalls": {
+    "bagsOpened": 1,
+    "bagsByType": {
+      "common": 1
+    },
+    "candies": {
+      "273": 1,
+      "076": 1
+    }
   }
 }
