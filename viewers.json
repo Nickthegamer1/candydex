@@ -2863,16 +2863,18 @@
     }
   },
   "underscorepower": {
-    "bagsOpened": 2,
+    "bagsOpened": 3,
     "bagsByType": {
       "rare": 1,
-      "common": 1
+      "common": 2
     },
     "candies": {
       "132": 1,
       "067": 1,
       "322": 1,
-      "395": 1
+      "395": 1,
+      "051": 1,
+      "342": 1
     }
   },
   "Bwezzy_": {
