@@ -2370,10 +2370,10 @@
     }
   },
   "arinabankz": {
-    "bagsOpened": 40,
+    "bagsOpened": 41,
     "bagsByType": {
       "common": 30,
-      "rare": 8,
+      "rare": 9,
       "mystical": 2
     },
     "candies": {
@@ -2438,7 +2438,10 @@
       "266": 1,
       "445": 1,
       "113": 1,
-      "002": 1
+      "002": 1,
+      "388": 1,
+      "334": 1,
+      "099": 1
     }
   },
   "Monkeygal92": {
