@@ -2731,9 +2731,9 @@
     }
   },
   "smoking_python_gaming": {
-    "bagsOpened": 3,
+    "bagsOpened": 4,
     "bagsByType": {
-      "rare": 1,
+      "rare": 2,
       "mystical": 1,
       "common": 1
     },
@@ -2746,7 +2746,9 @@
       "311": 1,
       "060": 1,
       "475": 1,
-      "033": 1
+      "033": 1,
+      "147": 1,
+      "034": 1
     }
   },
   "nicollette1213": {
