@@ -1385,9 +1385,9 @@
     }
   },
   "SunshineJul": {
-    "bagsOpened": 390,
+    "bagsOpened": 391,
     "bagsByType": {
-      "common": 271,
+      "common": 272,
       "rare": 95,
       "mystical": 24
     },
@@ -1734,7 +1734,8 @@
       "172": 1,
       "227": 1,
       "341": 1,
-      "191": 1
+      "191": 1,
+      "461": 1
     }
   },
   "og_CryptKeeper": {
