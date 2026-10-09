@@ -2851,10 +2851,10 @@
     }
   },
   "nicollette1213": {
-    "bagsOpened": 14,
+    "bagsOpened": 15,
     "bagsByType": {
       "mystical": 1,
-      "common": 8,
+      "common": 9,
       "rare": 5
     },
     "candies": {
@@ -2890,7 +2890,9 @@
       "147": 1,
       "454": 1,
       "012": 1,
-      "171": 1
+      "171": 1,
+      "025": 1,
+      "188": 1
     }
   },
   "SpookyGhost97": {
