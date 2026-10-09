@@ -3034,5 +3034,15 @@
       "273": 1,
       "076": 1
     }
+  },
+  "Mini_Unseelie": {
+    "bagsOpened": 1,
+    "bagsByType": {
+      "rare": 1
+    },
+    "candies": {
+      "101": 1,
+      "500": 1
+    }
   }
 }
