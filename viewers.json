@@ -897,10 +897,10 @@
     }
   },
   "PrettyMassacre": {
-    "bagsOpened": 694,
+    "bagsOpened": 695,
     "bagsByType": {
       "rare": 152,
-      "common": 498,
+      "common": 499,
       "mystical": 44
     },
     "candies": {
@@ -1317,7 +1317,8 @@
       "370": 1,
       "213": 1,
       "321": 1,
-      "039": 1
+      "039": 1,
+      "374": 1
     }
   },
   "UnderscorePOPS73": {
@@ -1387,9 +1388,9 @@
     }
   },
   "SunshineJul": {
-    "bagsOpened": 428,
+    "bagsOpened": 429,
     "bagsByType": {
-      "common": 301,
+      "common": 302,
       "rare": 103,
       "mystical": 24
     },
@@ -1480,7 +1481,7 @@
       "400": 1,
       "039": 1,
       "404": 2,
-      "391": 3,
+      "391": 4,
       "350": 1,
       "237": 5,
       "413": 3,
