@@ -3266,13 +3266,16 @@
     }
   },
   "Mini_Unseelie": {
-    "bagsOpened": 1,
+    "bagsOpened": 2,
     "bagsByType": {
-      "rare": 1
+      "rare": 1,
+      "common": 1
     },
     "candies": {
       "101": 1,
-      "500": 1
+      "500": 1,
+      "042": 1,
+      "143": 1
     }
   }
 }
