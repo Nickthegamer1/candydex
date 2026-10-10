@@ -3281,13 +3281,17 @@
     }
   },
   "foxslayer360": {
-    "bagsOpened": 1,
+    "bagsOpened": 2,
     "bagsByType": {
-      "common": 1
+      "common": 1,
+      "rare": 1
     },
     "candies": {
       "082": 1,
-      "308": 1
+      "308": 1,
+      "158": 1,
+      "167": 1,
+      "160": 1
     }
   }
 }
