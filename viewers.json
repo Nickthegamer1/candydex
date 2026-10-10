@@ -3279,5 +3279,15 @@
       "042": 1,
       "143": 1
     }
+  },
+  "foxslayer360": {
+    "bagsOpened": 1,
+    "bagsByType": {
+      "common": 1
+    },
+    "candies": {
+      "082": 1,
+      "308": 1
+    }
   }
 }
