@@ -3047,10 +3047,10 @@
     }
   },
   "astrayMeow": {
-    "bagsOpened": 8,
+    "bagsOpened": 9,
     "bagsByType": {
       "rare": 4,
-      "common": 3,
+      "common": 4,
       "mystical": 1
     },
     "candies": {
@@ -3072,7 +3072,9 @@
       "447": 1,
       "283": 1,
       "063": 1,
-      "463": 1
+      "463": 1,
+      "173": 1,
+      "400": 1
     }
   },
   "smoking_python_gaming": {
