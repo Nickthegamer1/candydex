@@ -3448,5 +3448,14 @@
       "446": 1,
       "366": 1
     }
+  },
+  "GrammyGumflapper": {
+    "bagsOpened": 1,
+    "bagsByType": {
+      "common": 1
+    },
+    "candies": {
+      "340": 1
+    }
   }
 }
