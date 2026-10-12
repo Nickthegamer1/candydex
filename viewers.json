@@ -3033,13 +3033,15 @@
     }
   },
   "kllabtch987": {
-    "bagsOpened": 1,
+    "bagsOpened": 2,
     "bagsByType": {
-      "common": 1
+      "common": 2
     },
     "candies": {
       "238": 1,
-      "442": 1
+      "442": 1,
+      "076": 1,
+      "256": 1
     }
   },
   "vmel0ns": {
