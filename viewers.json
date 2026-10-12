@@ -3492,12 +3492,13 @@
     }
   },
   "GrammyGumflapper": {
-    "bagsOpened": 1,
+    "bagsOpened": 2,
     "bagsByType": {
-      "common": 1
+      "common": 2
     },
     "candies": {
-      "340": 1
+      "340": 1,
+      "499": 1
     }
   }
 }
