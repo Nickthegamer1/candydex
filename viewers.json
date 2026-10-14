@@ -3584,5 +3584,15 @@
       "463": 1,
       "119": 1
     }
+  },
+  "shabbyssoannoying": {
+    "bagsOpened": 1,
+    "bagsByType": {
+      "common": 1
+    },
+    "candies": {
+      "426": 1,
+      "111": 1
+    }
   }
 }
