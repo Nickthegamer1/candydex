@@ -2122,10 +2122,10 @@
     }
   },
   "FrostyStreams19": {
-    "bagsOpened": 74,
+    "bagsOpened": 75,
     "bagsByType": {
       "rare": 14,
-      "common": 56,
+      "common": 57,
       "mystical": 4
     },
     "candies": {
@@ -2241,7 +2241,8 @@
       "224": 1,
       "210": 1,
       "108": 1,
-      "192": 1
+      "192": 1,
+      "341": 1
     }
   },
   "pig_gaming330": {
