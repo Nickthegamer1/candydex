@@ -2007,9 +2007,9 @@
     }
   },
   "monsterkait": {
-    "bagsOpened": 40,
+    "bagsOpened": 41,
     "bagsByType": {
-      "common": 23,
+      "common": 24,
       "rare": 14,
       "mystical": 3
     },
@@ -2089,7 +2089,9 @@
       "330": 1,
       "367": 2,
       "307": 1,
-      "388": 1
+      "388": 1,
+      "286": 1,
+      "158": 1
     }
   },
   "Sir_Deko": {
