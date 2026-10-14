@@ -3540,14 +3540,16 @@
     }
   },
   "AStrayMeow": {
-    "bagsOpened": 2,
+    "bagsOpened": 3,
     "bagsByType": {
-      "common": 2
+      "common": 3
     },
     "candies": {
       "254": 1,
       "102": 1,
-      "304": 1
+      "304": 1,
+      "002": 1,
+      "443": 1
     }
   }
 }
