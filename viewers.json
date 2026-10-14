@@ -3538,5 +3538,15 @@
       "340": 1,
       "499": 1
     }
+  },
+  "AStrayMeow": {
+    "bagsOpened": 1,
+    "bagsByType": {
+      "common": 1
+    },
+    "candies": {
+      "254": 1,
+      "102": 1
+    }
   }
 }
