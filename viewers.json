@@ -3666,12 +3666,13 @@
     }
   },
   "AstrayMeow": {
-    "bagsOpened": 1,
+    "bagsOpened": 2,
     "bagsByType": {
-      "common": 1
+      "common": 2
     },
     "candies": {
-      "333": 1
+      "333": 1,
+      "219": 1
     }
   }
 }
