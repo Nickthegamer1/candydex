@@ -3664,5 +3664,14 @@
       "426": 1,
       "111": 1
     }
+  },
+  "AstrayMeow": {
+    "bagsOpened": 1,
+    "bagsByType": {
+      "common": 1
+    },
+    "candies": {
+      "333": 1
+    }
   }
 }
