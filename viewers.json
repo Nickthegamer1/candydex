@@ -3186,14 +3186,16 @@
     }
   },
   "vmel0ns": {
-    "bagsOpened": 2,
+    "bagsOpened": 3,
     "bagsByType": {
-      "common": 2
+      "common": 3
     },
     "candies": {
       "161": 1,
       "044": 1,
-      "410": 1
+      "410": 1,
+      "376": 1,
+      "051": 1
     }
   },
   "astrayMeow": {
