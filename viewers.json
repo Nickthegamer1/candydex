@@ -2707,15 +2707,15 @@
     }
   },
   "arinabankz": {
-    "bagsOpened": 187,
+    "bagsOpened": 188,
     "bagsByType": {
-      "common": 125,
+      "common": 126,
       "rare": 54,
       "mystical": 8
     },
     "candies": {
       "192": 2,
-      "080": 1,
+      "080": 2,
       "254": 3,
       "239": 1,
       "307": 2,
