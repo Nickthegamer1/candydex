@@ -2709,9 +2709,9 @@
     }
   },
   "arinabankz": {
-    "bagsOpened": 216,
+    "bagsOpened": 217,
     "bagsByType": {
-      "common": 145,
+      "common": 146,
       "rare": 62,
       "mystical": 9
     },
@@ -2954,7 +2954,8 @@
       "023": 1,
       "195": 1,
       "354": 1,
-      "317": 1
+      "317": 1,
+      "282": 1
     }
   },
   "Monkeygal92": {
