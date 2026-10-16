@@ -3707,13 +3707,14 @@
     }
   },
   "XxComosxX": {
-    "bagsOpened": 2,
+    "bagsOpened": 3,
     "bagsByType": {
-      "common": 2
+      "common": 3
     },
     "candies": {
       "421": 1,
-      "383": 1
+      "383": 1,
+      "438": 1
     }
   }
 }
