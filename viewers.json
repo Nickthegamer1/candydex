@@ -3640,10 +3640,10 @@
     }
   },
   "miss_lisa__": {
-    "bagsOpened": 4,
+    "bagsOpened": 5,
     "bagsByType": {
       "rare": 2,
-      "common": 2
+      "common": 3
     },
     "candies": {
       "174": 1,
@@ -3652,7 +3652,9 @@
       "499": 1,
       "059": 1,
       "446": 1,
-      "366": 1
+      "366": 1,
+      "224": 1,
+      "468": 1
     }
   },
   "GrammyGumflapper": {
