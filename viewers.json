@@ -3526,10 +3526,10 @@
     }
   },
   "panik_zone": {
-    "bagsOpened": 3,
+    "bagsOpened": 4,
     "bagsByType": {
       "mystical": 2,
-      "common": 1
+      "common": 2
     },
     "candies": {
       "311": 1,
@@ -3541,7 +3541,8 @@
       "409": 1,
       "323": 1,
       "481": 1,
-      "416": 1
+      "416": 1,
+      "366": 1
     }
   },
   "MindWarped222": {
