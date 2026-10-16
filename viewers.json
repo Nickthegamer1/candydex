@@ -3528,13 +3528,16 @@
     }
   },
   "pinktco": {
-    "bagsOpened": 1,
+    "bagsOpened": 2,
     "bagsByType": {
-      "rare": 1
+      "rare": 1,
+      "common": 1
     },
     "candies": {
       "152": 1,
-      "050": 1
+      "050": 1,
+      "304": 1,
+      "281": 1
     }
   },
   "panik_zone": {
