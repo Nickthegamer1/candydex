@@ -3748,5 +3748,15 @@
       "383": 1,
       "438": 1
     }
+  },
+  "kylethekidtv": {
+    "bagsOpened": 1,
+    "bagsByType": {
+      "rare": 1
+    },
+    "candies": {
+      "172": 1,
+      "354": 1
+    }
   }
 }
