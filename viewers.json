@@ -1470,10 +1470,10 @@
     }
   },
   "LilHoss110": {
-    "bagsOpened": 15,
+    "bagsOpened": 16,
     "bagsByType": {
       "common": 12,
-      "rare": 2,
+      "rare": 3,
       "mystical": 1
     },
     "candies": {
@@ -1502,7 +1502,9 @@
       "250": 1,
       "201": 1,
       "115": 1,
-      "345": 1
+      "345": 1,
+      "066": 1,
+      "382": 1
     }
   },
   "SunshineJul": {
