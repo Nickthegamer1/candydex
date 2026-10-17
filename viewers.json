@@ -3703,9 +3703,9 @@
     }
   },
   "shabbyssoannoying": {
-    "bagsOpened": 12,
+    "bagsOpened": 13,
     "bagsByType": {
-      "common": 11,
+      "common": 12,
       "mystical": 1
     },
     "candies": {
@@ -3729,7 +3729,9 @@
       "076": 2,
       "043": 1,
       "101": 1,
-      "155": 1
+      "155": 1,
+      "451": 1,
+      "077": 1
     }
   },
   "AstrayMeow": {
