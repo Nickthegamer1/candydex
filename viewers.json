@@ -3466,9 +3466,9 @@
     }
   },
   "ega_batman_2396": {
-    "bagsOpened": 12,
+    "bagsOpened": 13,
     "bagsByType": {
-      "common": 10,
+      "common": 11,
       "mystical": 1,
       "rare": 1
     },
@@ -3492,7 +3492,9 @@
       "427": 1,
       "354": 1,
       "480": 1,
-      "430": 1
+      "430": 1,
+      "360": 1,
+      "345": 1
     }
   },
   "itsmeisaiah18": {
