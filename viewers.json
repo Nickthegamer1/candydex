@@ -3812,16 +3812,17 @@
     }
   },
   "sandthegamer2": {
-    "bagsOpened": 2,
+    "bagsOpened": 3,
     "bagsByType": {
-      "common": 1,
+      "common": 2,
       "rare": 1
     },
     "candies": {
       "152": 1,
       "136": 1,
       "391": 1,
-      "195": 1
+      "195": 1,
+      "020": 1
     }
   }
 }
