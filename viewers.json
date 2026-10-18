@@ -3453,13 +3453,15 @@
     }
   },
   "ega_batman_2396": {
-    "bagsOpened": 1,
+    "bagsOpened": 2,
     "bagsByType": {
-      "common": 1
+      "common": 2
     },
     "candies": {
       "497": 1,
-      "314": 1
+      "314": 1,
+      "101": 1,
+      "106": 1
     }
   },
   "itsmeisaiah18": {
