@@ -3098,10 +3098,10 @@
     }
   },
   "DuffDaddy318": {
-    "bagsOpened": 46,
+    "bagsOpened": 47,
     "bagsByType": {
       "rare": 12,
-      "common": 33,
+      "common": 34,
       "mystical": 1
     },
     "candies": {
@@ -3182,7 +3182,8 @@
       "053": 1,
       "101": 1,
       "289": 1,
-      "481": 1
+      "481": 1,
+      "058": 1
     }
   },
   "TheHumanMass": {
