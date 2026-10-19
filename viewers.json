@@ -3202,10 +3202,10 @@
     }
   },
   "KatrinaMoon1": {
-    "bagsOpened": 20,
+    "bagsOpened": 21,
     "bagsByType": {
       "rare": 5,
-      "common": 15
+      "common": 16
     },
     "candies": {
       "046": 1,
@@ -3238,7 +3238,8 @@
       "166": 1,
       "405": 1,
       "070": 1,
-      "090": 1
+      "090": 1,
+      "219": 1
     }
   },
   "kllabtch987": {
