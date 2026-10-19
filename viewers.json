@@ -3922,5 +3922,15 @@
       "410": 1,
       "252": 1
     }
+  },
+  "NyanjaF0rce": {
+    "bagsOpened": 1,
+    "bagsByType": {
+      "common": 1
+    },
+    "candies": {
+      "144": 1,
+      "351": 1
+    }
   }
 }
