@@ -3901,14 +3901,16 @@
     }
   },
   "Akani_TV": {
-    "bagsOpened": 1,
+    "bagsOpened": 2,
     "bagsByType": {
-      "rare": 1
+      "rare": 1,
+      "common": 1
     },
     "candies": {
       "463": 1,
       "367": 1,
-      "222": 1
+      "222": 1,
+      "411": 1
     }
   }
 }
