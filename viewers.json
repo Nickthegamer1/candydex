@@ -3650,9 +3650,9 @@
     }
   },
   "Mini_Unseelie": {
-    "bagsOpened": 10,
+    "bagsOpened": 11,
     "bagsByType": {
-      "rare": 3,
+      "rare": 4,
       "common": 6,
       "mystical": 1
     },
@@ -3677,7 +3677,9 @@
       "092": 1,
       "004": 1,
       "363": 1,
-      "043": 1
+      "043": 1,
+      "121": 1,
+      "427": 1
     }
   },
   "foxslayer360": {
