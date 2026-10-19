@@ -3879,13 +3879,16 @@
     }
   },
   "MstrLucas": {
-    "bagsOpened": 1,
+    "bagsOpened": 2,
     "bagsByType": {
-      "common": 1
+      "common": 1,
+      "rare": 1
     },
     "candies": {
       "097": 1,
-      "243": 1
+      "243": 1,
+      "249": 1,
+      "092": 1
     }
   }
 }
