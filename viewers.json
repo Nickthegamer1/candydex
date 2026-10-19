@@ -3938,5 +3938,14 @@
       "144": 1,
       "351": 1
     }
+  },
+  "RUDiiMUS": {
+    "bagsOpened": 1,
+    "bagsByType": {
+      "common": 1
+    },
+    "candies": {
+      "413": 1
+    }
   }
 }
