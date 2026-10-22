@@ -12,7 +12,7 @@
   "PrettyMassacre": {
     "design": 6,
     "color": "#DD3C93",
-    "giant": false
+    "giant": true
   },
   "pinktco": {
     "design": 1,
