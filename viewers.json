@@ -3986,5 +3986,15 @@
     "candies": {
       "413": 1
     }
+  },
+  "Mouse6371": {
+    "bagsOpened": 1,
+    "bagsByType": {
+      "common": 1
+    },
+    "candies": {
+      "484": 1,
+      "071": 1
+    }
   }
 }
