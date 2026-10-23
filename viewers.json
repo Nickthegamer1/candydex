@@ -4015,5 +4015,14 @@
       "484": 1,
       "071": 1
     }
+  },
+  "Miss_Giggles01": {
+    "bagsOpened": 1,
+    "bagsByType": {
+      "common": 1
+    },
+    "candies": {
+      "235": 1
+    }
   }
 }
