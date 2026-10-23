@@ -4050,9 +4050,9 @@
     }
   },
   "Miss_Giggles01": {
-    "bagsOpened": 8,
+    "bagsOpened": 9,
     "bagsByType": {
-      "common": 7,
+      "common": 8,
       "mystical": 1
     },
     "candies": {
@@ -4067,7 +4067,9 @@
       "004": 1,
       "138": 1,
       "020": 1,
-      "111": 1
+      "111": 1,
+      "367": 1,
+      "181": 1
     }
   }
 }
