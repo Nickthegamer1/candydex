@@ -3839,9 +3839,9 @@
     }
   },
   "shabbyssoannoying": {
-    "bagsOpened": 32,
+    "bagsOpened": 33,
     "bagsByType": {
-      "common": 22,
+      "common": 23,
       "mystical": 3,
       "rare": 7
     },
@@ -3906,7 +3906,8 @@
       "485": 1,
       "216": 1,
       "025": 1,
-      "022": 1
+      "022": 1,
+      "365": 1
     }
   },
   "AstrayMeow": {
