@@ -877,10 +877,10 @@
     }
   },
   "jcpandaLive": {
-    "bagsOpened": 28,
+    "bagsOpened": 29,
     "bagsByType": {
       "mystical": 3,
-      "common": 18,
+      "common": 19,
       "rare": 7
     },
     "candies": {
@@ -937,7 +937,8 @@
       "189": 1,
       "260": 1,
       "038": 1,
-      "072": 1
+      "072": 1,
+      "112": 1
     }
   },
   "PrettyMassacre": {
