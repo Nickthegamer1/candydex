@@ -4049,15 +4049,17 @@
     }
   },
   "Mouse6371": {
-    "bagsOpened": 2,
+    "bagsOpened": 3,
     "bagsByType": {
-      "common": 2
+      "common": 3
     },
     "candies": {
       "484": 1,
       "071": 1,
       "142": 1,
-      "434": 1
+      "434": 1,
+      "033": 1,
+      "334": 1
     }
   },
   "Miss_Giggles01": {
