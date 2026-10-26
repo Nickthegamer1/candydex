@@ -4073,9 +4073,9 @@
     }
   },
   "Miss_Giggles01": {
-    "bagsOpened": 50,
+    "bagsOpened": 51,
     "bagsByType": {
-      "common": 36,
+      "common": 37,
       "mystical": 4,
       "rare": 10
     },
@@ -4168,7 +4168,9 @@
       "074": 1,
       "113": 1,
       "247": 1,
-      "054": 1
+      "054": 1,
+      "139": 1,
+      "355": 1
     }
   },
   "Koneko_Button": {
