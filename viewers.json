@@ -4072,11 +4072,11 @@
     }
   },
   "Miss_Giggles01": {
-    "bagsOpened": 47,
+    "bagsOpened": 48,
     "bagsByType": {
       "common": 36,
       "mystical": 3,
-      "rare": 8
+      "rare": 9
     },
     "candies": {
       "235": 1,
@@ -4158,7 +4158,10 @@
       "373": 1,
       "485": 1,
       "051": 1,
-      "015": 1
+      "015": 1,
+      "164": 1,
+      "479": 1,
+      "180": 1
     }
   },
   "Koneko_Button": {
