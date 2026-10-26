@@ -4175,5 +4175,15 @@
       "451": 1,
       "141": 1
     }
+  },
+  "swagger_number1": {
+    "bagsOpened": 1,
+    "bagsByType": {
+      "common": 1
+    },
+    "candies": {
+      "254": 1,
+      "388": 1
+    }
   }
 }
