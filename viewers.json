@@ -4180,9 +4180,9 @@
     }
   },
   "swagger_number1": {
-    "bagsOpened": 3,
+    "bagsOpened": 4,
     "bagsByType": {
-      "common": 3
+      "common": 4
     },
     "candies": {
       "254": 1,
@@ -4190,7 +4190,8 @@
       "383": 1,
       "451": 1,
       "018": 1,
-      "058": 1
+      "058": 1,
+      "101": 1
     }
   }
 }
