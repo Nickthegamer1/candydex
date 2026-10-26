@@ -4150,15 +4150,17 @@
     }
   },
   "Koneko_Button": {
-    "bagsOpened": 2,
+    "bagsOpened": 3,
     "bagsByType": {
-      "common": 2
+      "common": 3
     },
     "candies": {
       "256": 1,
       "485": 1,
       "055": 1,
-      "388": 1
+      "388": 1,
+      "380": 1,
+      "451": 1
     }
   }
 }
