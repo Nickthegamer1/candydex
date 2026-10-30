@@ -3558,9 +3558,9 @@
     }
   },
   "Mystical_Talon": {
-    "bagsOpened": 9,
+    "bagsOpened": 10,
     "bagsByType": {
-      "common": 7,
+      "common": 8,
       "rare": 2
     },
     "candies": {
@@ -3580,7 +3580,9 @@
       "344": 1,
       "417": 1,
       "042": 1,
-      "137": 1
+      "137": 1,
+      "037": 1,
+      "147": 1
     }
   },
   "ega_batman_2396": {
