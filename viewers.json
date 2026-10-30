@@ -3732,10 +3732,10 @@
     }
   },
   "MindWarped222": {
-    "bagsOpened": 4,
+    "bagsOpened": 5,
     "bagsByType": {
       "rare": 1,
-      "common": 3
+      "common": 4
     },
     "candies": {
       "433": 1,
@@ -3743,7 +3743,8 @@
       "373": 1,
       "121": 1,
       "235": 1,
-      "264": 1
+      "264": 1,
+      "251": 1
     }
   },
   "TioSmalls": {
