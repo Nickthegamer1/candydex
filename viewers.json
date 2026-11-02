@@ -4038,10 +4038,10 @@
     }
   },
   "Akani_TV": {
-    "bagsOpened": 9,
+    "bagsOpened": 10,
     "bagsByType": {
       "rare": 4,
-      "common": 5
+      "common": 6
     },
     "candies": {
       "463": 1,
@@ -4057,7 +4057,9 @@
       "252": 1,
       "366": 1,
       "466": 1,
-      "407": 1
+      "407": 1,
+      "397": 1,
+      "250": 1
     }
   },
   "NyanjaF0rce": {
